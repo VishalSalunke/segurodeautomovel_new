@@ -1,0 +1,244 @@
+---
+title: Contato
+date: 2013-04-23 08:25:58 Z
+permalink: "/contato"
+layout: default
+type: page
+parent_id: '0'
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _wp_page_template: default
+  _plugin_load_filter: a:3:{s:6:"filter";s:7:"include";s:7:"desktop";s:133:"contact-form-7/wp-contact-form-7.php,cf7-conditional-fields/contact-form-7-conditional-fields.php,si-contact-form/si-contact-form.php";s:6:"mobile";s:133:"contact-form-7/wp-contact-form-7.php,cf7-conditional-fields/contact-form-7-conditional-fields.php,si-contact-form/si-contact-form.php";}
+  ampforwp-amp-on-off: default
+  _edit_last: '11'
+  hefo_before: '0'
+  hefo_after: '0'
+  _bsf_post_type: '0'
+  _yoast_wpseo_content_score: '60'
+  _thumbnail_id: '3268'
+  _the_champ_meta: a:5:{s:7:"sharing";i:0;s:16:"vertical_sharing";i:0;s:7:"counter";i:0;s:16:"vertical_counter";i:0;s:11:"fb_comments";i:0;}
+author:
+  login: SimonAdmin
+  email: simon@vemm.com.br
+  display_name: SimonAdmin
+  first_name: ''
+  last_name: ''
+---
+
+<style>
+#inline_{<br />
+        display:inline;<br />
+}<br />
+.entrada{<br />
+	background-color:white;<br />
+	border-radius:3px;<br />
+	margin-buttom: 1.5em;<br />
+	border:0;<br />
+}<br />
+.entrada header{<br />
+	border-buttom: 0px solid #38b9a6;<br />
+	margin:1.5em;<br />
+}<br />
+.page-title{<br />
+	color: #38b9a6;<br />
+	font-weight: 300;<br />
+}<br />
+.wpcf7-form-control-wrap{<br />
+	position: relative;<br />
+}<br />
+.contato2 .wpcf7-select{<br />
+	border: 3px solid #38b9a6;<br />
+	width: 80%;<br />
+	margin-left: 55px;<br />
+}<br />
+#content{<br />
+	margin-top:1.5em;<br />
+}<br />
+.wrap{<br />
+	width: 96%;<br />
+	margin: 0 auto;<br />
+}<br />
+.contato2 {<br />
+width:500px;<br />
+height:auto;<br />
+margin-left:120px;<br />
+margin-bottom:50px;<br />
+background-color:rgba(255, 136, 49, 0.9);<br />
+-moz-box-sizing: border-box;<br />
+-webkit-box-sizing: border-box;<br />
+box-sizing: border-box;<br />
+padding: 30px;<br />
+border-radius:20px;<br />
+color: white;<br />
+font-weight: bold;<br />
+}<br />
+.contato2 h3 {<br />
+    color: white;<br />
+    font-size: 31px;<br />
+    text-align: center;<br />
+    font-weight: bold;<br />
+    margin-top: 0;<br />
+}<br />
+.contato2  {<br />
+    color: white;<br />
+    font-weight: bold;<br />
+}<br />
+.contato2 .wpcf7-select {<br />
+    border: 3px solid #38b9a6;<br />
+    width: 80%;<br />
+    margin-left: 55px;<br />
+}<br />
+.contato2 .wpcf7-text {<br />
+    border: 3px solid #38b9a6;<br />
+}<br />
+.contato2 .wpcf7-email {<br />
+    border: 3px solid #38b9a6;<br />
+}<br />
+.contato2 .wpcf7-textarea {<br />
+    border: 3px solid #38b9a6;<br />
+}<br />
+.contato2 input[type="reset"], .contato2 input[type="submit"] {<br />
+    width: 160px;<br />
+    font-size: 25px;<br />
+    margin-left: 140px;<br />
+}<br />
+input[type="submit"]{<br />
+	background-color: #38b9a6;<br />
+	border: 0;<br />
+	color: white;<br />
+	border-radius:20px;<br />
+	text-transform: uppercase;<br />
+	font-weight: bold;<br />
+	font-family: "Raleway", sans-serif;<br />
+}<br />
+.button input[type="submit"] {<br />
+    -webkit-appearance: button;<br />
+    cursor: pointer;<br />
+}<br />
+.contato2 img {<br />
+    heigth: auto;<br />
+    width: 40px;<br />
+    float: left;<br />
+}<br />
+.show {display:block;}<br />
+#answer1 { display:none;}<br />
+#answer2 { display:none;}<br />
+#answer3 { display:none;}<br />
+#answer4 { display:none;}<br />
+#answer5 { display:none;}<br />
+#answer6 { display:none;}<br />
+#answer7 { display:none;}<br />
+</style>
+<p><script type="text/javascript"><br />
+function showDiv(elem){<br />
+   if(elem.value == 1) {<br />
+      document.getElementById('answer1').style.display = "block";<br />
+      document.getElementById('answer2').style.display = "none";<br />
+      document.getElementById('answer3').style.display = "none";<br />
+      document.getElementById('answer4').style.display = "none";<br />
+      document.getElementById('answer5').style.display = "none";<br />
+      document.getElementById('answer6').style.display = "none";<br />
+      document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 2) {<br />
+      document.getElementById('answer2').style.display = "block";<br />
+      document.getElementById('answer1').style.display = "none";<br />
+      document.getElementById('answer3').style.display = "none";<br />
+      document.getElementById('answer4').style.display = "none";<br />
+      document.getElementById('answer5').style.display = "none";<br />
+      document.getElementById('answer6').style.display = "none";<br />
+      document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 3) {<br />
+       document.getElementById('answer3').style.display = "block";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer4').style.display = "none";<br />
+       document.getElementById('answer5').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "none";<br />
+       document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 4) {<br />
+       document.getElementById('answer4').style.display = "block";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer3').style.display = "none";<br />
+       document.getElementById('answer5').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "none";<br />
+       document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 5) {<br />
+       document.getElementById('answer5').style.display = "block";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer3').style.display = "none";<br />
+       document.getElementById('answer4').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "none";<br />
+       document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 6) {<br />
+       document.getElementById('answer5').style.display = "none";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer3').style.display = "none";<br />
+       document.getElementById('answer4').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "block";<br />
+       document.getElementById('answer7').style.display = "none";<br />
+   } else if(elem.value == 7) {<br />
+       document.getElementById('answer5').style.display = "none";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer3').style.display = "none";<br />
+       document.getElementById('answer4').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "none";<br />
+       document.getElementById('answer7').style.display = "block";<br />
+   }else if(elem.value == 0) {<br />
+       document.getElementById('answer5').style.display = "none";<br />
+       document.getElementById('answer2').style.display = "none";<br />
+       document.getElementById('answer1').style.display = "none";<br />
+       document.getElementById('answer3').style.display = "none";<br />
+       document.getElementById('answer4').style.display = "none";<br />
+       document.getElementById('answer6').style.display = "none";<br />
+       document.getElementById('answer7').style.display = "none";<br />
+   }<br />
+}<br />
+</script></p>
+<div class="contato2">
+<h3>Qual solicitação você<br /> gostaria de fazer?</h3>
+<p id="inline_"> <img src="{{ site.baseurl }}/assets/001-question.png" /></p>
+<select name="menu-134" id="leave" class=" wpcf7-select " onchange="showDiv(this)">
+<option value="0">---</option>
+<option value="1">Quero fazer uma cotação</option>
+<option value="2">Estou em busca de parceria comercial/Desejo adquirir leads.</option>
+<option value="3">Gostaria de oferecer um produto ou serviço</option>
+<option value="4">Sou leitor/jornalista e tenho uma sugestão de pauta para o site.</option>
+<option value="5">Sou cliente de uma corretora/seguradora.</option>
+<option value="6">Não consegui preencher o formulário.</option>
+<option value="7">Outros Assuntos</option>
+</select>
+<div id="answer1">
+<p><i>Gostaria de fazer a cotação de um seguro ou de um outro serviço.</i></p>
+<p>Para fazer a pesquisa, utilize o formulário de cotação no topo da página ou acesse diretamente este link: <a href="https://melhor.segurodeautomovel.org/">Clique aqui. </a> Não realizamos cotações via telefone ou WhatsApp. Nosso serviço é exclusivamente online, através do formulário de cotação.</p>
+</p></div>
+<div id="answer2" class="">
+<p>Gostaria de entrar em contato com sua empresa, pois sou representante de uma corretora/seguradora,  empresa de mídia digital ou outros serviços relacionados a geração de leads.</p>
+<p>               [si-contact-form form='4']
+       </p></div>
+<div id="answer3" class="">
+<p>Por favor, preencha o formulário abaixo e entraremos em contato o mais breve possível:</p>
+<p>               [si-contact-form form='1']
+       </p></div>
+<div id="answer4" class="">
+             [si-contact-form form='2']
+       </div>
+<div id="answer5">
+<p><i>Gostaria de falar com minha seguradora/corretora sobre meu seguro.</i></p>
+<p>Desculpe, mas não podemos ajudá-lo. Em nosso site somente enviamos as solicitações de cotação. Caso já possua um seguro, por favor, entre em contato com a sua seguradora através do site oficial dela. Se você não está satisfeito com sua seguradora, faça uma cotação e opte por outra.</p>
+<p>		<a href="https://melhor.segurodeautomovel.org">Clique aqui para cotar.</a>
+	</div>
+<div id="answer6" class="">
+<p>Caso não tenha recebido um contato até 48hs após o preenchimento do formulário provavelmente não possuímos parcerias atuando em sua região e, infelizmente, não temos a possibilidade de enviar uma proposta. Se você não conseguiu preencher o formulário porque ele apresenta erros, por favor, preencha os campos abaixo.</p>
+<p>	       [si-contact-form form='3']
+	</p></div>
+<div id="answer7">
+               [si-contact-form form='1']
+       </div>
+</div>

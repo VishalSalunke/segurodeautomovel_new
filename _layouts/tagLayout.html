@@ -1,0 +1,98 @@
+---
+class: home page-template page-template-template_frontpage page-template-template_frontpage-php
+  page page-id-150 logged-in mega-menu-header-menu seguro-auto-cotacao-de-seguro-carro-online
+---
+
+{% include header.html %}
+
+{% include quoteBox.html %}
+
+<div class="titulo-verde">
+   <h1>{{page.postType}}</h1>
+   <div class="wrapper">
+      <div class="taxonomy-description">
+         <p>{{page.title1}}</p>
+      </div>
+   </div>
+</div>
+<div class="wrapper categoria">
+   <main role="main">
+      <!-- section -->
+     
+     
+      <div class="loop-cat">
+         <h2 class="subtitulo-home">
+            Todos os artigos
+         </h2>
+         {% assign allRecentPosts = paginator.posts  %}
+         {% for Recentpost in allRecentPosts  %}
+         <div class="artigos">
+            <!-- article -->
+            <article id="post-{{Recentpost.id}}" class="post-275 post type-post status-publish format-standard has-post-thumbnail category-blog">
+               <!-- post title -->
+               <h3>
+                  <a href="{{Recentpost.url}}" title="{{Recentpost.title}}">{{Recentpost.title }} </a>
+               </h3>
+               <!-- /post title -->
+               <!-- post details -->
+               <span class="date">{{ Recentpost.date | date: '%B %d, %Y' }} </span>
+               <span class="author">{{Recentpost.author}} </span>
+               <!-- /post details -->
+                 {% if Recentpost.thumbnail_80x80  %} 
+
+               <div class="default-image">
+                  <a href="{{Recentpost.url}}" title="{{Recentpost.title}}">
+                  <img src="{{Recentpost.thumbnail_80x80}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="{{Recentpost.thumbnail_80x80}} 80w,{{Recentpost.thumbnail_150x150}} 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
+               </div>
+
+               {% else %}
+                  <div class="default-image">
+                  <a href="{{Recentpost.url}}" title="{{Recentpost.title}}">
+                  <img src="/uploads/thumbnail/{{Recentpost.image_file_name}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="/uploads/thumbnail/{{Recentpost.image_file_name}} 80w,/uploads/large/{{Recentpost.image_file_name}} 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
+               </div>
+
+               {% endif %}
+               <p>{{ Recentpost.content | strip_html | truncatewords: 50}}<a class="view-article" href="{{Recentpost.url}}">Ver artigo</a></p>
+            </article>
+            <a href="{{Recentpost.url}}" class="readmore" title="{{Recentpost.title}}">Ler Artigo</a>
+            <!-- /article -->
+         </div>
+         {% endfor %}
+      </div>
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+         <ul class="pager">
+            {% if paginator.previous_page %}
+            <li class="previous">
+               <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; anterior</a>
+            </li>
+            {% endif %}
+            {% if paginator.next_page %}
+            <li class="next">
+               <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próximo &rarr;</a>
+            </li>
+            {% endif %}
+         </ul>
+      </div>
+      {% endif %}
+   </main>
+   <!-- Start Template Part: Home/Content Logos -->
+   <div class="logos">
+      <p>Trabalhamos com as melhores seguradoras</p>
+      <a href="/sulamerica" title="Sulamerica"><img src="/wp-content/themes/segurodeautomovel-html5/img/sulamerica.png" alt="Sulamérica Seguros" class="" title="Sulamérica"></a>
+      <a href="/5-empresas-de-seguro-de-carro-mais-confiaveis" title="Confiaveis"><img src="/wp-content/themes/segurodeautomovel-html5/img/mitsui-seguros.jpg" alt="Mitsui Seguradora" class="" title="Mitsui Seguradora"></a>
+      <a href="/maritima-seguros-auto" title="Maritima">
+         <img src="/wp-content/themes/segurodeautomovel-html5/img/maritima.png" alt="Marítima Seguros" class="" title="Marítima Seguros"></a>
+   </div>
+   <!-- End Template Part: Home/Content Logos -->
+   <!-- Start Template Part: Home/Content Logos -->
+   <div class="banner-recall">
+   <img src="/wp-content/themes/segurodeautomovel-html5/img/corretor1.png" alt="Corretor" class="" title="Corretor de seguros">
+   <div class="frase-recall">
+   FAÇA AGORA A COTAÇÃO DO SEGURO DO SEU CARRO!
+   <a href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow"></a>
+   <div class="large button vemm-event-go-to-form">Cotar</div></a>
+   </div>
+   </div><!-- End Template Part: Home/Content Logos -->
+</div>
+{% include footer.html %}

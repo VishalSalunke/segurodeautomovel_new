@@ -1,0 +1,1236 @@
+/*
+	Theme Name: Seguro de Automóvel
+	Theme URI: http://www.segurodeautomovel.org
+	Description: Tema para Segurodeautomovel.org
+	Version: 1.4.3
+	Author: Rodrigo Conceicao	
+	Author URI: http://visualworker.net
+	Tags: seguro auto
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700,700i&subset=latin-ext');
+
+/* global box-sizing */
+*,
+*:after,
+*:before {
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	-webkit-font-smoothing:antialiased;
+	font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+/* html element 62.5% font-size for REM use */
+html {
+	font-size:100%;
+}
+body {
+	font-family: 'Ubuntu', sans-serif;
+	color:#444;
+}
+/* clear */
+.clear:before,
+.clear:after {
+    content:' ';
+    display:table;
+}
+
+.clear:after {
+    clear:both;
+}
+.clear {
+    *zoom:1;
+}
+img {
+	max-width:100%;
+	vertical-align:bottom;
+	height:auto;
+}
+a {
+	color: #366c73;
+	text-decoration:none;
+}
+a:hover {
+	color:#444;
+}
+a:focus {
+	outline:0;
+}
+a:hover,
+a:active {
+	outline:0;
+}
+input:focus {
+	outline:0;
+	border:1px solid #04A4CC;
+}
+
+p {
+	margin:10px 0;	
+}
+
+/*------------------------------------*\
+    STRUCTURE
+\*------------------------------------*/
+
+/* wrapper */
+.wrapper {
+	max-width:1280px;
+	width:95%;
+	margin:0 auto;
+	position:relative;
+}
+/* header */
+.header {
+    min-height: 110px;
+}
+/* logo */
+.logo {
+   	float: left;
+	width: 30%;
+	max-width:130px;
+	margin-right: 10px;
+}
+.logo-img {
+
+}
+.slogan {
+	float: left;
+	width: 60%;
+	font-size:22px;
+	text-transform: uppercase;
+	font-weight:700;
+	margin: 15px 0px 15px 0;	
+}
+.social-media {
+	display:none;	
+}
+.busca {
+	float:left;
+	margin-bottom: 10px;	
+}
+input[type="search"] {
+    border: 2px solid #5ebdc9;
+	height:35px;
+	border-bottom: 5px solid #5ebdc9;
+	box-sizing:border-box;
+	width: 185px;
+}
+.search-submit {
+	    height: 35px;
+    background: #366c73;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+	    
+}
+.fazer-cotacao { display:none;}
+/* nav */
+.mega-menu-wrap{
+	width:100%;
+	max-width:1280px !important;
+	margin:0 auto !important;
+}
+.nav {
+	width:100%;
+	background: #5ebdc9;
+}
+/* sidebar */
+.sidebar {
+	float: left;
+    width: 300px;
+    margin: 20px -15px 20px 25px;
+	display:none;
+}
+/* footer */
+.footer {
+	background-color:#366c73;
+padding: 20px;
+    color: white;
+	    clear: both;
+}
+
+.footer .wrapper {
+	max-width:700px !important;
+}
+
+.footer img {
+	float:left;
+	margin:10px;
+	display:none;	
+}
+
+.footer .menu {	
+display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+	font-weight: 700;
+    text-transform: uppercase;
+}
+.footer .menu-item {
+	list-style:none;
+	color:white;
+	display:inline-block;	
+}
+.footer .menu-item a{
+	color:white;	
+}
+.copyright {
+	font-size:10px;
+	text-align:justify;
+	margin-top:10px;
+}
+.copyright li {
+	list-style: none;	
+}
+/*------------------------------------*\
+  HOME
+\*------------------------------------*/
+
+.banner-home {
+	background-image:url(/wp-content/themes/segurodeautomovel-html5/img/back4.png);
+	MIN-height:310px;
+	height:auto;
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+.banner-home .calltoaction-frase {
+	font-size: 20px;
+    max-width: 350px;
+    color: #09344f;
+    text-transform: uppercase;
+    font-weight: 700;
+	float:left;
+	margin-top: 25px;
+	min-height:100px;
+	height:auto;
+	margin-left: 20px;
+}
+.banner-home .carro-seguro {
+	float:left;
+	margin-top: -30px;
+    margin-left: -55px;
+	 display:none; 
+	
+}
+.banner-home .pergunta {
+	color: #09344f;
+	clear: both;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 8px 0;
+    background-color: white;
+    
+    float: left;	
+}
+.form-question {
+	width:auto;
+	margin:0 auto;	
+}
+.banner-home .seta-cotacao {
+	float:left;
+	width: 60px;
+	height: 110px;
+	    margin: -15px 0px 0 -15px;	
+		 display:none; 
+}
+.banner-home form {
+	float:left;
+	    width: 290px;
+		margin-left:10px;
+}
+.form-question  select {
+	-webkit-appearance: none;
+   -moz-appearance:none;
+   appearance:none;
+   width: 290px;
+    height: 50px;
+	background-color: transparent;
+    margin-top: 10px;
+    border-radius: 0;
+    padding: 10px;
+    border: 3px solid #fff;
+    font-size: 18px;
+	background-image:url(/wp-content/themes/segurodeautomovel-html5/img/selecione-seta.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+
+}
+
+.form-question .button {
+width: 290px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #fe9b00;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 28px;	
+}
+
+.marcas-banner {
+	display:none;
+}
+.marcas-banner img {
+	display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.corretor-banner {
+	display:none;	
+}
+.logos {
+	text-align: center;
+	min-height:50px;
+	    margin: 30px 0;
+	    clear:both;
+}
+.logos p {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;	
+	color:#366c73;
+}
+
+.logos img {
+	height:auto;
+}
+.logos img:hover {
+	-moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
+}
+.shortcuts {
+	max-width:960px;
+	margin:25px auto;
+	min-height: 90px;	
+}
+.shortcuts .atalho {
+	width: 90%;
+	background-color:#5ebdc9;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 10px auto;
+}
+.shortcuts .atalho:hover {
+	-moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
+}
+
+.titulo-verde {
+	width:100%;
+	font-size:18px;
+	font-weight:700;
+	text-transform:uppercase;
+	color:white;
+	background-color:#366c73;
+	padding:10px 10px;
+	text-align:center;
+	clear: both;
+	margin:0
+}
+
+.blue-background {
+	background-color:#ebfdff;
+	width: 100%;
+	padding-bottom:30px;
+}
+
+.vantagem {
+        width: 50%;
+    float: left;
+    font-size: 14px;
+    display: table-cell;
+    vertical-align: middle;
+    height: 50px;
+    margin: 10px 0;
+	color:#366c73;
+}
+
+.vantagem img {
+width: 50px;
+    height: auto;
+    float: left;	
+}
+.texto-vantagem {
+	margin: 10px auto;	
+}
+
+.subtitulo-home {
+	width:100%;
+	text-transform:uppercase;
+	font-size:20px;
+	border-bottom-width:5px;
+	border-bottom-style:solid;
+	text-align:center;
+	font-weight:700;
+	clear: both;
+	margin: 10px 0;
+	padding: 5px 0;	
+	color:#366c73;
+	border-bottom-color:#366c73;
+}
+.laranja {
+	color:#fe9b00;
+	border-color:#fe9b00;	
+}
+.azul-claro {
+	color:#5ebdc9;
+	border-color:#5ebdc9;
+}
+.vantagem2 {
+	width: 100%;
+	font-size: 14px;
+	height: auto;
+	margin: 10px 0;
+	clear: both;
+	display: table;
+	text-align: center;
+}
+.vantagem2 img {
+	
+	float: left;
+	}
+.img-vantagem2 {
+    	float:none !important;
+}
+.coberturas {
+	display:table;	
+	text-align:center;
+	font-size: 18px;
+}
+.coberturas .vantagem {
+	width: 100%;
+    min-height: 100px;
+	height:auto;
+}
+.coberturas img {
+	height:auto;
+	width:auto;
+       margin: 15px 10px 20px 20px;
+	display:none;	
+}
+.coberturas .texto-vantagem {
+	font-size:14px;
+}
+
+.coberturas .texto-vantagem strong {
+	font-size:16px;
+	text-align:center;
+	margin-bottom:5px;
+	display:block;    
+	text-transform: uppercase;
+}
+
+.destaques {
+	display:table;
+}
+
+.artigos h3, h2 {
+	font-size:16px;
+	color:#366c73;	
+    margin: 0 0 10px 0;
+}
+.artigos {
+	color:#366c73;	
+	border:2px solid #5ebdc9;
+	display: table;
+	padding: 10px;
+	    margin: 30px 0;
+			width:100%;
+}
+
+.artigos img {
+	float:left;	
+	
+	    display: none;
+}
+.view-article {
+	display:none;	
+}
+.artigos p{
+    min-height: 60px;
+    height: auto;
+	font-size: 13px;
+	margin:5px 0;
+}
+.readmore {
+	    padding: 15px;
+    background-color: #5ebdc9;
+    float: right;
+    display: block;
+    margin-bottom: -29px;
+    margin-top: 0px;
+    margin-right: -12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.outros-artigos {
+margin: 40px 0;
+clear: both;
+}
+
+.outros-artigos h4 {
+	    color: #366c73;
+    font-size: 16px;
+	text-align:center;
+	width:100%;
+	cursor:pointer;
+}
+
+article {
+	line-height:1.3;
+	padding:10px;	
+}
+article p { 
+    font-size: 16px;
+}
+
+.banner-recall {
+        background: #bbfff6;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 860px;
+	    display: table;
+}
+.banner-recall img {
+	float:left;
+	width:25%;
+	height:auto;
+	max-width:125px;
+	display:none;
+}
+.frase-recall {
+	 text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: #366c73;
+	    float: left;
+    width: 100%;
+}
+.banner-recall .button {
+	     height: auto;
+    background-color: #fe9b00;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 36px;
+    padding: 10px;
+    width: 200px;
+    margin: 10px auto;
+-webkit-box-shadow: 5px 5px 10px 1px rgba(0,0,0,0.2);
+box-shadow: 5px 5px 10px 1px rgba(0,0,0,0.2);
+cursor:pointer;
+}
+.banner-recall a {
+	color:white;	
+	cursor:pointer;
+}
+
+/*------------------------------------*\
+   Categorias
+\*------------------------------------*/
+
+.taxonomy-description{
+	    text-transform: none;
+    font-size: 16px;
+}
+.titulo-verde h1 {
+	font-size:22px;
+	margin:0;
+}
+.author, .date {
+	font-size:11px;
+}
+.categoria h3 { 
+margin:0;
+font-size:18px;
+}
+.categoria {
+	margin:20px auto;
+}
+
+.categoria article{
+	padding:0;
+}
+.categoria .readmore {
+	margin-top:10px;
+	margin-left:10px;
+	z-index: 2;
+    position: relative;
+}
+.loop-cat {
+	margin:30px 0;    
+	overflow: auto;
+	}
+	
+	.pagination {
+		text-align: center;
+    font-size: 21px;
+    font-weight: 700;	
+	    margin: 30px 0;
+	}
+	
+	.page-numbers::before { 
+    content: "|";
+	margin-right:5px
+}
+.page-numbers.current::before {
+	content: no-close-quote;
+}
+
+.default-image {
+	width:80px;
+	height:80px;
+	float: left;
+    margin: 5px 15px 10px 0;
+    display: none;
+	background-image:url(/wp-content/themes/segurodeautomovel-html5/img/default-image.jpg);
+}
+/*------------------------------------*\
+    PAGES
+\*------------------------------------*/
+.post-main {
+	display:table;	
+}
+
+.post-main h1 {
+	    margin: 0;
+    font-size: 24px;	
+}
+
+.post-main .subtitulo-home {
+	text-align:left;	
+}
+
+#snippet-box {
+	width: 100% !important;
+	    max-width: 600px;
+	box-sizing:border-box;
+	border:3px solid #366c73 !important;
+	font-size:14px !important;
+	margin: 20px 0 !important;
+}
+.snippet-title {
+	width: 100% !important;
+	border-bottom:3px solid #366c73 !important;
+	font-size:14px !important;
+}
+.snippet-markup {
+    padding: 15px;
+}
+.post-hr {
+	width: 100% !important;
+    border-bottom: 3px solid #366c73 !important;
+    border: 0;
+	margin: 15px 0;
+}
+.comentarios label {
+	width: 115px;
+display: inline-block;
+color: #366c73;
+text-transform: uppercase;
+font-weight: bold
+}
+.comentarios textarea, input {
+	width:100%;
+	border: 1px solid #5ebdc9;
+	border-bottom: 4px solid #5ebdc9;
+	padding: 5px;
+}
+.comentarios textarea {
+	display:block;	
+}
+.comment-notes {
+	font-size:14px;
+}
+.comentarios #submit {
+	background-color:#366c73;
+	color:#FFF;
+	padding:10px;
+	border:0;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.comentarios {
+	margin: 0 0 30px 0;	
+}
+.wp-caption {
+	max-width:96% !important;	
+	display: table-cell;
+}
+.comment-meta {
+	    font-size: 12px;
+}
+.reply {
+	font-size: 12px;
+	padding: 5px;
+    width: 72px;
+	background-color:#366c73;
+}
+.reply a {
+	color:white;	
+}
+
+.children {
+	margin-top:15px;	
+}
+
+/*------------------------------------*\
+    IMAGES
+\*------------------------------------*/
+
+/* The animation code */
+@keyframes corretor {
+    from { -moz-transform: rotate(0deg);
+-webkit-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+-ms-transform: rotate(0deg);
+transform: rotate(0deg);
+		}
+    to {-moz-transform: rotate(-10deg);
+-webkit-transform: rotate(-10deg);
+-o-transform: rotate(-10deg);
+-ms-transform: rotate(-10deg);
+transform: rotate(-10deg);
+	}
+}
+
+/*.corretor-animado {
+	animation-name: corretor;
+    animation-duration: 400ms;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	
+}*/
+
+/*@keyframes carro-animado {
+    from {margin-left:160px
+		}
+    to {margin-left:120px
+}
+}
+
+.carro-assegurado {
+	animation-name: carro-animado;
+    animation-duration: 2s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+*/
+.seta-cotacao {
+	animation-name: corretor;
+    animation-duration: 200ms;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+
+}
+.type-post h2 {
+	font-size:24px;	
+}
+
+/*------------------------------------*\
+	TYPOGRAPHY
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+    RESPONSIVE
+\*------------------------------------*/
+
+/*------------------------------------*\
+  320px
+\*------------------------------------*/
+@media only screen and (min-width:320px) {
+
+ .banner-home .seta-cotacao {
+	 display:none; 
+ }
+ 
+}
+
+/*------------------------------------*\
+   480px
+\*------------------------------------*/
+@media only screen and (min-width:480px) {
+	.slogan {
+	    font-size: 25px;	
+		    width: 60%;
+		        
+	}
+
+.quadrado {
+    width: 100%;
+    border: 0px solid white;
+}
+.banner-home .carro-seguro{
+	 display:block; 
+ }
+ .banner-home .calltoaction-frase{
+ 
+    margin-left: 0px;
+ }
+  .banner-home .seta-cotacao {
+	 display:block; 
+ }
+   .banner-home .pergunta {
+ margin-top: -33px;
+   }
+	.form-question {
+	width:400px;
+	margin:0 auto;	
+}
+   .shortcuts .atalho {
+	width: 45%;
+    margin: 10px 2.5%;
+    float: left;
+    min-height: 68px;
+}
+.coberturas img {
+	display:block;	
+	width:70px;
+}
+.frase-recall {
+    width: 75%;
+}
+.banner-recall img {
+	display:block;
+}
+.footer img {
+	display:block;	
+}
+.vantagem {
+    font-size: 16px;	
+}
+.comentarios textarea, input {
+	width:auto;
+}
+}
+
+/*------------------------------------*\
+   768px
+\*------------------------------------*/
+@media only screen and (min-width:768px) {
+.logo {
+   	float: left;
+	width: 30%;
+	max-width:110px;
+	margin-right: 10px;
+}
+.slogan {
+	    font-size: 25px;	
+		    width: 70%;
+		    margin-right: 10px;   
+	}
+.busca {
+	
+}
+.shortcuts .atalho {
+	width: 23%;
+    margin: 10px 1%;
+    float: left;
+    min-height: 68px;
+}
+
+.coberturas .vantagem {
+	width: 50%;
+    min-height: 120px;
+	height:auto;
+}
+
+.frase-recall {
+    font-size: 35px;
+}
+.artigos {
+	    margin: 30px 2%;
+    width: 46%;
+    float: left;
+}
+.categoria article {
+    display: block;
+    height: 120px;
+}
+
+.marcas-banner {
+	display:block;
+	clear: both;
+	    text-align: center;
+    color: #09344f;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.banner-home .carro-seguro {
+	display:none;	
+}
+
+.banner-home .calltoaction-frase {
+	    max-width: 730px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-top: 0;
+    padding: 20px 0 10px 0;
+    font-size: 28px;
+    min-height: 0;
+}
+.banner-home .pergunta {
+	width: 400px;
+    float: none;
+    margin: 0 auto;
+}
+.corretor-banner {
+	display:block;
+	    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin-top: -100px;
+    float: left;
+}
+.banner-home {
+	min-height:510px;
+}
+.single .corretor-banner {
+}
+
+.single .banner-home {
+	min-height:400px;
+}
+.single .carro-assegurado {
+	display:none;	
+}
+.single .corretor-animado {
+	     margin-left: -163px;
+    float: left;
+    margin-top: -210px;
+}
+	 
+.carro-assegurado {
+	    width: 448px;
+		    margin-left: 40px;
+
+}
+.vantagem {
+    font-size: 22px;	
+}
+.vantagem2 {
+	width:50%;
+	float:left;
+	clear:none;	
+}
+.vantagem2 .texto-vantagem {
+	text-align:left;	
+}
+.coberturas .texto-vantagem {
+    font-size: 13px;
+}
+.coberturas img {
+    width: 70px;
+}
+.quadrado {
+    width: 480px;
+    margin: 0 auto;
+    border: 5px solid white;
+    border-radius: 20px	
+}
+.comentarios textarea, input {
+	width:auto;
+}
+}
+/*------------------------------------*\
+  1024px
+\*------------------------------------*/
+@media only screen and (min-width:1024px) {
+.slogan {
+    width: auto;
+    margin-top: 35px;
+    margin-right:30px;
+	}
+.social-media {
+	display:block;
+	float:right;
+	    margin-top: 28px;
+}
+.busca {
+margin-top: 30px;
+		
+}
+.fazer-cotacao {
+    display: block;
+    float: left;
+       padding: 6px 15px;
+    background: #fe9b00;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.fazer-cotacao a {
+	color:white;	
+}
+.artigos img {
+	display:block;
+
+}
+.default-image {
+	display:block;
+}
+.carro-assegurado {
+    width: auto;
+        margin-left: 145px;
+    margin-right: -185px;
+}
+.vantagem img {
+    width: 65px;
+}
+.vantagem {
+font-size: 26px;
+height: 65px;
+}
+.coberturas .texto-vantagem {
+    font-size: 14px;
+}
+.coberturas img {
+    width: 90px;
+}
+.outros-artigos h4 {
+    width: 50%;
+    float: left;
+    margin: 10px 0;
+}
+.outros-artigos {
+    display: table;
+}
+}
+
+@media only screen and (min-width:1140px) {
+.carro-assegurado {
+    margin-left: 160px;
+}
+.vantagem img {
+    width: 100px;    
+}
+.vantagem {
+	font-size: 26px;
+	height: 80px;
+	padding: 0 8%;
+ 	margin-top: 20px;
+}
+.coberturas .vantagem{
+	padding: 0 0;	
+}
+.vantagem2 {
+    font-size: 18px;	
+}
+.titulo-verde {
+	font-size:22px;	
+}
+.subtitulo-home {
+	font-size:22px;	
+}
+.post-main {
+    width: 770px;
+    float: left;	
+}
+.sidebar {
+	display:block;
+}
+}
+/*------------------------------------*\
+    1280px
+\*------------------------------------*/
+@media only screen and (min-width:1280px) {
+.post-main {
+    width: 900px;
+}
+}
+/*------------------------------------*\
+    Other
+\*------------------------------------*/
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+	   only screen and (min-resolution:144dpi) {
+
+}
+
+/*------------------------------------*\
+    MISC
+\*------------------------------------*/
+
+::selection {
+	background:#04A4CC;
+	color:#FFF;
+	text-shadow:none;
+}
+::-webkit-selection {
+	background:#04A4CC;
+	color:#FFF;
+	text-shadow:none;
+}
+::-moz-selection {
+	background:#04A4CC;
+	color:#FFF;
+	text-shadow:none;
+}
+
+/*------------------------------------*\
+    WORDPRESS CORE
+\*------------------------------------*/
+
+.alignnone {
+	margin:5px 20px 20px 0;
+}
+.aligncenter,
+div.aligncenter {
+	display:block;
+	margin:5px auto 5px auto;
+}
+.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+a img.alignright {
+	float:right;
+	margin:5px 0 20px 20px;
+}
+a img.alignnone {
+	margin:5px 20px 20px 0;
+}
+a img.alignleft {
+	float:left;
+	margin:5px 20px 20px 0;
+}
+a img.aligncenter {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.wp-caption {
+	background:#FFF;
+	border:1px solid #F0F0F0;
+	padding:5px 3px 10px;
+	text-align:center;
+}
+.wp-caption.alignnone {
+	margin:5px 20px 20px 0;
+}
+.wp-caption.alignleft {
+	margin:5px 20px 20px 0;
+}
+.wp-caption.alignright {
+	margin:5px 0 20px 20px;
+}
+.wp-caption img {
+	border:0 none;
+	height:auto;
+	margin:0;
+	max-width:98.5%;
+	padding:0;
+	width:auto;
+}
+.wp-caption .wp-caption-text,
+.gallery-caption {
+	font-size:11px;
+	line-height:17px;
+	margin:0;
+	padding:0 4px 5px;
+}
+.sticky {
+
+}
+.bypostauthor {
+
+}
+
+/*------------------------------------*\
+    PRINT
+\*------------------------------------*/
+
+@media print {
+	* {
+		background:transparent !important;
+		color:#000 !important;
+		box-shadow:none !important;
+		text-shadow:none !important;
+	}
+	a,
+	a:visited {
+		text-decoration:underline;
+	}
+	a[href]:after {
+		content:" (" attr(href) ")";
+	}
+	abbr[title]:after {
+		content:" (" attr(title) ")";
+	}
+	.ir a:after,
+	a[href^="javascript:"]:after,
+	a[href^="#"]:after {
+		content:"";
+	}
+	pre,blockquote {
+		border:1px solid #999;
+		page-break-inside:avoid;
+	}
+	thead {
+		display:table-header-group;
+	}
+	tr,img {
+		page-break-inside:avoid;
+	}
+	img {
+		max-width:100% !important;
+	}
+	@page {
+		margin:0.5cm;
+	}
+	p,
+	h2,
+	h3 {
+		orphans:3;
+		widows:3;
+	}
+	h2,
+	h3 {
+		page-break-after:avoid;
+	}
+}

@@ -1,0 +1,23 @@
+<div class="home-page-content"> 
+  <main id="content" role="main" class="">
+    <article class="photo-article">
+            <h1 class="ampstart-fullpage-hero-heading mb3">
+	
+            <span >
+                {{page.title}}
+             </span>
+        </h1>
+        <span class="ampstart-image-credit ">
+          Publiado por 
+           - {{page.author}}
+        </span>
+        	<span>{{page.date  | date_to_long_string}}</span><br><br>
+        <div>
+        	{{ content | markdownify | amp_images }}
+
+        </div>
+      
+<!-- End Related Section -->
+    </article>
+  </main>
+</div>

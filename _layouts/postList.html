@@ -1,0 +1,126 @@
+---
+class: home page-template page-template-template_frontpage page-template-template_frontpage-php
+  page page-id-150 logged-in mega-menu-header-menu seguro-auto-cotacao-de-seguro-carro-online
+---
+
+{% include header.html %}
+
+{% include quoteBox.html %}
+
+<div class="titulo-verde">
+   <h1>{{page.postType}}</h1>
+   <div class="wrapper">
+      <div class="taxonomy-description">
+         <p>{{page.title1}}</p>
+      </div>
+   </div>
+</div>
+<div class="wrapper categoria">
+   <main role="main">
+      <!-- section -->
+      <div class="loop-cat">
+         <h2 class="subtitulo-home">
+            Artigos mais visitados
+         </h2>
+         {% assign allPosts = site.posts | where:"categories",page.postType %}
+         {% for post in allPosts limit:4  %}
+         <div class="artigos">
+            <!-- article -->
+            <article id="post-{{post.id}}" class="post-275 post type-post status-publish format-standard has-post-thumbnail category-blog">
+               <!-- post title -->
+               <h3>
+                  <a href="{{post.permalink}}" title="{{post.title}}">{{post.title}} </a>
+               </h3>
+               <!-- /post title -->
+               <!-- post details -->
+               <span class="date">{{ post.date | date: '%B %d, %Y' }} </span>
+               <span class="author">{{post.author}} </span>
+               <!-- /post details -->
+               <div class="default-image">
+                  <a href="{{post.permalink}}" title="{{post.title}}">
+                  <img src="{{post.image}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="{{post.image}} 80w, /wp-content/uploads/2015/01/bmw-150x150.png 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
+               </div>
+               <p>{{ post.content | strip_html | truncatewords: 50}}<a class="view-article" href="{{post.permalink}}">Ver artigo</a></p>
+            </article>
+            <a href="{{post.permalink}}" class="readmore" title="{{post.title}}">Ler Artigo</a>
+            <!-- /article -->
+         </div>
+         {% endfor %}
+      </div>
+      <!-- Start Template Part: Home/Content Logos -->
+      <div class="banner-recall">
+         <div class="frase-recall">
+            FAÇA AGORA A COTAÇÃO DO SEGURO DO SEU CARRO!
+            <a href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow" title="Corretor">
+               <div class="large button vemm-event-go-to-form">Cotar</div>
+            </a>
+         </div>
+         <img src="/resources/theme_images/corretor2.png" alt="Corretor" class="" title="Corretor">
+      </div>
+      <!-- End Template Part: Home/Content Logos -->
+      <div class="loop-cat">
+         <h2 class="subtitulo-home">
+            Todos os artigos
+         </h2>
+         {% assign allRecentPosts = paginator.posts  %}
+         {% for Recentpost in allRecentPosts  %}
+         <div class="artigos">
+            <!-- article -->
+            <article id="post-{{Recentpost.id}}" class="post-275 post type-post status-publish format-standard has-post-thumbnail category-blog">
+               <!-- post title -->
+               <h3>
+                  <a href="{{Recentpost.permalink}}" title="{{Recentpost.title}}">{{Recentpost.title}} </a>
+               </h3>
+               <!-- /post title -->
+               <!-- post details -->
+               <span class="date">{{ Recentpost.date | date: '%B %d, %Y' }} </span>
+               <span class="author">{{Recentpost.author}} </span>
+               <!-- /post details -->
+               <div class="default-image">
+                  <a href="{{Recentpost.permalink}}" title="{{Recentpost.title}}">
+                  <img src="{{Recentpost.image}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="{{Recentpost.image}} 80w, /wp-content/uploads/2015/01/bmw-150x150.png 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
+               </div>
+               <p>{{ Recentpost.content | strip_html | truncatewords: 50}}<a class="view-article" href="{{Recentpost.permalink}}">Ver artigo</a></p>
+            </article>
+            <a href="{{Recentpost.permalink}}" class="readmore" title="{{Recentpost.title}}">Ler Artigo</a>
+            <!-- /article -->
+         </div>
+         {% endfor %}
+      </div>
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+         <ul class="pager">
+            {% if paginator.previous_page %}
+            <li class="previous">
+               <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; anterior</a>
+            </li>
+            {% endif %}
+            {% if paginator.next_page %}
+            <li class="next">
+               <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próximo &rarr;</a>
+            </li>
+            {% endif %}
+         </ul>
+      </div>
+      {% endif %}
+   </main>
+   <!-- Start Template Part: Home/Content Logos -->
+   <div class="logos">
+      <p>Trabalhamos com as melhores seguradoras</p>
+      <a href="/sulamerica" title="Sulamerica"><img src="/resources/theme_images/sulamerica.png" alt="Sulamérica Seguros" class="" title="Sulamérica"></a>
+      <a href="/5-empresas-de-seguro-de-carro-mais-confiaveis" title="Confiaveis"><img src="/resources/theme_images/mitsui-seguros.jpg" alt="Mitsui Seguradora" class="" title="Mitsui Seguradora"></a>
+      <a href="/maritima-seguros-auto" title="Maritima">
+         <img src="/resources/theme_images/maritima.png" alt="Marítima Seguros" class="" title="Marítima Seguros"></a>
+   </div>
+   <!-- End Template Part: Home/Content Logos -->
+   <!-- Start Template Part: Home/Content Logos -->
+   <div class="banner-recall">
+   <img src="/resources/theme_images/corretor1.png" alt="Corretor" class="" title="Corretor de seguros">
+   <div class="frase-recall">
+   FAÇA AGORA A COTAÇÃO DO SEGURO DO SEU CARRO!
+   <a href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow"></a>
+   <div class="large button vemm-event-go-to-form">Cotar</div></a>
+   </div>
+   </div><!-- End Template Part: Home/Content Logos -->
+</div>
+{% include footer.html %}

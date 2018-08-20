@@ -1,0 +1,245 @@
+---
+title: Contato perguntas
+date: 2017-05-03 07:08:02 Z
+layout: wpcf7_contact_form
+type: wpcf7_contact_form
+parent_id: '0'
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _additional_settings: ''
+  _locale: pt_BR
+  _config_errors: a:1:{s:9:"form.body";a:1:{i:0;a:2:{s:4:"code";i:105;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:72:"https://contactform7.com/configuration-errors/multiple-controls-in-label";}}}}
+  wpcf7cf_options: a:6:{i:0;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:37:"Estou
+    em busca de parceria comercial.";s:10:"then_field";s:7:"answer1";}i:1;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:65:"Sou
+    leitor/jornalista e tenho uma sugestão de pauta para o site.";s:10:"then_field";s:7:"answer2";}i:2;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:40:"Sou
+    cliente de uma corretora/seguradora.";s:10:"then_field";s:7:"answer3";}i:3;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:26:"Quero
+    fazer uma cotação.";s:10:"then_field";s:7:"answer4";}i:4;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:38:"Não
+    consegui preencher o formulário.";s:10:"then_field";s:7:"answer5";}i:5;a:4:{s:8:"if_field";s:8:"menu-134";s:8:"operator";s:6:"equals";s:8:"if_value";s:17:"Outras
+    perguntas.";s:10:"then_field";s:7:"answer6";}}
+  _mail: "a:9:{s:6:\"active\";b:1;s:7:\"subject\";s:37:\"Seguro de Automóvel \"[your-subject]\"\";s:6:\"sender\";s:45:\"[your-name]
+    <wordpress@segurodeautomovel.org>\";s:9:\"recipient\";s:20:\"simon@eurodemand.com\";s:4:\"body\";s:206:\"De:
+    [your-name] <[your-email]>\nAssunto: [your-subject]\n\nCorpo da mensagem:\n[your-message]\n\n--
+    \nEste e-mail foi enviado de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)\";s:18:\"additional_headers\";s:22:\"Reply-To:
+    [your-email]\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";b:0;s:13:\"exclude_blank\";b:0;}"
+  _mail_2: "a:9:{s:6:\"active\";b:0;s:7:\"subject\";s:37:\"Seguro de Automóvel \"[your-subject]\"\";s:6:\"sender\";s:54:\"Seguro
+    de Automóvel <wordpress@segurodeautomovel.org>\";s:9:\"recipient\";s:12:\"[your-email]\";s:4:\"body\";s:150:\"Corpo
+    da mensagem:\n[your-message]\n\n-- \nEste e-mail foi enviado de um formulário
+    de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)\";s:18:\"additional_headers\";s:30:\"Reply-To:
+    simon@eurodemand.com\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";b:0;s:13:\"exclude_blank\";b:0;}"
+  _messages: a:23:{s:12:"mail_sent_ok";s:27:"Agradecemos a sua mensagem.";s:12:"mail_sent_ng";s:74:"Ocorreu
+    um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:16:"validation_error";s:63:"Um
+    ou mais campos possuem um erro. Verifique e tente novamente.";s:4:"spam";s:74:"Ocorreu
+    um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:12:"accept_terms";s:72:"Você
+    deve aceitar os termos e condições antes de enviar sua mensagem.";s:16:"invalid_required";s:24:"O
+    campo é obrigatório.";s:16:"invalid_too_long";s:23:"O campo é muito longo.";s:17:"invalid_too_short";s:23:"O
+    campo é muito curto.";s:12:"invalid_date";s:34:"O formato de data está incorreto.";s:14:"date_too_early";s:44:"A
+    data é anterior à mais antiga permitida.";s:13:"date_too_late";s:44:"A data é
+    posterior à maior data permitida.";s:13:"upload_failed";s:49:"Ocorreu um erro
+    desconhecido ao enviar o arquivo.";s:24:"upload_file_type_invalid";s:59:"Você
+    não tem permissão para enviar esse tipo de arquivo.";s:21:"upload_file_too_large";s:26:"O
+    arquivo é muito grande.";s:23:"upload_failed_php_error";s:36:"Ocorreu um erro
+    ao enviar o arquivo.";s:14:"invalid_number";s:34:"O formato de número é inválido.";s:16:"number_too_small";s:46:"O
+    número é menor do que o mínimo permitido.";s:16:"number_too_large";s:46:"O número
+    é maior do que o máximo permitido.";s:23:"quiz_answer_not_correct";s:39:"A resposta
+    para o quiz está incorreta.";s:17:"captcha_not_match";s:35:"O código digitado
+    está incorreto.";s:13:"invalid_email";s:45:"O endereço de e-mail informado é inválido.";s:11:"invalid_url";s:19:"A
+    URL é inválida.";s:11:"invalid_tel";s:35:"O número de telefone é inválido.";}
+  _form: |-
+    <h3>Qual solicitação você gostaria de fazer?</h3>
+
+    [select* menu-134 include_blank "Estou em busca de parceria comercial." "Sou leitor/jornalista e tenho uma sugestão de pauta para o site." "Sou cliente de uma corretora/seguradora." "Quero fazer uma cotação." "Não consegui preencher o formulário." "Outras perguntas."]
+
+    [group answer1]Gostaria de entrar em contato com sua empresa, pois sou representante de uma corretora/seguradora, empresa de mídia digital ou outros serviços relacionados a geração de leads.
+
+    [checkbox checkbox-128 "Desejo adquirir leads" "Gostaria de oferecer um produto ou serviço"]
+
+    Por favor, preencha o formulário abaixo e entraremos em contato o mais breve possível:
+
+    <label> Seu nome (obrigatório)
+        [text* your-name]</label>
+
+    <label> Seu e-mail (obrigatório)
+        [email* your-email] </label>
+
+    <label> Assunto
+        [text your-subject] </label>
+
+    <label> Sua mensagem
+        [textarea your-message] </label>
+
+    [submit "Enviar"][/group]
+
+
+    [group answer2]<label> Qual é o site? (obrigatório)
+        [text* sugestao] </label>
+
+    <label> Seu nome (obrigatório)
+        [text* your-name] </label>
+
+    <label> Empresa
+        [text text-437] </label>
+
+    <label> Seu e-mail (obrigatório)
+        [email* your-email] </label>
+
+    <label> Assunto
+        [text your-subject] </label>
+
+    <label> Sua mensagem
+        [textarea your-message] </label>
+
+    [submit "Enviar"][/group]
+
+    [group answer3]Gostaria de falar com minha seguradora/operadora sobre meu seguro.
+
+    Desculpe, mas não podemos ajudá-lo. Em nosso site somente enviamos as solicitações de cotação. Caso já possua um seguro, por favor, entre em contato com a sua seguradora/operadora através do site oficial dela. Se você não está satisfeito com seu seguradora, faça uma cotação e opte por outra. <a href="http://melhor.segurodeautomovel.org/">Clique aqui para cotar.</a> [/group]
+
+    [group answer4]Gostaria de fazer a cotação de um seguro.
+
+    Para fazer a pesquisa, utilize o formulário de cotação no topo da página ou acesse diretamente este link: <a href="http://melhor.segurodeautomovel.org/">Clique aqui. </a> Não realizamos cotações via telefone ou WhatsApp. Nosso serviço é exclusivamente online, através do formulário de cotação.[/group]
+
+    [group answer5]Se você não conseguiu preencher o formulário pois ele apresenta erros por favor.
+
+    <label> Seu nome (obrigatório)
+        [text* your-name] </label>
+
+    <label> Seu e-mail (obrigatório)
+        [email* your-email] </label>
+
+    <label> Qual é seu dispositivo? (obrigatório)
+        [radio dispositivo default:1 "Celular" "Computador" "Tablet"] </label>
+
+    <label> Sistema operacional e versão (obrigatório)
+        [text* sistema] </label>
+
+    <label> Qual é seu navegador? (obrigatório)
+         [text* navegador] </label>
+
+    <label> Qual foi o erro?
+        [textarea* erro] </label>
+
+    [submit "Enviar"][/group]
+
+    [group answer6]<label>Por favor utilize esse formulário.
+
+     Seu nome (obrigatório)
+        [text* your-name] </label>
+
+    <label> Seu e-mail (obrigatório)
+        [email* your-email] </label>
+
+    <label> Assunto
+        [text your-subject] </label>
+
+    <label> Sua mensagem
+        [textarea your-message] </label>
+
+    [submit "Enviar"][/group]
+author:
+  login: Rodrigo Conceicao
+  email: rodrigo@visualworker.net
+  display_name: Rodrigo Conceicao
+  first_name: Rodrigo
+  last_name: Conceicao
+---
+
+<h3>Qual solicitação você gostaria de fazer?</h3>
+<p>[select* menu-134 include_blank "Estou em busca de parceria comercial." "Sou leitor/jornalista e tenho uma sugestão de pauta para o site." "Sou cliente de uma corretora/seguradora." "Quero fazer uma cotação." "Não consegui preencher o formulário." "Outras perguntas."]</p>
+<p>[group answer1]Gostaria de entrar em contato com sua empresa, pois sou representante de uma corretora/seguradora, empresa de mídia digital ou outros serviços relacionados a geração de leads.</p>
+<p>[checkbox checkbox-128 "Desejo adquirir leads" "Gostaria de oferecer um produto ou serviço"]</p>
+<p>Por favor, preencha o formulário abaixo e entraremos em contato o mais breve possível:</p>
+<p><label> Seu nome (obrigatório)<br />
+    [text* your-name]</label></p>
+<p><label> Seu e-mail (obrigatório)<br />
+    [email* your-email] </label></p>
+<p><label> Assunto<br />
+    [text your-subject] </label></p>
+<p><label> Sua mensagem<br />
+    [textarea your-message] </label></p>
+<p>[submit "Enviar"][/group]</p>
+<p>[group answer2]<label> Qual é o site? (obrigatório)<br />
+    [text* sugestao] </label></p>
+<p><label> Seu nome (obrigatório)<br />
+    [text* your-name] </label></p>
+<p><label> Empresa<br />
+    [text text-437] </label></p>
+<p><label> Seu e-mail (obrigatório)<br />
+    [email* your-email] </label></p>
+<p><label> Assunto<br />
+    [text your-subject] </label></p>
+<p><label> Sua mensagem<br />
+    [textarea your-message] </label></p>
+<p>[submit "Enviar"][/group]</p>
+<p>[group answer3]Gostaria de falar com minha seguradora/operadora sobre meu seguro.</p>
+<p>Desculpe, mas não podemos ajudá-lo. Em nosso site somente enviamos as solicitações de cotação. Caso já possua um seguro, por favor, entre em contato com a sua seguradora/operadora através do site oficial dela. Se você não está satisfeito com seu seguradora, faça uma cotação e opte por outra. <a href="http://melhor.segurodeautomovel.org/">Clique aqui para cotar.</a> [/group]</p>
+<p>[group answer4]Gostaria de fazer a cotação de um seguro.</p>
+<p>Para fazer a pesquisa, utilize o formulário de cotação no topo da página ou acesse diretamente este link: <a href="http://melhor.segurodeautomovel.org/">Clique aqui. </a> Não realizamos cotações via telefone ou WhatsApp. Nosso serviço é exclusivamente online, através do formulário de cotação.[/group]</p>
+<p>[group answer5]Se você não conseguiu preencher o formulário pois ele apresenta erros por favor.</p>
+<p><label> Seu nome (obrigatório)<br />
+    [text* your-name] </label></p>
+<p><label> Seu e-mail (obrigatório)<br />
+    [email* your-email] </label></p>
+<p><label> Qual é seu dispositivo? (obrigatório)<br />
+    [radio dispositivo default:1 "Celular" "Computador" "Tablet"] </label></p>
+<p><label> Sistema operacional e versão (obrigatório)<br />
+    [text* sistema] </label></p>
+<p><label> Qual é seu navegador? (obrigatório)<br />
+     [text* navegador] </label></p>
+<p><label> Qual foi o erro?<br />
+    [textarea* erro] </label></p>
+<p>[submit "Enviar"][/group]</p>
+<p>[group answer6]<label>Por favor utilize esse formulário.</p>
+<p> Seu nome (obrigatório)<br />
+    [text* your-name] </label></p>
+<p><label> Seu e-mail (obrigatório)<br />
+    [email* your-email] </label></p>
+<p><label> Assunto<br />
+    [text your-subject] </label></p>
+<p><label> Sua mensagem<br />
+    [textarea your-message] </label></p>
+<p>[submit "Enviar"][/group]<br />
+1<br />
+Seguro de Automóvel "[your-subject]"<br />
+[your-name] <wordpress@segurodeautomovel.org><br />
+simon@eurodemand.com<br />
+De: [your-name] <[your-email]><br />
+Assunto: [your-subject]</p>
+<p>Corpo da mensagem:<br />
+[your-message]</p>
+<p>--<br />
+Este e-mail foi enviado de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)<br />
+Reply-To: [your-email]</p>
+<p>Seguro de Automóvel "[your-subject]"<br />
+Seguro de Automóvel <wordpress@segurodeautomovel.org><br />
+[your-email]<br />
+Corpo da mensagem:<br />
+[your-message]</p>
+<p>--<br />
+Este e-mail foi enviado de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)<br />
+Reply-To: simon@eurodemand.com</p>
+<p>Agradecemos a sua mensagem.<br />
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.<br />
+Um ou mais campos possuem um erro. Verifique e tente novamente.<br />
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.<br />
+Você deve aceitar os termos e condições antes de enviar sua mensagem.<br />
+O campo é obrigatório.<br />
+O campo é muito longo.<br />
+O campo é muito curto.<br />
+O formato de data está incorreto.<br />
+A data é anterior à mais antiga permitida.<br />
+A data é posterior à maior data permitida.<br />
+Ocorreu um erro desconhecido ao enviar o arquivo.<br />
+Você não tem permissão para enviar esse tipo de arquivo.<br />
+O arquivo é muito grande.<br />
+Ocorreu um erro ao enviar o arquivo.<br />
+O formato de número é inválido.<br />
+O número é menor do que o mínimo permitido.<br />
+O número é maior do que o máximo permitido.<br />
+A resposta para o quiz está incorreta.<br />
+O código digitado está incorreto.<br />
+O endereço de e-mail informado é inválido.<br />
+A URL é inválida.<br />
+O número de telefone é inválido.</p>

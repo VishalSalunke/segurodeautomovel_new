@@ -1,0 +1,61 @@
+---
+title: Seguro de Automóvel
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    author: ''
+    image_file_name: ''
+    description: ''
+    layout: post
+    thumbnail_80x80: ''
+    thumbnail_150x150: ''
+    permalink: "/:title"
+name: Seguro de Automóvel
+webName: Segurodeautomovel.org
+description: Cote aqui o seguro do seu carro!
+email: your-email@example.com
+baseurl: 
+url: https://www.segurodeautomovel.org
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
+- jekyll-paginate-v2
+pagination:
+  enabled: true
+  per_page: 12
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: date
+  sort_reverse: true
+  category: posts
+ampdir: amp
+facebook:
+  app_id: 1675535542684820
+twitter:
+  username: 
+  card: summary
+exclude:
+- Gemfile.lock
+- node_modules
+include:
+- Gemfile
+encoding: utf-8
+blacklistedTags:
+- cornerstone
+- Featured
+- cornestone
+- c

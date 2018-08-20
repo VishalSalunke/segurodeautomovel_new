@@ -1,0 +1,187 @@
+<!doctype html>
+<html  lang="pt-BR">
+	<head>
+		<!-- seguroauto using jekyll-->
+		<meta  charset="UTF-8"> 
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>{{page.title}}</title>
+		<link href="//www.google-analytics.com" rel="dns-prefetch">
+        <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/favicon.ico" rel="shortcut icon">
+        <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+        <link rel="stylesheet" id='html5blank-css' type="text/css" href="/resources/css/style.css">
+        <link rel="stylesheet" id='normalize-css' type="text/css" href="/resources/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="/resources/css/nav.css">
+        <link rel="stylesheet"  id='dashicons-css' type="text/css" href="/resources/css/dashicons.min.css">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="{{page.description}}"/>
+		<meta property="title" content="{{page.title}}" />
+		<script type='text/javascript' src='/resources/js/jquery.js'></script>
+		<meta name="google-site-verification" content="tbCb-u_jMW9s8nmKjuT8OeOOFFBel-n8Oh_PzBzHkzY" />
+
+
+{% if page.isIndex %}
+<link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}/">	
+{% elsif page.path contains '_posts'%}
+<link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">	
+    {% endif %}
+
+<!-- Google analytics-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40364263-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40364263-1');
+</script>
+<!-- google analytics ends-->
+
+<!-- Yoast plugin -->
+<meta name="description" content="{{page.description}}"/>
+{% assign pageURL = page.url %}
+{%if pageURL contains '/index.html'%}
+{% assign pageURL = pageURL | remove: "/index.html"%}
+{%endif%}
+<link rel="canonical" href="{{site.url}}{{pageURL}}" />
+<link rel="publisher" href="https://plus.google.com/114037447964214787402"/>
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:title" content="{{page.title}}"/>
+<meta property="og:description" content="{{page.description}}" />
+<meta property="og:url" content="{{site.url}}{{page.url}}" />
+<meta property="og:site_name" content="{{site.title}}" />
+{% if page.categories %}<meta property="article:publisher" content="https://www.facebook.com/segurodeautomovel.org" />
+<meta property="og:type" content="article" />
+{% for item in page.tags %}<meta property="article:tag" content="{{item}}" />{% endfor %}
+{% for item in page.categories %}<meta property="article:section" content="{{item}}" />{% endfor %}
+<meta property="article:published_time" content="{{page.date}}" />
+<meta property="article:modified_time" content="{{page.date}}" />
+<meta property="og:updated_time" content="{{page.date}}" />{% endif %}
+<meta property="fb:app_id" content="1675535542684820" />
+<meta property="og:image" content="{{site.url}}{{page.image}}" />
+<meta property="og:image:secure_url" content="{{site.url}}{{page.image}}" />
+<meta property="og:image:width" content="{{page.image_width}}" />
+<meta property="og:image:height" content="{{page.image_height}}" />
+<!-- <meta property="og:image:alt" content="Precisa de seguro auto em Natal (RN)" /> -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="{{page.description}}" />
+<meta name="twitter:title" content="{{page.title}}"/>
+<meta name="twitter:image" content="{{site.url}}{{page.image}}"/>
+{% if page.isIndex %}<meta name="msvalidate.01" content="A3D85AC314933EB77546FD077B38F076" />
+<meta name="google-site-verification" content="ao-Y8uLFo5aiKI9GUw36SndyQnp6AguCJ-M9QUN_kGM" />
+<meta property="og:type" content="website" />{% endif %}
+<!-- / Yoast SEO plugin. -->
+
+
+
+
+<!-- =====================   need to find wp_head() function logic ===================== -->
+		<!-- <?php wp_head(); ?> -->
+
+		<!-- <script>
+        // conditionizr.com
+        // configure environment tests
+        conditionizr.config({
+            assets: '<?php echo get_template_directory_uri(); ?>',
+            tests: {}
+        });
+        </script> -->
+
+        <style type="text/css">
+        	<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+ ul.pager { text-align: center; list-style: none; font-size: 21px; font-weight: 700;margin: 30px 0;}
+  ul.pager li {display: inline;border: 1px solid #366c73; padding: 10px; margin: 5px;}
+
+        </style>
+
+
+	</head>
+	<body class="{{layout.class}}">
+
+		<!-- wrapper -->
+		<div class="wrapper">
+
+			<!-- header -->
+			<header class="header clear" role="banner">
+
+					<!-- logo -->
+					<div class="logo">
+						<a href="/" title="Home">
+							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
+							<img src="/wp-content/themes/segurodeautomovel-html5/img/logo.svg" alt="Segurodeautomovel.org" class="logo-img" title="Logo Segurodeautomovel.org">
+						</a>
+					</div>
+					<!-- /logo -->
+					
+					<div class="slogan"><a href="https://melhor.segurodeautomovel.org" rel="nofollow" class="vemm-event-go-to-form" title="Melhor Seguroautomovel">Cote aqui o seguro do seu carro!</a></div>
+					
+					<!-- search -->
+<!-- <form class="busca" method="get" action="https://www.segurodeautomovel.org" role="search">
+	<input class="search-input" type="search" name="s" placeholder="Pesquise no site">
+	<button class="search-submit" type="submit" role="button">BUSCAR</button>
+</form> -->
+<!-- /search -->
+
+<!--
+	Google search box
+ -->
+
+
+		<script>
+  (function() {
+    var cx = '015472545038987093395:uydzquwdxac';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div class="busca" style="width: 350px;float: left;margin-top: 20px">
+	<gcse:search></gcse:search>
+</div>
+
+
+		
+
+ 			
+					<div class="social-media">
+				<a href="https://www.facebook.com/segurodeautomovel.org/?fref=ts" title="Facebook"><img src="/wp-content/themes/segurodeautomovel-html5/img/facebook.png" alt="Facebook" class="" width="38" height="38" title="Facebook Segurodeautomovel.org"></a>
+				<a href="https://plus.google.com/114037447964214787402" title="Google Plus"><img src="/wp-content/themes/segurodeautomovel-html5/img/googleplus.png" alt="Google Plus" class="" width="38" height="38" title="Google plus Segurodeautomovel.org"></a>
+				</div>
+					
+					
+
+
+
+			</header>		
+			<!-- /header -->
+			
+			</div><!-- wrapper -->
+			
+				<!-- nav -->
+				
+					<nav class="nav" role="navigation">
+						<div id="mega-menu-wrap-header-menu" class="mega-menu-wrap"><div class="mega-menu-toggle" tabindex="0"><div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-left mega-toggle-block-1" id="mega-toggle-block-1"></div></div><ul id="mega-menu-header-menu" class="mega-menu mega-menu-horizontal" data-event="hover_intent" data-effect="fade" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="200" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="600" data-unbind="true"><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-has-icon mega-menu-item-86" id="mega-menu-item-86"><a class="dashicons-admin-page mega-menu-link" href="/artigos" aria-haspopup="true" tabindex="0">Artigos</a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-1583" id="mega-menu-item-1583"><a class="mega-menu-link" href="/artigos/modelos-de-carro">Modelos de carro</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-1584" id="mega-menu-item-1584"><a class="mega-menu-link" href="/artigos/cidades">Cidades</a></li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-megamenu mega-has-icon mega-menu-item-94" id="mega-menu-item-94"><a class="dashicons-menu mega-menu-link" href="/diretorio" tabindex="0">Diretório</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-has-icon mega-menu-item-1585" id="mega-menu-item-1585"><a class="dashicons-shield-alt mega-menu-link" href="/seguradoras" aria-haspopup="true" tabindex="0">Seguradoras</a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1586" id="mega-menu-item-1586"><a class="mega-menu-link" href="/allianz">Allianz | Seguro Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1587" id="mega-menu-item-1587"><a class="mega-menu-link" href="/azul-seguros-auto">Azul Seguros – Seguro Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1588" id="mega-menu-item-1588"><a class="mega-menu-link" href="/hdi-seguros-auto">Hdi Seguros Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1589" id="mega-menu-item-1589"><a class="mega-menu-link" href="/liberty-seguros-auto">Liberty Seguros Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1590" id="mega-menu-item-1590"><a class="mega-menu-link" href="/mapfre-seguros-auto">Mapfre Seguros Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1591" id="mega-menu-item-1591"><a class="mega-menu-link" href="/maritima-seguros-auto">Marítima Seguros Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1599" id="mega-menu-item-1599"><a class="mega-menu-link" href="/porto-seguro">Porto Seguro | Seguro Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1597" id="mega-menu-item-1597"><a class="mega-menu-link" href="/sulamerica">Sulamérica | Seguros Auto</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-post mega-menu-item-1598" id="mega-menu-item-1598"><a class="mega-menu-link" href="/tokio-marine-seguro-automovel">Tokio Marine Seguro Automóvel</a></li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-current-menu-item mega-align-bottom-left mega-menu-flyout mega-has-icon mega-menu-item-92" id="mega-menu-item-92"><a class="dashicons-star-half mega-menu-link" href="/diretório" tabindex="0">Avaliações</a></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-has-icon mega-menu-item-2960" id="mega-menu-item-2960"><a class="dashicons-lightbulb mega-menu-link" href="/blog" tabindex="0">Blog</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-has-icon mega-menu-item-1543" id="mega-menu-item-1543"><a class="dashicons-thumbs-up mega-menu-link" href="https://melhor.segurodeautomovel.org" tabindex="0">Cotar</a></li></ul></div>
+					</nav><!-- /nav -->
+					
+			

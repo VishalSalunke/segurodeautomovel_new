@@ -1,0 +1,91 @@
+---
+title: Formulário de contato 1
+date: 2017-05-03 07:04:19 Z
+layout: wpcf7_contact_form
+type: wpcf7_contact_form
+parent_id: '0'
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _mail_2: "a:9:{s:6:\"active\";b:0;s:7:\"subject\";s:37:\"Seguro de Automóvel \"[your-subject]\"\";s:6:\"sender\";s:54:\"Seguro
+    de Automóvel <wordpress@segurodeautomovel.org>\";s:4:\"body\";s:150:\"Corpo da
+    mensagem:\n[your-message]\n\n-- \nEste e-mail foi enviado de um formulário de
+    contato em Seguro de Automóvel (http://www.segurodeautomovel.org)\";s:9:\"recipient\";s:12:\"[your-email]\";s:18:\"additional_headers\";s:30:\"Reply-To:
+    simon@eurodemand.com\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";i:0;s:13:\"exclude_blank\";i:0;}"
+  _messages: a:8:{s:12:"mail_sent_ok";s:27:"Agradecemos a sua mensagem.";s:12:"mail_sent_ng";s:74:"Ocorreu
+    um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:16:"validation_error";s:63:"Um
+    ou mais campos possuem um erro. Verifique e tente novamente.";s:4:"spam";s:74:"Ocorreu
+    um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.";s:12:"accept_terms";s:72:"Você
+    deve aceitar os termos e condições antes de enviar sua mensagem.";s:16:"invalid_required";s:24:"O
+    campo é obrigatório.";s:16:"invalid_too_long";s:23:"O campo é muito longo.";s:17:"invalid_too_short";s:23:"O
+    campo é muito curto.";}
+  _additional_settings: ''
+  _locale: pt_BR
+  _form: |-
+    <label> Seu nome (obrigatório)
+        [text* your-name] </label>
+
+    <label> Seu e-mail (obrigatório)
+        [email* your-email] </label>
+
+    <label> Assunto
+        [text your-subject] </label>
+
+    <label> Sua mensagem
+        [textarea your-message] </label>
+
+    [submit "Enviar"]
+  _mail: "a:8:{s:7:\"subject\";s:37:\"Seguro de Automóvel \"[your-subject]\"\";s:6:\"sender\";s:45:\"[your-name]
+    <wordpress@segurodeautomovel.org>\";s:4:\"body\";s:206:\"De: [your-name] <[your-email]>\nAssunto:
+    [your-subject]\n\nCorpo da mensagem:\n[your-message]\n\n-- \nEste e-mail foi enviado
+    de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)\";s:9:\"recipient\";s:20:\"simon@eurodemand.com\";s:18:\"additional_headers\";s:22:\"Reply-To:
+    [your-email]\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";i:0;s:13:\"exclude_blank\";i:0;}"
+author:
+  login: Rodrigo Conceicao
+  email: rodrigo@visualworker.net
+  display_name: Rodrigo Conceicao
+  first_name: Rodrigo
+  last_name: Conceicao
+---
+
+<p><label> Seu nome (obrigatório)<br />
+    [text* your-name] </label></p>
+<p><label> Seu e-mail (obrigatório)<br />
+    [email* your-email] </label></p>
+<p><label> Assunto<br />
+    [text your-subject] </label></p>
+<p><label> Sua mensagem<br />
+    [textarea your-message] </label></p>
+<p>[submit "Enviar"]<br />
+Seguro de Automóvel "[your-subject]"<br />
+[your-name] <wordpress@segurodeautomovel.org><br />
+De: [your-name] <[your-email]><br />
+Assunto: [your-subject]</p>
+<p>Corpo da mensagem:<br />
+[your-message]</p>
+<p>--<br />
+Este e-mail foi enviado de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)<br />
+simon@eurodemand.com<br />
+Reply-To: [your-email]</p>
+<p>0<br />
+0</p>
+<p>Seguro de Automóvel "[your-subject]"<br />
+Seguro de Automóvel <wordpress@segurodeautomovel.org><br />
+Corpo da mensagem:<br />
+[your-message]</p>
+<p>--<br />
+Este e-mail foi enviado de um formulário de contato em Seguro de Automóvel (http://www.segurodeautomovel.org)<br />
+[your-email]<br />
+Reply-To: simon@eurodemand.com</p>
+<p>0<br />
+0<br />
+Agradecemos a sua mensagem.<br />
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.<br />
+Um ou mais campos possuem um erro. Verifique e tente novamente.<br />
+Ocorreu um erro ao tentar enviar sua mensagem. Tente novamente mais tarde.<br />
+Você deve aceitar os termos e condições antes de enviar sua mensagem.<br />
+O campo é obrigatório.<br />
+O campo é muito longo.<br />
+O campo é muito curto.</p>
