@@ -1,5 +1,5 @@
 ---
-title: Seguro de Automóvel
+title: Seguro de Automóvel test
 timezone: UTC
 collections:
   posts:
@@ -8,23 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    author: ''
-    image_file_name: ''
-    description: ''
-    layout: post
-    thumbnail_80x80: ''
-    thumbnail_150x150: ''
-    permalink: "/:title"
 name: Seguro de Automóvel
 webName: Segurodeautomovel.org
 description: Cote aqui o seguro do seu carro!
 email: your-email@example.com
-baseurl: 
+baseurl: ''
 url: https://www.segurodeautomovel.org
 twitter_username: jekyllrb
 github_username: jekyll
@@ -62,14 +50,14 @@ blacklistedTags:
 - c
 mini_magick:
     thumbnail: # Preset name
-        source: _uploads # source directory - change this to whatever you want
+        source: uploads # source directory - change this to whatever you want
         destination: uploads/thumbnail # generated destination directory
         resize: "80x80^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
         extent: "80x80"
     large: # Preset name
-        source: _uploads # source directory - change this to whatever you want
+        source: uploads # source directory - change this to whatever you want
         destination: uploads/large # generated destination directory
         resize: "150x150^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
-        extent: "150x150"  
+        extent: "150x150"   
