@@ -62,13 +62,13 @@ blacklistedTags:
 - c
 mini_magick:
     thumbnail: # Preset name
-        source: uploads # source directory - change this to whatever you want
+        source: _uploads # source directory - change this to whatever you want
         destination: uploads/thumbnail # generated destination directory
         resize: "80x80^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
         extent: "80x80"
     large: # Preset name
-        source: uploads # source directory - change this to whatever you want
+        source: _uploads # source directory - change this to whatever you want
         destination: uploads/large # generated destination directory
         resize: "150x150^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
