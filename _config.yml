@@ -33,6 +33,7 @@ theme: minima
 plugins:
 - jekyll-feed
 - jekyll-paginate-v2
+- jekyll-minimagick
 pagination:
   enabled: true
   per_page: 12
