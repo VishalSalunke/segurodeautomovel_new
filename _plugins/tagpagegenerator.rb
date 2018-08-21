@@ -1,4 +1,3 @@
-require 'mini_magick'
 module Jekyll
   class CategoryPage < Page
     def initialize(site, base, dir, name, pageType)
