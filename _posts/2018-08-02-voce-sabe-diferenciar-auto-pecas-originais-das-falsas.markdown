@@ -10,7 +10,7 @@ tags:
 author: Luizinho
 description: Peças falsas podem parecer baratas, mas elas podem representar danos
   enormes ao seu veículo! Você sabe diferenciá-las das originais na hora da compra?
-thumbnail_80x80: "/uploads/pecas-de-carro1.jpg"
+image_file_name: "pecas-de-carro1.jpg"
 ---
 
 Se você tem um carro, já sabe o quanto sua responsabilidade em relação a ele deve ir além da direção segura. É necessário realizar revisão frequente, fazer [manutenção das auto peças](https://autobitts.com.br/)… como os custos disso são altos, muitas pessoas deixam de fazê-los ou os faz com má qualidade.
