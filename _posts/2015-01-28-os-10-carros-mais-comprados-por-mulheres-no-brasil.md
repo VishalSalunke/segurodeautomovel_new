@@ -65,7 +65,7 @@ O Fiat Uno é, todos os anos, um dos modelos mais comercializados no Brasil, ten
 
 ## 6 – Kia Picanto
 
-<div id="attachment_316" style="width: 446px" class="wp-caption aligncenter">
+<div id="attachment_316"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/kia_picanto.png"><img class="size-full wp-image-316" src="/wp-content/uploads/2015/01/kia_picanto.png" alt="Foto: dicasnainternet.com" width="436" height="282" srcset="/wp-content/uploads/2015/01/kia_picanto.png 436w, /wp-content/uploads/2015/01/kia_picanto-250x162.png 250w, /wp-content/uploads/2015/01/kia_picanto-120x78.png 120w" sizes="(max-width: 436px) 100vw, 436px" /></a>
   
   <p class="wp-caption-text">
@@ -89,7 +89,7 @@ O Volvo C30 foge um pouco dos padrões compactos voltados ao público feminino, 
 
 ## 10 – Nissan Tiida
 
-<div id="attachment_317" style="width: 514px" class="wp-caption aligncenter">
+<div id="attachment_317"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/tiida.png"><img class="size-full wp-image-317" src="/wp-content/uploads/2015/01/tiida.png" alt="Foto: icarros.com" width="504" height="311" srcset="/wp-content/uploads/2015/01/tiida.png 504w, /wp-content/uploads/2015/01/tiida-250x154.png 250w, /wp-content/uploads/2015/01/tiida-120x74.png 120w" sizes="(max-width: 504px) 100vw, 504px" /></a>
   
   <p class="wp-caption-text">
