@@ -37,7 +37,7 @@ Alguns podem até achar que essa distinção não exista, mas é certo que exist
 
 ## 1 – Citroën C3
 
-<div id="attachment_315" style="width: 474px" class="wp-caption aligncenter">
+<div id="attachment_315"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/citroen.png"><img class="img-adjustment size-full wp-image-315" src="/wp-content/uploads/2015/01/citroen.png" alt="Foto: quatrorodas.abril.com.br" width="464" height="253" srcset="/wp-content/uploads/2015/01/citroen.png 464w, /wp-content/uploads/2015/01/citroen-250x136.png 250w, /wp-content/uploads/2015/01/citroen-120x65.png 120w" sizes="(max-width: 464px) 100vw, 464px" /></a>
   
   <p class="wp-caption-text">
