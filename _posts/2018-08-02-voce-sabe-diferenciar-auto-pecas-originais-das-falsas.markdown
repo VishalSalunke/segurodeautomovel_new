@@ -1,6 +1,7 @@
 ---
 title: Você sabe diferenciar auto peças originais das falsas?
 date: 2018-08-02 20:55:00 Z
+layout: post
 permalink: "/voce-sabe-diferenciar-auto-pecas-originais-das-falsas"
 categories:
 - Artigos
@@ -10,7 +11,7 @@ tags:
 author: Luizinho
 description: Peças falsas podem parecer baratas, mas elas podem representar danos
   enormes ao seu veículo! Você sabe diferenciá-las das originais na hora da compra?
-image_file_name: "pecas-de-carro1.jpg"
+image_file_name: "pecas-de-carro.jpg"
 ---
 
 Se você tem um carro, já sabe o quanto sua responsabilidade em relação a ele deve ir além da direção segura. É necessário realizar revisão frequente, fazer [manutenção das auto peças](https://autobitts.com.br/)… como os custos disso são altos, muitas pessoas deixam de fazê-los ou os faz com má qualidade.

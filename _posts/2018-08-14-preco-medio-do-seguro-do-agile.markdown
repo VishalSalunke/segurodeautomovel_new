@@ -1,5 +1,6 @@
 ---
 title: Qual o preço médio do seguro do Agile
+layout: post
 date: 2018-08-14 16:25:00 Z
 categories:
 - Modelos de carro

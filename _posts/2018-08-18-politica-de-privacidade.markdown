@@ -1,6 +1,7 @@
 ---
 title: Política de privacidade
 date: 2018-08-18 16:45:00 Z
+layout: post
 categories:
 - Blog
 ---

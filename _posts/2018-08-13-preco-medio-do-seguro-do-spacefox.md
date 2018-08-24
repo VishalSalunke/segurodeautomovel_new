@@ -1,6 +1,7 @@
 ---
 title: Qual o preço médio do seguro do Spacefox
 date: 2018-08-13 18:30:00 Z
+layout: post
 categories:
 - Modelos de carro
 tags:
