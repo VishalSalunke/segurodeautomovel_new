@@ -51,7 +51,7 @@ As estatísticas dos [carros mais vendidos de 2015](/carros-mais-vendidos-2015) 
 
 ### Por que os hatches compactos são tão vendidos?
 
-<div id="attachment_1981" style="width: 318px" class="wp-caption alignleft">
+<div id="attachment_1981"  class="wp-caption alignleft">
   <img class="wp-image-1981 " src="/wp-content/uploads/2016/02/novo-chevrolet-onix-300x146.jpg" alt="Chevrolet Onix azul" width="308" height="150" />
   
   <p class="wp-caption-text">
@@ -73,7 +73,7 @@ Muitas das vezes, a troca de um carro compacto para um modelo sedã é causada p
 
 Veja a seguir os **10 hatches compactos mais vendidos de 2015**.
 
-<div id="attachment_331" style="width: 263px" class="wp-caption alignright">
+<div id="attachment_331"  class="wp-caption alignright">
   <img class=" wp-image-331" src="/wp-content/uploads/2015/01/hb20-300x190.png" alt="Hyundai HB20 preto" width="253" height="160" />
   
   <p class="wp-caption-text">

@@ -41,7 +41,7 @@ description: Quer desconto na contratação do seguro auto? Então saiba tudo so
 
 **Se você não cometeu qualquer infração no trânsito, aproveite e faça um seguro auto com desconto para bom motorista.**
 
-<div id="attachment_2508" style="width: 235px" class="wp-caption alignleft">
+<div id="attachment_2508"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/06/Seguro-auto-com-desconto-para-bom-motorista2.png" rel="attachment wp-att-2508"><img class="wp-image-2508 size-full" title="Seguro auto com desconto para bom motorista" src="/wp-content/uploads/2016/06/Seguro-auto-com-desconto-para-bom-motorista2.png" alt="Seguro auto com desconto para bom motorista" width="225" height="225" /></a>
   
   <p class="wp-caption-text">

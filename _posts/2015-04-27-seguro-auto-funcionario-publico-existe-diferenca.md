@@ -31,7 +31,7 @@ description: Será que existe diferença ao contratar um seguro auto específico
 
 Se você passou em um concurso público e está ansioso para adquirir o seu primeiro carro, lembre-se de contratar um bom seguro auto para proteger o seu investimento. Nessas horas, você gostará de saber que o seguro auto para funcionários públicos possui algumas vantagens em relação ao seguro auto “convencional”.
 
-<div id="attachment_469" style="width: 504px" class="wp-caption aligncenter">
+<div id="attachment_469"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/04/seguro_auto_funcionario_publico.png"><img class="img-adjustment size-full wp-image-469" src="/wp-content/uploads/2015/04/seguro_auto_funcionario_publico.png" alt="Foto: aprovaconcursos.com.br" width="494" height="328" srcset="/wp-content/uploads/2015/04/seguro_auto_funcionario_publico.png 494w, /wp-content/uploads/2015/04/seguro_auto_funcionario_publico-250x166.png 250w, /wp-content/uploads/2015/04/seguro_auto_funcionario_publico-120x80.png 120w" sizes="(max-width: 494px) 100vw, 494px" /></a>
   
   <p class="wp-caption-text">

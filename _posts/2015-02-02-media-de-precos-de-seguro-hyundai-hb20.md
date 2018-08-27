@@ -35,7 +35,7 @@ Se você já tem ou pretende adquirir um Hyundai HB20, sabe que é essencial con
 
 O Hyundai HB20 é um dos modelos mais bonitos, modernos e arrojados da Hyundai, contando com duas opções de motor (1.0 com 80 cv de potência ou 1.6 com 128 cv) e opções de customização e funcionalidades: há desde a versão Comfort (mais básica) até a Premium (completa), que oferece câmbio automático, rodas de liga leve de 15”, faróis cromados e muito mais.
 
-<div id="attachment_331" style="width: 510px" class="wp-caption aligncenter">
+<div id="attachment_331"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/hb20.png"><img class="img-adjustment wp-image-331 size-full" src="/wp-content/uploads/2015/01/hb20.png" alt="hb20" width="500" height="316" srcset="/wp-content/uploads/2015/01/hb20.png 500w, /wp-content/uploads/2015/01/hb20-250x158.png 250w, /wp-content/uploads/2015/01/hb20-120x76.png 120w" sizes="(max-width: 500px) 100vw, 500px" /></a>
   
   <p class="wp-caption-text">

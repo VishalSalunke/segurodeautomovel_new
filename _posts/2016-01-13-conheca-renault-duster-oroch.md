@@ -46,7 +46,7 @@ description: Veja como é a Renault Duster Oroch, novo lançamento da Renault, e
 
 _Conheça a Renault Duster Oroch, nova aposta da Renault, lançado no Brasil em 2015, e saia na frente com informações importantes sobre o seu seguro auto!_
 
-<div id="attachment_2000" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2000"  class="wp-caption alignleft">
   <img class="wp-image-2000 size-medium" src="/wp-content/uploads/2016/01/renault-duster-oroch-300x200.jpg" alt="Renault Duster Oroch 2015" width="300" height="200" />
   
   <p class="wp-caption-text">

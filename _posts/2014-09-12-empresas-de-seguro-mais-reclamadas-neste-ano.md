@@ -27,7 +27,7 @@ description: Antes de escolher o seguro auto faça a cotação e receba os melho
   e serviços do mercado, acesse Segurodeautomovel.org e tire todas as suas dúvidas.
 ---
 
-<div id="0acb8fea-351c-4cb5-a887-2845fdcdeb63" class="vemmClicksWidget" style="width: 336px; height: 290px;">
+<div id="0acb8fea-351c-4cb5-a887-2845fdcdeb63" class="vemmClicksWidget" >
 </div>
 
 O número de reclamações que uma empresa de seguros recebe não é o fator que determina o quão boa ou confiável é a seguradora. Tenha sempre em mente que algumas empresas têm mais clientes do que outras, de modo que o número de reclamações ou queixas não é proporcional.

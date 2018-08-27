@@ -71,7 +71,7 @@ Na Europa, as vendas da FCA não são tão expressivas quanto as vendas da Fiat 
 
 ### Por que a Fiat vende tanto no Brasil?
 
-<div id="attachment_1984" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_1984"  class="wp-caption alignleft">
   <img class="wp-image-1984 size-medium" src="/wp-content/uploads/2016/02/fiat-palio-fire-300x210.png" alt="Fiat Palio Fire" width="300" height="210" />
   
   <p class="wp-caption-text">

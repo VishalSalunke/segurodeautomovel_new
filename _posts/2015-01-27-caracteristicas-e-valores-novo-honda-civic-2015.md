@@ -57,7 +57,7 @@ O visual externo recebeu um “tapa”, com linhas mais suaves, mudanças na gra
 
 
 
-<div id="a25b8116-43a7-4993-9a12-8883bb7cdffd" class="vemmClicksWidget" style="width: 336px; height: 290px;">
+<div id="a25b8116-43a7-4993-9a12-8883bb7cdffd" class="vemmClicksWidget" >
 </div>
 
 A parte interna, evidentemente, não foi esquecida: o Honda Civic 2015 continua oferecendo grande conforto para os seus passageiros. Amplo espaço interno, bancos com revestimentos de couro e um porta-malas com quase 500 litros de capacidade são apenas alguns dos recursos da nova versão desse modelo – cujo foco no conforto dos passageiros é tão grande que oferece regulagem de altura nos assentos e a possibilidade de controlar o veículo diretamente dos inúmeros botões de função do volante.

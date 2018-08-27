@@ -46,7 +46,7 @@ description: Está preocupado com o preço da gasolina? Então evite dirigir um 
 
 _Um carro que “bebe” muito combustível pode acabar representando um fardo nas finanças, principalmente com os altos preços de combustíveis (especialmente a gasolina). Essa lista mostra 10 modelos de carros que consomem muito combustível!_
 
-<div id="attachment_2007" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2007"  class="wp-caption alignleft">
   <img class="wp-image-2007 size-medium" src="/wp-content/uploads/2016/01/audi-a3-300x169.jpg" alt="Audi A3 estacionado" width="300" height="169" />
   
   <p class="wp-caption-text">

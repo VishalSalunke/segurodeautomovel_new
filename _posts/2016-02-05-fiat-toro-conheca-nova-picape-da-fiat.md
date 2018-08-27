@@ -45,7 +45,7 @@ Apesar de ser lançada no segmento de picapes, a Fiat Toro, a princípio, não v
 
 ## **Características da Fiat Toro**
 
-<div id="attachment_2201" style="width: 451px" class="wp-caption aligncenter">
+<div id="attachment_2201"  class="wp-caption aligncenter">
   <img class=" wp-image-2201" src="/wp-content/uploads/2016/02/fiat-toro-2-300x157.png" alt="Nova Fiat Toro" width="441" height="231" />
   
   <p class="wp-caption-text">

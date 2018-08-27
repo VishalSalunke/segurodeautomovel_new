@@ -56,7 +56,7 @@ Agora você consegue entender a importância de contratar um seguro para carro f
 
 ## **O seguro de automóvel em caso de furto ou roubo**
 
-<div id="attachment_449" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_449"  class="wp-caption alignleft">
   <img class="size-medium wp-image-449" src="/wp-content/uploads/2015/04/seguro_auto_mensal-300x141.png" alt="Com um seguro auto, você protege seu financiamento" width="300" height="141" />
   
   <p class="wp-caption-text">

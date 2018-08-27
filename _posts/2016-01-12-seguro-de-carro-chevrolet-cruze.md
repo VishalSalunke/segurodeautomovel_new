@@ -46,7 +46,7 @@ description: Características, vantagens, desvantagens e cotação online de seg
 
 _Este artigo oferece um panorama geral sobre o Chevrolet Cruze e fornece informações importantes sobre o seguro auto desse modelo (como a média de preços). De quebra, você ainda pode cotar o seu seguro de carro online!_
 
-<div id="attachment_1979" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_1979"  class="wp-caption alignleft">
   <img class="wp-image-1979 size-medium" src="/wp-content/uploads/2016/02/novo-chevrolet-cruze-300x129.jpg" alt="Chevrolet Cruze em ação" width="300" height="129" />
   
   <p class="wp-caption-text">

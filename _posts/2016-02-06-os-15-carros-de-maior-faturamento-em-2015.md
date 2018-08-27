@@ -71,7 +71,7 @@ Um modelo mais caro, evidentemente, não precisa do mesmo número de vendas de u
 
 ### **Comparação de faturamento com número de vendas**
 
-<div id="attachment_1981" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_1981"  class="wp-caption alignright">
   <img class="size-medium wp-image-1981" src="/wp-content/uploads/2016/02/novo-chevrolet-onix-300x146.jpg" alt="Chevrolet Onix azul" width="300" height="146" />
   
   <p class="wp-caption-text">

@@ -53,7 +53,7 @@ Entretanto, veja a seguir outras situações em que um seguro auto pode te ajuda
 
 Se o seu seguro auto tiver o serviço de assistência 24 horas, você estará seguro caso algum pneu do seu carro fure durante uma viagem. Isso porque você poderá acionar esse serviço e contar com um profissional qualificado para lhe ajudar nessa tarefa.
 
-<div id="attachment_2019" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_2019"  class="wp-caption alignright">
   <img class="wp-image-2019 size-medium" src="/wp-content/uploads/2016/01/seguro-pneu-estepe-300x199.jpg" alt="Seguro de carro cobre pneu estepe?" width="300" height="199" />
   
   <p class="wp-caption-text">

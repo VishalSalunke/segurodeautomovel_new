@@ -40,7 +40,7 @@ description: Você tem ou deseja ter um Hyundai Azera? Fique por dentro de todas
 
 O Hyundai Azera é um sedã que está no mercado automobilístico brasileiro desde 2007, quando começou a ser importado da Coreia do Sul. Em 2010, o modelo ganhou mais potência ao receber um motor de 265 cavalos; dois anos depois, a segunda geração do Azera chegou ao mercado com um motor 3.0 de 250 cavalos.
 
-<div id="attachment_514" style="width: 276px" class="wp-caption alignleft">
+<div id="attachment_514"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2015/05/azera.png"><img class="img-adjustment wp-image-514 " src="/wp-content/uploads/2015/05/azera.png" alt="azera" width="266" height="158" srcset="/wp-content/uploads/2015/05/azera.png 558w, /wp-content/uploads/2015/05/azera-250x148.png 250w, /wp-content/uploads/2015/05/azera-120x71.png 120w" sizes="(max-width: 266px) 100vw, 266px" /></a>
   
   <p class="wp-caption-text">

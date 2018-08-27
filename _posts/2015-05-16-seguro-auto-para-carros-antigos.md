@@ -31,7 +31,7 @@ description: Você é amante das raridades automobilísticas? Tem um carro antig
 
 Apesar de ser uma prática comum no mercado automobilístico a troca anual de veículo – tudo para se manter em dia com as novidades do mercado e com os modelos de última geração – não é raro ver motoristas que permanecem com o mesmo carro durante anos.
 
-<div id="attachment_495" style="width: 418px" class="wp-caption aligncenter">
+<div id="attachment_495"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/fusca.png"><img class="size-full wp-image-495" src="/wp-content/uploads/2015/05/fusca.png" alt="Foto: fusca4ever.com.br" width="408" height="215" srcset="/wp-content/uploads/2015/05/fusca.png 408w, /wp-content/uploads/2015/05/fusca-250x132.png 250w, /wp-content/uploads/2015/05/fusca-120x63.png 120w" sizes="(max-width: 408px) 100vw, 408px" /></a>
   
   <p class="wp-caption-text">

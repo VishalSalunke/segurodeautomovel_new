@@ -41,7 +41,7 @@ description: Quer proteger o seu Fiat Toro? Então contrate já um seguro auto F
 
 **Na hora de escolher o seguro auto Fiat Toro, lembre-se de nossas dicas! Conheça quais são.**
 
-<div id="attachment_2369" style="width: 304px" class="wp-caption alignleft">
+<div id="attachment_2369"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/05/Seguro-auto-Fiat-Toro.jpg" rel="attachment wp-att-2369"><img class="wp-image-2369 size-full" title="Seguro auto Fiat Toro" src="/wp-content/uploads/2016/05/Seguro-auto-Fiat-Toro.jpg" alt="Seguro auto Fiat Toro" width="294" height="171" /></a>
   
   <p class="wp-caption-text">
@@ -67,7 +67,7 @@ Ao contratar o seguro, você está livre de dor de cabeça, pois a seguradora ga
 
 ## Preço médio do seguro para o Fiat Toro
 
-<div id="attachment_2370" style="width: 390px" class="wp-caption alignleft">
+<div id="attachment_2370"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/05/Seguro-auto-Fiat-Toro2.jpg" rel="attachment wp-att-2370"><img class="wp-image-2370" title="Seguro auto Fiat Toro" src="/wp-content/uploads/2016/05/Seguro-auto-Fiat-Toro2-300x200.jpg" alt="Seguro auto Fiat Toro" width="380" height="254" /></a>
   
   <p class="wp-caption-text">

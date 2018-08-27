@@ -28,7 +28,7 @@ description: Garanta a segurança do seu carro, faça seu seguro de automóvel c
   empresa que ofereça benefícios e bom preço, faça sua cotação no Segurodeautomovel.org
 ---
 
-<div id="b85a3468-a0ac-4253-a87d-f3db119c017d" class="vemmClicksWidget" style="width: 336px; height: 290px;">
+<div id="b85a3468-a0ac-4253-a87d-f3db119c017d" class="vemmClicksWidget" >
 </div>
 
 Todo brasileiro sonha em ter o seu próprio automóvel, e muito em virtude disso dispende grande tempo e preocupação planejando e escolhendo qual seguro de carro irá contratar. No entanto, essa proteção pode virar uma grande dor de cabeça se o consumidor não escolher a seguradora certa.

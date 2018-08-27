@@ -69,7 +69,7 @@ Esses números, embora possam sugerir um resfriamento nos demais nichos do merca
 
 Os modelos de carros usados mais vendidos no primeiro semestre de 2015 são:
 
-<div id="attachment_1984" style="width: 166px" class="wp-caption alignright">
+<div id="attachment_1984"  class="wp-caption alignright">
   <img class=" wp-image-1984" src="/wp-content/uploads/2016/02/fiat-palio-fire-300x210.png" alt="Fiat Palio Fire" width="156" height="109" />
   
   <p class="wp-caption-text">

@@ -63,7 +63,7 @@ Mas leia com atenção o seu contrato antes de assiná-lo e tire todas as suas d
 
 ## Valor do seguro auto na Bahia
 
-<div id="attachment_2534" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2534"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/06/Seguro-auto-Bahia2.jpg" rel="attachment wp-att-2534"><img class="wp-image-2534 size-medium" title="Seguro auto Bahia" src="/wp-content/uploads/2016/06/Seguro-auto-Bahia2-300x205.jpg" alt="Seguro auto Bahia" width="300" height="205" /></a>
   
   <p class="wp-caption-text">

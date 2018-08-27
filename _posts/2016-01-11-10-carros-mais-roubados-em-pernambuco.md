@@ -46,7 +46,7 @@ description: Você sabia que os carros mais roubados em Pernambuco são modelos 
 
 _Descubra quais são os modelos mais furtados/roubados no estado de Pernambuco e faça cotação online de seguro auto com as principais corretoras da região. Garanta a proteção do seu investimento com um seguro de automóvel!_
 
-<div id="attachment_2005" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2005"  class="wp-caption alignleft">
   <img class="wp-image-2005 size-medium" src="/wp-content/uploads/2016/01/seguro-carro-recife-300x200.jpg" alt="Cotar seguro de carro em Recife online é fácil no SeguroDeAutomovel.Org" width="300" height="200" />
   
   <p class="wp-caption-text">

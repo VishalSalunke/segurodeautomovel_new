@@ -49,7 +49,7 @@ _O Gol ainda é o carro-chefe da Volkswagen no Brasil, mas perdeu espaço para m
 
 O ano de 2015 foi difícil para as montadoras de automóveis, mas especialmente turbulento para a Volkswagen. A empresa alemã, dona de marcas como Audi, Porsche, MAN e Scania, teve sua reputação seriamente comprometida pelo <a href="http://g1.globo.com/carros/noticia/2015/09/escandalo-da-volkswagen-veja-o-passo-passo-do-caso.html" target="_blank" rel="noopener noreferrer">escândalo da fraude em motores</a> e, pela primeira vez em quinze anos, <a href="http://g1.globo.com/carros/noticia/2015/10/volkswagen-sofre-1-prejuizo-trimestral-em-pelo-menos-15-anos.html" target="_blank" rel="noopener noreferrer">reportou um trimestre com prejuízos</a>.
 
-<div id="attachment_1977" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_1977"  class="wp-caption alignleft">
   <img class="size-medium wp-image-1977" src="/wp-content/uploads/2016/02/volkswagen-gol-1.0-300x164.png" alt="Volkswagen Gol 1.0" width="300" height="164" />
   
   <p class="wp-caption-text">
@@ -63,7 +63,7 @@ O principal golpe veio com o fraquíssimo desempenho do Volkswagen Gol no mercad
 
 ## Os 10 carros Volkswagen mais vendidos de 2015:
 
-<div id="attachment_1976" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_1976"  class="wp-caption alignright">
   <img class="wp-image-1976 size-medium" src="/wp-content/uploads/2016/02/volkswagen-fox-track-300x142.jpg" alt="Novo Volkswagen Fox Track" width="300" height="142" />
   
   <p class="wp-caption-text">

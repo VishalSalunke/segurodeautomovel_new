@@ -33,7 +33,7 @@ description: Saiba como contratar um seguro auto que se encaixe no seu orçament
 
 As condições de trânsito e segurança nos grandes centros urbanos tornaram indispensável, para aqueles que possuem o seu próprio automóvel, contratar um seguro auto. Isso porque as possibilidades de dano ao veículo são incontáveis: de acidentes automobilísticos a defeitos naturais, passando por furtos e roubos.
 
-<div id="attachment_337" style="width: 439px" class="wp-caption aligncenter">
+<div id="attachment_337"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/seguro_economia.png"><img class="img-adjustment size-full wp-image-337" src="/wp-content/uploads/2015/01/seguro_economia.png" alt="Foto: fecomerciomg.org.br" width="429" height="283" srcset="/wp-content/uploads/2015/01/seguro_economia.png 429w, /wp-content/uploads/2015/01/seguro_economia-250x165.png 250w, /wp-content/uploads/2015/01/seguro_economia-120x79.png 120w" sizes="(max-width: 429px) 100vw, 429px" /></a>
   
   <p class="wp-caption-text">

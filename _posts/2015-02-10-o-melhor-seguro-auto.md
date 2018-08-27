@@ -22,5 +22,5 @@ wpb_post_views_count:
 - '300'
 ---
 
-<div class="vemmClicksWidget" id="be2b0d1f-7dbc-4a9e-958d-2a6446026969" style="width:250px;height:262px;">
+<div class="vemmClicksWidget" id="be2b0d1f-7dbc-4a9e-958d-2a6446026969" >
 </div>

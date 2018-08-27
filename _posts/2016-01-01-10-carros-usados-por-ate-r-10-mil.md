@@ -56,7 +56,7 @@ Comprar um carro usado é uma excelente alternativa para quem está cansado do t
 
 Veja, a seguir, quais são os 10 modelos de carros usados mais baratos do mercado. É possível encontrar seminovos desses modelos por até 10 mil reais!
 
-<div id="attachment_509" style="width: 257px" class="wp-caption alignright">
+<div id="attachment_509"  class="wp-caption alignright">
   <img class=" wp-image-509" src="/wp-content/uploads/2015/05/fiat_uno-300x182.png" alt="Seguro de carro Fiat Uno" width="247" height="150" />
   
   <p class="wp-caption-text">

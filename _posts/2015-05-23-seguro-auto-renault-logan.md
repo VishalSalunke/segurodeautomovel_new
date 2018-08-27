@@ -32,7 +32,7 @@ description: Saiba porque você PRECISA contratar um seguro auto Logan, que é u
   sedãs mais visados do mercado automobilístico!
 ---
 
-<div id="attachment_543" style="width: 449px" class="wp-caption aligncenter">
+<div id="attachment_543"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/renault-logan.jpg"><img class="img-adjustment wp-image-543" src="/wp-content/uploads/2015/05/renault-logan-300x188.jpg" alt="Renault Logan" width="439" height="275" /></a>
   
   <p class="wp-caption-text">

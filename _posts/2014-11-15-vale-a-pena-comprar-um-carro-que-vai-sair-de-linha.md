@@ -30,7 +30,7 @@ description: Você sabia que comprar um carro que vai sair de linha pode ser um 
   negócio? Confira aqui no site segurodeautomovel.org!
 ---
 
-<div id="b85a3468-a0ac-4253-a87d-f3db119c017d" class="vemmClicksWidget" style="width: 336px; height: 290px;">
+<div id="b85a3468-a0ac-4253-a87d-f3db119c017d" class="vemmClicksWidget" >
 </div>
 
 **Você sabia que comprar um carro que vai sair de linha pode ser um bom negócio? Porém, é preciso avaliar o modelo, quanto você vai economizar, quanto tempo ficará com ele e a reputação. Veja como se esta é ou não a melhor opção de compra.**

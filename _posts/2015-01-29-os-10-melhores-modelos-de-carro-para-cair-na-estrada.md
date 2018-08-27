@@ -35,7 +35,7 @@ Quem utiliza muito o carro para viajar precisa de um modelo que ofereça seguran
 
 ## 1 – Honda CRV
 
-<div id="attachment_320" style="width: 359px" class="wp-caption aligncenter">
+<div id="attachment_320"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/honda_crv.png"><img class="img-adjustment size-full wp-image-320" src="/wp-content/uploads/2015/01/honda_crv.png" alt="Foto: kuni-honda.com" width="349" height="215" srcset="/wp-content/uploads/2015/01/honda_crv.png 349w, /wp-content/uploads/2015/01/honda_crv-250x154.png 250w, /wp-content/uploads/2015/01/honda_crv-120x74.png 120w" sizes="(max-width: 349px) 100vw, 349px" /></a>
   
   <p class="wp-caption-text">
@@ -59,7 +59,7 @@ Trata-se de uma minivan com amplo espaço interno que permite até mesmo a livre
 
 ## 5 – Renault Sandero Stepway
 
-<div id="attachment_321" style="width: 424px" class="wp-caption aligncenter">
+<div id="attachment_321"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/01/sandero.png"><img class="size-full wp-image-321" src="/wp-content/uploads/2015/01/sandero.png" alt="Foto: car.blog.br" width="414" height="256" srcset="/wp-content/uploads/2015/01/sandero.png 414w, /wp-content/uploads/2015/01/sandero-250x155.png 250w, /wp-content/uploads/2015/01/sandero-120x74.png 120w" sizes="(max-width: 414px) 100vw, 414px" /></a>
   
   <p class="wp-caption-text">

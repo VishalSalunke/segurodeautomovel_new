@@ -41,7 +41,7 @@ description: Ainda não contratou o seguro auto Citroen DS5? Anote as dicas do s
 
 Se você ainda não possui um seguro auto Citroen DS5, vai gostar de ler o artigo que preparei. Aqui você vai encontrar muitas informações úteis para ter o melhor seguro para o seu veículo. Veja quais são e proteja o seu bem!
 
-<div id="attachment_3651" style="width: 630px" class="wp-caption aligncenter">
+<div id="attachment_3651"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2017/05/seguro-auto-citroen-ds5.jpg"><img class="wp-image-3651 size-full" title="Seguro auto Citroen DS5" src="/wp-content/uploads/2017/05/seguro-auto-citroen-ds5.jpg" alt="Seguro auto Citroen DS5" width="620" height="400" srcset="/wp-content/uploads/2017/05/seguro-auto-citroen-ds5.jpg 620w, /wp-content/uploads/2017/05/seguro-auto-citroen-ds5-250x161.jpg 250w, /wp-content/uploads/2017/05/seguro-auto-citroen-ds5-120x77.jpg 120w" sizes="(max-width: 620px) 100vw, 620px" /></a>
   
   <p class="wp-caption-text">

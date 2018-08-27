@@ -40,7 +40,7 @@ description: Saiba tudo sobre o Seguro Auto em Porto Alegre e garanta a seguran�
   do seu veículo com os benefícios e vantagens do seguro de automóvel.
 ---
 
-<div id="attachment_446" style="width: 322px" class="wp-caption alignleft">
+<div id="attachment_446"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2015/04/porto_alegre.png"><img class="img-adjustment wp-image-446 " src="/wp-content/uploads/2015/04/porto_alegre.png" alt="porto_alegre" width="312" height="207" srcset="/wp-content/uploads/2015/04/porto_alegre.png 565w, /wp-content/uploads/2015/04/porto_alegre-250x165.png 250w, /wp-content/uploads/2015/04/porto_alegre-120x79.png 120w" sizes="(max-width: 312px) 100vw, 312px" /></a>
   
   <p class="wp-caption-text">

@@ -64,7 +64,7 @@ _**Se você é mulher ou casado, <a href="/seguro-auto-para-mulher" target="_bla
 
 Nesses casos, existe uma linha tênue entre a boa e a má-fé. A má-fé fica caracterizada quando o signatário da proposta de seguro de carro omite ou deturpa informações para pagar um prêmio menor pelo seguro auto.
 
-<div id="attachment_2951" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2951" class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/02/sincero-com-a-seguradora2.jpg"><img class="wp-image-2951 size-medium" title="Ao contratar o seguro de carro, não minta para a seguradora" src="/wp-content/uploads/2016/02/sincero-com-a-seguradora2-300x135.jpg" alt="Ao contratar o seguro de carro, não minta para a seguradora" width="300" height="135" /></a>
   
   <p class="wp-caption-text">

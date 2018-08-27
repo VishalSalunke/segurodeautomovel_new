@@ -31,7 +31,7 @@ description: Use seu carro com tranquilidade! saiba as opções de seguro auto p
 
 O Kia Soul começou a ser vendido no Brasil em 2009, ano em que passou a ser importado da Coreia do Sul o modelo com motor 1.6, 16V, com 124 cavalos. Sua entrada no mercado automobilístico brasileiro tornou o Kia Soul um dos carros mais procurados do país.
 
-<div id="attachment_521" style="width: 618px" class="wp-caption aligncenter">
+<div id="attachment_521"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/kia_soul.png"><img class="img-adjustment size-full wp-image-521" src="/wp-content/uploads/2015/05/kia_soul.png" alt="Foto: kia.com" width="608" height="308" srcset="/wp-content/uploads/2015/05/kia_soul.png 608w, /wp-content/uploads/2015/05/kia_soul-250x127.png 250w, /wp-content/uploads/2015/05/kia_soul-120x61.png 120w" sizes="(max-width: 608px) 100vw, 608px" /></a>
   
   <p class="wp-caption-text">

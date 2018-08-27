@@ -39,7 +39,7 @@ Nesse processo de planejamento financeiro, saber o preço médio de seguro auto 
 
 ## Preço médio do seguro auto Renault Logan
 
-<div id="attachment_498" style="width: 493px" class="wp-caption aligncenter">
+<div id="attachment_498"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/logan.png"><img class="img-adjustment wp-image-498 size-full" src="/wp-content/uploads/2015/05/logan.png" alt="logan" width="483" height="297" srcset="/wp-content/uploads/2015/05/logan.png 483w, /wp-content/uploads/2015/05/logan-250x154.png 250w, /wp-content/uploads/2015/05/logan-120x74.png 120w" sizes="(max-width: 483px) 100vw, 483px" /></a>
   
   <p class="wp-caption-text">
@@ -53,7 +53,7 @@ A título de comparação, o seguro auto de um Logan para um homem de 43 anos qu
 
 ## Preço médio do seguro auto Chevrolet Cobalt
 
-<div id="attachment_499" style="width: 450px" class="wp-caption aligncenter">
+<div id="attachment_499"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/cobalt.png"><img class="wp-image-499 size-full" src="/wp-content/uploads/2015/05/cobalt.png" alt="cobalt" width="440" height="245" srcset="/wp-content/uploads/2015/05/cobalt.png 440w, /wp-content/uploads/2015/05/cobalt-250x139.png 250w, /wp-content/uploads/2015/05/cobalt-120x67.png 120w" sizes="(max-width: 440px) 100vw, 440px" /></a>
   
   <p class="wp-caption-text">
@@ -69,7 +69,7 @@ Como dissemos, o preço final do seguro auto depende muito mais do motorista do 
 
 ## Preço médio do seguro auto Toyota Etios
 
-<div id="attachment_500" style="width: 439px" class="wp-caption aligncenter">
+<div id="attachment_500"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/toyota_elios.png"><img class="wp-image-500 size-full" src="/wp-content/uploads/2015/05/toyota_elios.png" alt="toyota_elios" width="429" height="258" srcset="/wp-content/uploads/2015/05/toyota_elios.png 429w, /wp-content/uploads/2015/05/toyota_elios-250x150.png 250w, /wp-content/uploads/2015/05/toyota_elios-120x72.png 120w" sizes="(max-width: 429px) 100vw, 429px" /></a>
   
   <p class="wp-caption-text">
@@ -83,7 +83,7 @@ Por outro lado, um condutor de 77 anos, residente na capital do Paraná, precisa
 
 ## Preço médio do seguro auto Toyota Hilux
 
-<div id="attachment_501" style="width: 455px" class="wp-caption aligncenter">
+<div id="attachment_501"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/hilux.png"><img class="wp-image-501 size-full" src="/wp-content/uploads/2015/05/hilux.png" alt="hilux" width="445" height="238" srcset="/wp-content/uploads/2015/05/hilux.png 445w, /wp-content/uploads/2015/05/hilux-250x134.png 250w, /wp-content/uploads/2015/05/hilux-120x64.png 120w" sizes="(max-width: 445px) 100vw, 445px" /></a>
   
   <p class="wp-caption-text">
@@ -97,7 +97,7 @@ Um homem de 44 anos, residente em Pato Branco (PR), consegue proteger a sua Hilu
 
 ## Preço médio do seguro auto Chevrolet Spin
 
-<div id="attachment_502" style="width: 420px" class="wp-caption aligncenter">
+<div id="attachment_502"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/spin.png"><img class="wp-image-502 size-full" src="/wp-content/uploads/2015/05/spin.png" alt="spin" width="410" height="282" srcset="/wp-content/uploads/2015/05/spin.png 410w, /wp-content/uploads/2015/05/spin-250x172.png 250w, /wp-content/uploads/2015/05/spin-120x83.png 120w" sizes="(max-width: 410px) 100vw, 410px" /></a>
   
   <p class="wp-caption-text">

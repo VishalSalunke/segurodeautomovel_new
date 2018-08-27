@@ -41,7 +41,7 @@ description: Vai comprar um carro? Então veja quais os modelos que estão na li
 
 **Para você comprar com toda segurança o seu carro, conheça a lista dos 10 carros mais roubados em Minas Gerais – MG.**
 
-<div id="attachment_2396" style="width: 390px" class="wp-caption alignleft">
+<div id="attachment_2396"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/05/Lista-dos-10-carros-mais-roubados-em-Minas-Gerais.jpeg" rel="attachment wp-att-2396"><img class="wp-image-2396" title="Lista dos 10 carros mais roubados em Minas Gerais" src="/wp-content/uploads/2016/05/Lista-dos-10-carros-mais-roubados-em-Minas-Gerais.jpeg" alt="Lista dos 10 carros mais roubados em Minas Gerais" width="380" height="253" /></a>
   
   <p class="wp-caption-text">

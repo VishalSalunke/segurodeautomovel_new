@@ -70,7 +70,7 @@ Essa é uma maneira que as seguradoras têm para facilitar o processo de manuten
 
 ## Preço médio seguro auto para carros velhos
 
-<div id="attachment_2374" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_2374"  class="wp-caption alignleft">
   <a href="/wp-content/uploads/2016/05/Posso-contratar-um-seguro-auto-para-carros-velhos2.jpg" rel="attachment wp-att-2374"><img class="wp-image-2374 size-medium" title="Posso contratar um seguro auto para carros velhos?" src="/wp-content/uploads/2016/05/Posso-contratar-um-seguro-auto-para-carros-velhos2-300x141.jpg" alt="Posso contratar um seguro auto para carros velhos?" width="300" height="141" /></a>
   
   <p class="wp-caption-text">

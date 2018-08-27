@@ -53,7 +53,7 @@ O ano de 2015 não foi fácil para as montadoras de automóveis no Brasil. Diant
 
 A Chevrolet, entretanto, teve motivos para comemorar em 2015. Para ser mais preciso, 125.034 motivos, que equivalem ao total de unidades do Chevrolet Onix que foram vendidas em 2015, transformam esse modelo no **<a href="/carros-mais-vendidos-2015" target="_blank">carro mais vendido do ano</a> **e, também, oxigenaram as finanças da Chevrolet com <a href="http://motorshow.com.br/conheca-o-ranking-de-faturamento-dos-carros-mais-vendidos-do-brasil/" target="_blank">mais de 8 bilhões de reais em vendas</a>!
 
-<div id="attachment_1981" style="width: 310px" class="wp-caption alignleft">
+<div id="attachment_1981"  class="wp-caption alignleft">
   <img class="wp-image-1981 size-medium" src="/wp-content/uploads/2016/02/novo-chevrolet-onix-300x146.jpg" alt="Chevrolet Onix azul" width="300" height="146" />
   
   <p class="wp-caption-text">
@@ -69,7 +69,7 @@ Neste artigo, você irá conhecer todos os 10 carros Chevrolet mais vendidos de 
 
 ## Veja os 10 carros Chevrolet mais vendidos de 2015
 
-<div id="attachment_1979" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_1979"  class="wp-caption alignright">
   <img class="wp-image-1979 size-medium" src="/wp-content/uploads/2016/02/novo-chevrolet-cruze-300x129.jpg" alt="Novo Chevrolet Cruze 2016" width="300" height="129" />
   
   <p class="wp-caption-text">

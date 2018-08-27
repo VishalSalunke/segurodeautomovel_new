@@ -49,7 +49,7 @@ A Captiva também é um SUV espaçoso, que é indicado para viagens em razão, t
 
 ## 3 – Nissan Grand Livina
 
-<div id="attachment_484" style="width: 509px" class="wp-caption aligncenter">
+<div id="attachment_484"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/Nissan_Grand_Livina.png"><img class="img-adjustment size-full wp-image-484" src="/wp-content/uploads/2015/05/Nissan_Grand_Livina.png" alt="Foto: Itavema.com.br" width="499" height="343" srcset="/wp-content/uploads/2015/05/Nissan_Grand_Livina.png 499w, /wp-content/uploads/2015/05/Nissan_Grand_Livina-250x172.png 250w, /wp-content/uploads/2015/05/Nissan_Grand_Livina-120x82.png 120w" sizes="(max-width: 499px) 100vw, 499px" /></a>
   
   <p class="wp-caption-text">
@@ -69,7 +69,7 @@ A Chevrolet Spin é, basicamente, uma minivan, ideal para levar toda a família 
 
 ## 6 – Ford Focus
 
-<div id="attachment_485" style="width: 398px" class="wp-caption aligncenter">
+<div id="attachment_485"  class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/ford_focus.png"><img class="size-full wp-image-485" src="/wp-content/uploads/2015/05/ford_focus.png" alt="Foto: motortrend.com" width="388" height="243" srcset="/wp-content/uploads/2015/05/ford_focus.png 388w, /wp-content/uploads/2015/05/ford_focus-250x157.png 250w, /wp-content/uploads/2015/05/ford_focus-120x75.png 120w" sizes="(max-width: 388px) 100vw, 388px" /></a>
   
   <p class="wp-caption-text">
