@@ -8,6 +8,14 @@ image_file_name: acionar-seguradores.JPG
 description: descricao
 categories:
   - Seguradoras
+  - Artigos
+  - blog
+  - Blog
+  - Cidades
+  - Diretório
+  - Modelos de carro
+  - Uncategorized
+  - Avaliações
 tags:
   - porto seguro
 og_image_width:
