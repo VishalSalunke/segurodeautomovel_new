@@ -1,7 +1,7 @@
 ---
 title: O titulo do seu post
 layout: post
-date: 2018-09-01 00:00:00
+date: 2018-08-01 00:00:00
 permalink:
 author: Rodrigo Conceicao
 image_file_name: acionar-seguradores.JPG
