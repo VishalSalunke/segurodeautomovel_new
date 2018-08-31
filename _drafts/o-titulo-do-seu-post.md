@@ -1,15 +1,23 @@
 ---
 title: O titulo do seu post
 layout: post
-date:
+date: 2018-09-01 00:00:00
 permalink:
-author:
-image_file_name:
-description:
+author: Rodrigo Conceicao
+image_file_name: acionar-seguradores.JPG
+description: descricao
 categories:
-  - blog
+  - Seguradoras
 tags:
-  - Dúvidas sobre seguro auto
+  - porto seguro
 og_image_width:
 og_image_height:
 ---
+
+oi eu sou muito bonito
+
+defdwfd
+
+![](/uploads/acionar-seguradores.JPG)
+
+![](/uploads/hb20-seguro-video.jpg)
