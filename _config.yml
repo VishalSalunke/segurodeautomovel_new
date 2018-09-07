@@ -42,6 +42,7 @@ exclude:
 - node_modules
 include:
 - Gemfile
+- .htaccess
 encoding: utf-8
 blacklistedTags:
 - cornerstone
