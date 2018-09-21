@@ -1,15 +1,17 @@
 ---
 title: Testando2
 layout: post
-date:
+date: 2018-09-04 00:00:00
 permalink:
-author:
+author: Rodrigo Santos
 image_file_name:
-description:
+description: Decrinaoç
 categories:
-  - blog
+  - Modelos de carro
 tags:
-  - Dúvidas sobre seguro auto
+  - Capitais
 og_image_width:
 og_image_height:
 ---
+
+Rodrigo sandos
