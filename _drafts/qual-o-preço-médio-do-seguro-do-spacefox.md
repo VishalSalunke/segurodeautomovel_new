@@ -59,61 +59,27 @@ Se a ideia &eacute; ter uma no&ccedil;&atilde;o de quanto voc&ecirc; pagaria, ve
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2018
 
-| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o
-
-|-------|--------|---------|---------|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
 | Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 47 anos | Minas Gerais | R$ 1.688,13 |
 
-Spacefox 1.6 Trendline Total Flex 8V 5P
+| Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 59 anos | S&atilde;o Paulo | R$ 2.472,09 |
 
-Feminino, 59 anos
+| Spacefox 1.6 Trendline I Mot. T.Flex 8V | Masculino, 55 anos | Goi&aacute;s | R$ 2.992,46 |
 
-S&atilde;o Paulo
+### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2016
 
-R$ 2.472,09
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-Spacefox 1.6 Trendline I Mot. T.Flex 8V
+| Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 52 anos | Minas Gerais | R$ 2.566,00 |
 
-Masculino, 55 anos
+| Spacefox 1.6 Trendline Total Flex 8V 5P | Masculino, 34 anos | S&atilde;o Paulo | R$ 1.027,34 |
 
-Goi&aacute;s
+| Spacefox Highline 1.6 T.Flex 16V | Masculino, 36 anos | Minas Gerais | R$ 3.971,16 |
 
-R$ 2.992,46
+&nbsp;
 
-Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2016
-
-Modelo
-
-Perfil do condutor
-
-Localidade
-
-Pre&ccedil;o
-
-Spacefox Comfortline 1.6 Mi T.Flex 8V 5P
-
-Masculino, 52 anos
-
-Minas Gerais
-
-R$ 2.566,00
-
-Spacefox 1.6 Trendline Total Flex 8V 5P
-
-Masculino, 34 anos
-
-S&atilde;o Paulo
-
-R$ 1.027,34
-
-Spacefox Highline 1.6 T.Flex 16V
-
-Masculino, 36 anos
-
-Minas Gerais
-
-R$ 3.971,16
+&nbsp;
 
 Spacefox Comf. I Motion 1.6 Flex 8V 5P
 
