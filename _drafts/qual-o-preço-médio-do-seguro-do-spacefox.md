@@ -59,21 +59,11 @@ Se a ideia &eacute; ter uma no&ccedil;&atilde;o de quanto voc&ecirc; pagaria, ve
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2018
 
-Modelo
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o
 
-Perfil do condutor
+|-------|--------|---------|---------|
 
-Localidade
-
-Pre&ccedil;o
-
-Spacefox 1.6 Trendline Total Flex 8V 5P
-
-Feminino, 47 anos
-
-Minas Gerais
-
-R$ 1.688,13
+| Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 47 anos | Minas Gerais | R$ 1.688,13 |
 
 Spacefox 1.6 Trendline Total Flex 8V 5P
 
