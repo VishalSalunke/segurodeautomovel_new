@@ -77,93 +77,31 @@ Se a ideia &eacute; ter uma no&ccedil;&atilde;o de quanto voc&ecirc; pagaria, ve
 
 | Spacefox Highline 1.6 T.Flex 16V | Masculino, 36 anos | Minas Gerais | R$ 3.971,16 |
 
-&nbsp;
+| Spacefox Comf. I Motion 1.6 Flex 8V 5P | Masculino, 65 anos | S&atilde;o Paulo | R$ 2.143,92 |
 
-&nbsp;
+### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2015
 
-Spacefox Comf. I Motion 1.6 Flex 8V 5P
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-Masculino, 65 anos
+| Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 56 anos | Bahia | R$ 1.496,75 |
 
-S&atilde;o Paulo
+| Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 40 anos | S&atilde;o Paulo | R$ 2.128,13 |
 
-R$ 2.143,92
+| Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 48 anos | Pernambuco | R$ 3.433,66 |
 
-Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2015
+| Spacefox Comf. I Motion 1.6 Flex 8V 5P | Feminino, 56 anos | S&atilde;o Paulo | R$ 2.530,26 |
 
-Modelo
+| Spacefox Comf. I Motion 1.6 Flex 8V 5P | Feminino, 56 anos | S&atilde;o Paulo | R$ 2.530,26 |
 
-Perfil do condutor
+### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2014
 
-Localidade
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-Pre&ccedil;o
+| Spacefox Sportline/Highline 1.6 T.Flex | Masculino, 32 anos | Minas Gerais | R$ 4.343,18 |
 
-Spacefox Comfortline 1.6 Mi T.Flex 8V 5P
+| Spacefox 1.6/ 1.6 Trend Total Flex 8V 5P | Masculino, 63 anos | Rio de Janeiro | R$ 2.545,73 |
 
-Masculino, 56 anos
-
-Bahia
-
-R$ 1.496,75
-
-Spacefox 1.6 Trendline Total Flex 8V 5P
-
-Feminino, 40 anos
-
-S&atilde;o Paulo
-
-R$ 2.128,13
-
-Spacefox Comfortline 1.6 Mi T.Flex 8V 5P
-
-Masculino, 48 anos
-
-Pernambuco
-
-R$ 3.433,66
-
-Spacefox Comf. I Motion 1.6 Flex 8V 5P
-
-Feminino, 56 anos
-
-S&atilde;o Paulo
-
-R$ 2.530,26
-
-Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2014
-
-Modelo
-
-Perfil do condutor
-
-Localidade
-
-Pre&ccedil;o
-
-Spacefox Sportline/Highline 1.6 T.Flex
-
-Masculino, 32 anos
-
-Minas Gerais
-
-R$ 4.343,18
-
-Spacefox 1.6/ 1.6 Trend Total Flex 8V 5P
-
-Masculino, 63 anos
-
-Rio de Janeiro
-
-R$ 2.545,73
-
-Spacefox Trend I Motion 1.6 T. Flex 8V
-
-Masculino, 65 anos
-
-Minas Gerais
-
-R$ 2.660,46
+| Spacefox Trend I Motion 1.6 T. Flex 8V | Masculino, 65 anos | Minas Gerais | R$ 2.660,46 |
 
 ## Como cotar o seguro do Spacefox
 
