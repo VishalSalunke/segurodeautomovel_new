@@ -3,7 +3,7 @@ title: Qual o preço médio do seguro do Spacefox
 layout: post
 date: 2018-10-02 00:00:00
 permalink:
-author: Jeniffer Elaine Silva
+author: Jeniffer Elaina da Silva
 image_file_name:
 description: >-
   O preço médio do seguro do Spacefox é de R$ 1.900,00 e pode oferecer várias
@@ -12,12 +12,12 @@ description: >-
 categories:
   - Modelos de carro
 tags:
-  - cornestone
+  - cornerstone
 og_image_width:
 og_image_height:
 ---
 
-O pre&ccedil;o m&eacute;dio do seguro do Spacefox &eacute; de R$ 1.900,00 e pode oferecer v&aacute;rias coberturas por esse valor. Veja alguns exemplos de cota&ccedil;&atilde;o e como adquirir os eu [seguro.](seguro)
+O pre&ccedil;o m&eacute;dio do seguro do Spacefox &eacute; de R$ 1.900,00 e pode oferecer v&aacute;rias coberturas por esse valor. Veja alguns exemplos de cota&ccedil;&atilde;o e como adquirir os eu seguro.
 
 As peruas s&atilde;o cada vez menos vistas pelas ruas e por conta disso a Spacefox agora passa a produzir uma &uacute;nica vers&atilde;o do modelo.
 
@@ -201,7 +201,7 @@ R$ 2.660,46
 
 ## Como cotar o seguro do Spacefox
 
-Sabendo que h&aacute; uma grande diferen&ccedil;a dos valores conforme o perfil de risco, quem deseja contratar essa prote&ccedil;&atilde;o para o carro precisa fazer uma cota&ccedil;&atilde;o.
+Sabendo que h&aacute; uma grande diferen&ccedil;a dos valores conforme o perfil de risco, quem deseja contratar essa prote&ccedil;&atilde;o para o carro precisa [fazer uma cota&ccedil;&atilde;o.](https://www.segurodeautomovel.org/cotacao-de-seguro){: target="_blank"}
 
 Isso pode ser feito online, basta acessar um site confi&aacute;vel, preencher o formul&aacute;rio de cota&ccedil;&atilde;o e aguardar uma proposta.
 
