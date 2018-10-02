@@ -1,7 +1,7 @@
 ---
 title: Qual o preço médio do seguro do Spacefox
 layout: post
-date: 2018-10-02 00:00:00
+date: 2018-10-02 10:00:00
 permalink:
 author: Jeniffer Elaina da Silva
 image_file_name:
@@ -17,7 +17,7 @@ og_image_width:
 og_image_height:
 ---
 
-O pre&ccedil;o m&eacute;dio do seguro do Spacefox &eacute; de R$ 1.900,00 e pode oferecer v&aacute;rias coberturas por esse valor. Veja alguns exemplos de cota&ccedil;&atilde;o e como adquirir os eu seguro.
+O pre&ccedil;o m&eacute;dio do seguro do Spacefox &eacute; de R$ 1.900,00 e pode oferecer v&aacute;rias coberturas por esse valor. Veja alguns exemplos de cota&ccedil;&atilde;o e como adquirir o seu seguro.
 
 As peruas s&atilde;o cada vez menos vistas pelas ruas e por conta disso a Spacefox agora passa a produzir uma &uacute;nica vers&atilde;o do modelo.
 
@@ -57,7 +57,7 @@ Conforme o perfil do motorista, tempo de dire&ccedil;&atilde;o, hist&oacute;rico
 
 Se a ideia &eacute; ter uma no&ccedil;&atilde;o de quanto voc&ecirc; pagaria, veja alguns exemplos reais de cota&ccedil;&atilde;o.
 
-### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2018
+## Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2018
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
