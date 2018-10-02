@@ -37,15 +37,13 @@ Conhe&ccedil;a um pouco mais sobre esses pontos.
 
 ### Vantagens do Spacefox
 
-Econ&ocirc;mico
-
-Bom espa&ccedil;o interno
+* Econ&ocirc;mico
+* Bom espa&ccedil;o interno
 
 ### Desvantagens do Spacefox
 
-Ru&iacute;dos internos
-
-Suspens&atilde;o dura
+* Ru&iacute;dos internos
+* Suspens&atilde;o dura
 
 ## Pre&ccedil;o m&eacute;dio do seguro do Spacefox
 
