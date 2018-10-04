@@ -27,7 +27,7 @@ Apesar de ser um lan&ccedil;amento, ela conta com pre&ccedil;o mais baixo que su
 
 Quem deseja mais itens poder&aacute; contar com o M&oacute;dulo Interativo II que oferece sistema de som Composition Touch e volante multifuncional.
 
-![](/uploads/qual-o-preco-medio-do-seguro-do-spacefox-.png)
+![Seguro do Space Fox](/uploads/qual-o-preco-medio-do-seguro-do-spacefox-.png "Seguro do Space Fox")
 
 ## Vantagens e desvantagens do Spacefox
 
