@@ -58,47 +58,32 @@ Se a ideia &eacute; ter uma no&ccedil;&atilde;o de quanto voc&ecirc; pagaria, ve
 ## Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2018
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
-
 | Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 47 anos | Minas Gerais | R$ 1.688,13 |
-
 | Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 59 anos | S&atilde;o Paulo | R$ 2.472,09 |
-
 | Spacefox 1.6 Trendline I Mot. T.Flex 8V | Masculino, 55 anos | Goi&aacute;s | R$ 2.992,46 |
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2016
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
-
 | Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 52 anos | Minas Gerais | R$ 2.566,00 |
-
 | Spacefox 1.6 Trendline Total Flex 8V 5P | Masculino, 34 anos | S&atilde;o Paulo | R$ 1.027,34 |
-
 | Spacefox Highline 1.6 T.Flex 16V | Masculino, 36 anos | Minas Gerais | R$ 3.971,16 |
-
 | Spacefox Comf. I Motion 1.6 Flex 8V 5P | Masculino, 65 anos | S&atilde;o Paulo | R$ 2.143,92 |
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2015
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
-
 | Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 56 anos | Bahia | R$ 1.496,75 |
-
 | Spacefox 1.6 Trendline Total Flex 8V 5P | Feminino, 40 anos | S&atilde;o Paulo | R$ 2.128,13 |
-
 | Spacefox Comfortline 1.6 Mi T.Flex 8V 5P | Masculino, 48 anos | Pernambuco | R$ 3.433,66 |
-
 | Spacefox Comf. I Motion 1.6 Flex 8V 5P | Feminino, 56 anos | S&atilde;o Paulo | R$ 2.530,26 |
-
 | Spacefox Comf. I Motion 1.6 Flex 8V 5P | Feminino, 56 anos | S&atilde;o Paulo | R$ 2.530,26 |
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Spacefox 2014
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
-
 | Spacefox Sportline/Highline 1.6 T.Flex | Masculino, 32 anos | Minas Gerais | R$ 4.343,18 |
-
 | Spacefox 1.6/ 1.6 Trend Total Flex 8V 5P | Masculino, 63 anos | Rio de Janeiro | R$ 2.545,73 |
-
 | Spacefox Trend I Motion 1.6 T. Flex 8V | Masculino, 65 anos | Minas Gerais | R$ 2.660,46 |
 
 ## Como cotar o seguro do Spacefox
@@ -114,5 +99,3 @@ Verifique n&atilde;o apenas os valores, mas, as coberturas que cada um oferece e
 Aproveite para fazer a sua cota&ccedil;&atilde;o agora e n&atilde;o se preocupe com o pre&ccedil;o m&eacute;dio do seguro do Spacefox para organizar o or&ccedil;amento.
 
 \*Fonte: MeuSeguroNovo. Consulta realizada em Outubro/2018<br>\*SeguroAutomovel.org n&atilde;o se responsabiliza pelos valores aqui mencionados, visto que o pre&ccedil;o do seguro pode variar conforme o perfil de cada motorista.
-
-|texto1|texto2|<br>|texto1|texto2|
