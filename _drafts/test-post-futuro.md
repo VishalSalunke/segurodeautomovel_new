@@ -1,7 +1,7 @@
 ---
 title: Test post futuro
 layout: post
-date:
+date: 2018-10-05 00:00:00
 permalink:
 author:
 image_file_name:
@@ -13,3 +13,5 @@ tags:
 og_image_width:
 og_image_height:
 ---
+
+Test post futuro
