@@ -2,7 +2,7 @@
 title: Qual o preço médio do seguro do Spacefox
 layout: post
 date: 2018-10-02 10:00:00
-permalink: /qual-o-preco-medio-do-seguro-do-spacefox.html
+permalink: /qual-o-preco-medio-do-seguro-do-spacefox
 author: Jeniffer Elaina da Silva
 image_file_name: qual-o-preco-medio-do-seguro-do-spacefox-.png
 description: >-
