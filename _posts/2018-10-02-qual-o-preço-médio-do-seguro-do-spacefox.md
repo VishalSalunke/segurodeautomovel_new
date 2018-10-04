@@ -114,3 +114,5 @@ Verifique n&atilde;o apenas os valores, mas, as coberturas que cada um oferece e
 Aproveite para fazer a sua cota&ccedil;&atilde;o agora e n&atilde;o se preocupe com o pre&ccedil;o m&eacute;dio do seguro do Spacefox para organizar o or&ccedil;amento.
 
 \*Fonte: MeuSeguroNovo. Consulta realizada em Outubro/2018<br>\*SeguroAutomovel.org n&atilde;o se responsabiliza pelos valores aqui mencionados, visto que o pre&ccedil;o do seguro pode variar conforme o perfil de cada motorista.
+
+|texto1|texto2|<br>|texto1|texto2|
