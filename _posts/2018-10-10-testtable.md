@@ -16,10 +16,6 @@ og_image_height:
 
 &nbsp;
 
-&nbsp;
-
-| Command | Description |<br>| --- | --- |<br>| git status | List all new or modified files |<br>| git diff | Show file differences that haven't been staged |
-
-&nbsp;
+| Command | Description |<br><br>| git status | List all new or modified files |<br>| git diff | Show file differences that haven't been staged |
 
 &nbsp;
