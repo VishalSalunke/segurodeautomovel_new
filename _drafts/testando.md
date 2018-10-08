@@ -20,6 +20,7 @@ og_image_height:
 | &nbsp; | &nbsp; | &nbsp; |
 
 | First | Second | Third |
+| First | Second | Third |
 
 | First | Second | &nbsp; | Fourth |
 
