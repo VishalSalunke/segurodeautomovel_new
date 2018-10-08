@@ -18,12 +18,16 @@ og_image_height:
 
 &nbsp;
 
-| First header | second header |
+| first header&nbsp; | second header |
 
-| ------------- | ---------------- |
+| ------------ &nbsp;| ---------------- |
 
-| Content cell&nbsp; | Content cell&nbsp; &nbsp; &nbsp; |
+| content cell&nbsp; | content cell&nbsp; &nbsp; &nbsp; &nbsp;|
 
-| Content cell | Content cell&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+| content cell&nbsp; | content cell&nbsp; &nbsp; &nbsp; &nbsp;|
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
