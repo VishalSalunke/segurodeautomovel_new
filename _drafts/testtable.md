@@ -16,4 +16,4 @@ og_image_height:
 
 &nbsp;
 
-| Priority apples | Second priority | Third priority |<br>|-------|--------|---------|<br>| ambrosia | gala | red delicious |<br>| pink lady | jazz | macintosh |<br>| honeycrisp | granny smith | fuji |
+| First Header &nbsp;| Second Header |<br>| ------------- | ------------- |<br>| Content Cell &nbsp;| Content Cell &nbsp;|<br>| Content Cell &nbsp;| Content Cell &nbsp;|
