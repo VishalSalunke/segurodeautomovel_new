@@ -14,10 +14,6 @@ og_image_width:
 og_image_height:
 ---
 
-| First Header | Second Header |
+| First cell|Second cell|Third cell<br>| First | Second | Third |
 
-| ------------- | ------------- |
-
-| Content Cell | Content Cell |
-
-| Content Cell | Content Cell |
+First | Second | | Fourth |
