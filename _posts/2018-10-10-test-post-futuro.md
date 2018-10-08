@@ -1,7 +1,7 @@
 ---
 title: Test post futuro
 layout: post
-date: 2018-10-05 08:00:00
+date: 2018-10-10 08:00:00
 permalink:
 author:
 image_file_name:
