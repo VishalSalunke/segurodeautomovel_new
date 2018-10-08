@@ -14,12 +14,6 @@ og_image_width:
 og_image_height:
 ---
 
-| Priority apples | Second priority | Third priority |
+&nbsp;
 
-|-------|--------|---------|
-
-| ambrosia | gala | red delicious |
-
-| pink lady | jazz | macintosh |
-
-| honeycrisp | granny smith | fuji |
+| Priority apples | Second priority | Third priority |<br>|-------|--------|---------|<br>| ambrosia | gala | red delicious |<br>| pink lady | jazz | macintosh |<br>| honeycrisp | granny smith | fuji |
