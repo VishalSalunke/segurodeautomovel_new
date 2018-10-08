@@ -14,6 +14,8 @@ og_image_width:
 og_image_height:
 ---
 
-| First cell|Second cell|Third cell<br>| First | Second | Third |
+&nbsp;
 
-First | Second | | Fourth |
+| First cell|Second cell|Third cell |<br>| First | Second | Third |
+
+|First | Second | | Fourth |
