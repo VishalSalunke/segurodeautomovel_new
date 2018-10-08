@@ -8,7 +8,7 @@ image_file_name: qual-o-preco-medio-do-seguro-do-spacefox-.png
 description: >-
   O preço médio do seguro do Spacefox é de R$ 1.900,00 e pode oferecer várias
   coberturas por esse valor. Veja alguns exemplos de cotação e como adquirir os
-  eu seguro.
+  eu seguro .
 categories:
   - Modelos de carro
 tags:
