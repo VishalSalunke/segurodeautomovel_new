@@ -14,8 +14,16 @@ og_image_width:
 og_image_height:
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;
 
-| First Header &nbsp;| Second Header |<br>| ------------- | ------------- |<br>| Content Cell &nbsp;| Content Cell &nbsp;|<br>| Content Cell &nbsp;| Content Cell &nbsp;|
+&nbsp;
+
+| First header | second header |
+
+| ------------- | ---------------- |
+
+| Content cell&nbsp; | Content cell&nbsp; &nbsp; &nbsp; |
+
+| Content cell | Content cell&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 &nbsp;
