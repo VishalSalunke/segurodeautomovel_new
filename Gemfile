@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem  'fastimage', '>= 1.8.0'
   gem 'jekyll-minimagick'
   gem 'mini_magick'
+  gem 'jekyll-cloudcannon-schedule'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

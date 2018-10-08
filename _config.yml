@@ -22,6 +22,7 @@ plugins:
 - jekyll-feed
 - jekyll-paginate-v2
 - jekyll-minimagick
+- jekyll-cloudcannon-schedule
 pagination:
   enabled: true
   per_page: 12

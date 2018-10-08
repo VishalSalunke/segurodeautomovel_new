@@ -28,6 +28,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-cloudcannon-schedule (0.1.2)
+      jekyll (~> 3.3)
     jekyll-feed (0.10.0)
       jekyll (~> 3.3)
     jekyll-minimagick (0.0.4)
@@ -83,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   fastimage (>= 1.8.0)
   jekyll (~> 3.8.1)
+  jekyll-cloudcannon-schedule
   jekyll-feed (~> 0.6)
   jekyll-minimagick
   jekyll-paginate-v2
