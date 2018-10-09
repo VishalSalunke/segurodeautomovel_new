@@ -16,12 +16,4 @@ og_image_height:
 
 &nbsp;
 
-| First cell | Second cell | Third cell |
-| &nbsp; | &nbsp; | &nbsp; |
-
-| First | Second | Third |
-| First | Second | Third |
-
-| First | Second | &nbsp; | Fourth |
-
-&nbsp;
+| first column | second column | third column |
