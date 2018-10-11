@@ -12,6 +12,7 @@ description: >-
 categories:
   - Modelos de carro
 tags:
+  - cornerstone
 og_image_width:
 og_image_height:
 ---
@@ -24,7 +25,7 @@ Durante os 5 anos em que foi comercializado, no pa&iacute;s foram vendidos mais 
 
 Foi cogitado um carro que seria o seu sucesso, mas o projeto n&atilde;o saiu do papel e hoje quem deseja ter um modelo desses s&oacute; encontrar&aacute; carros usados.
 
-![](/uploads/qual-o-preco-medio-do-seguro-do-agile.jpg)
+![Qual o preço médio do seguro do Agile](/uploads/qual-o-preco-medio-do-seguro-do-agile.jpg "Qual o preço médio do seguro do Agile")
 
 ## Vantagens e desvantagens do Agile
 
@@ -56,19 +57,21 @@ O valor m&eacute;dio de mercado serve para ter uma ideia de quanto pagar&aacute;
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Agile 2017 e 2016
 
-|Modelo| Perfil do condutor| Localidade| Pre&ccedil;o|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Agile Ltz 1.4 8V Econoflex 2017| Masculino, 66 anos| Bahia| R$ 1.556,82|<br>|Agile Lt 1.4 Econoflex 2016| Masculino, 47 anos| S&atilde;o Paulo| R$ 1.296,83|
+|Agile Ltz 1.4 8V Econoflex 2017|Masculino, 66 anos|Bahia|R$ 1.556,82|
+
+|Agile Lt 1.4 Econoflex 2016|Masculino, 47 anos|S&atilde;o Paulo|R$ 1.296,83|
 
 ### <br>Pre&ccedil;o m&eacute;dio do seguro do Agile 2014
 
-|Modelo| Perfil do condutor| Localidade| Pre&ccedil;o|&nbsp;
+|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
 
-|Agile Ltz 1.4 Mpfi 8V Flexpower 5P| Feminino, 43 anos| Par&aacute;| R$ 1.700,74|
+| Agile Ltz 1.4 Mpfi 8V Flexpower 5P | Feminino, 43 anos | Par&aacute; | R$ 1.700,74 |
 
-|Agile Ltz 1.4 Mpfi 8V Flexpower 5P| Feminino, 43 anos| Pernambuco| R$ 2.357,05|
+| Agile Ltz 1.4 Mpfi 8V Flexpower 5P | Feminino, 43 anos | Pernambuco | R$ 2.357,05 |
 
-|Agile Ltz 1.4 Mpfi 8V Flexpower 5P| Masculino, 37 anos| Rio de Janeiro| R$ 3.000,16|
+| Agile Ltz 1.4 Mpfi 8V Flexpower 5P | Masculino, 37 anos | Rio de Janeiro | R$ 3.000,16 |
 
 ## Como cotar o seguro do Agile
 
@@ -82,4 +85,4 @@ Depois de enviar os dados um corretor saber&aacute; do seu interesse e lhe envia
 
 Agora &eacute; s&oacute; escolher e contratar uma que atenda &agrave;s suas necessidades.
 
-N&atilde;o perca mais tempo apenas com o pre&ccedil;o m&eacute;dio do seguro do Agile, fa&ccedil;a uma cota&ccedil;&atilde;o e programe o seu or&ccedil;amento.
+N&atilde;o perca mais tempo apenas com o pre&ccedil;o m&eacute;dio do seguro do Agile, f[a&ccedil;a uma cota&ccedil;&atilde;o](https://www.segurodeautomovel.org/cotacao-online-seguro-auto) e programe o seu or&ccedil;amento.
