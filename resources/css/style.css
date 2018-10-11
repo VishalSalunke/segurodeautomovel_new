@@ -74,6 +74,18 @@ input:focus {
 p {
 	margin:10px 0;	
 }
+ tr {
+         border:white;   
+        }
+        td {
+         border: 1px solid black;
+            padding:5px;
+        }
+    table {
+    
+          border-collapse: collapse;
+  border-style: hidden;
+    }
 
 /*------------------------------------*\
     STRUCTURE
@@ -623,7 +635,7 @@ font-size:18px;
     PAGES
 \*------------------------------------*/
 .post-main {
-	display:table;	
+		
 }
 
 .post-main h1 {
