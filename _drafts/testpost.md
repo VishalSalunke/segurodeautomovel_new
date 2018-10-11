@@ -1,7 +1,7 @@
 ---
 title: testPost
 layout: post
-date:
+date: 2018-10-10 00:00:00 -0300
 permalink:
 author:
 image_file_name:
