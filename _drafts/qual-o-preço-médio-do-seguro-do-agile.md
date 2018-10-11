@@ -2,9 +2,9 @@
 title: Qual o preço médio do seguro do Agile
 layout: post
 date: 2018-10-11 00:00:00 -0300
-permalink: Qual-o preco-medio-do-seguro-do-agile
+permalink:
 author: Jeniffer Elaina da Silva
-image_file_name: Qual-o preco-medio-do-seguro-do-agile
+image_file_name: qual-o preco-medio-do-seguro-do-agile
 description: >-
   Mesmo o modelo já tendo saído de fabricação muita gente ainda o possui. Saiba
   qual o preço médio do seguro do Agile e confira algumas de suas
@@ -59,13 +59,13 @@ O valor m&eacute;dio de mercado serve para ter uma ideia de quanto pagar&aacute;
 
 | Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Agile Ltz 1.4 8V Econoflex 2017|Masculino, 66 anos|Bahia|R$ 1.556,82|
+| Agile Ltz 1.4 8V Econoflex 2017 | Masculino, 66 anos | Bahia | R$ 1.556,82 |
 
-|Agile Lt 1.4 Econoflex 2016|Masculino, 47 anos|S&atilde;o Paulo|R$ 1.296,83|
+| Agile Lt 1.4 Econoflex 2016 | Masculino, 47 anos | S&atilde;o Paulo | R$ 1.296,83 |
 
 ### <br>Pre&ccedil;o m&eacute;dio do seguro do Agile 2014
 
-|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
 | Agile Ltz 1.4 Mpfi 8V Flexpower 5P | Feminino, 43 anos | Par&aacute; | R$ 1.700,74 |
 
