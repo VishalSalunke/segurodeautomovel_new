@@ -5,6 +5,7 @@ date:
 permalink: 
 author: ''
 image_file_name: ''
+image:
 description: ''
 categories:
 - 'blog'
