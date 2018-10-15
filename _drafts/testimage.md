@@ -5,7 +5,7 @@ date:
 permalink:
 author:
 image_file_name:
-image:
+image: /uploads/Koala.jpg
 description:
 categories:
   - blog
@@ -14,3 +14,4 @@ tags:
 og_image_width:
 og_image_height:
 ---
+
