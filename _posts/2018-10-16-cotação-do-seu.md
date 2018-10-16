@@ -1,8 +1,8 @@
 ---
 title: COTAÇÃO DO SEU
 layout: post
-date: 2018-10-16 08:20:03 -0300
-author:
+date: 2018-10-16 08:20:00 -0300
+author: vishal
 description:
 categories:
   - blog
