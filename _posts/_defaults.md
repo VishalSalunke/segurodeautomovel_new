@@ -2,7 +2,6 @@
 title:
 layout: post
 date:
-permalink: 
 author: ''
 description: ''
 categories:
