@@ -63,17 +63,18 @@
 <meta property="og:image:secure_url" content="{{site.url}}{{page.image}}" />
 <meta property="og:image:width" content="{{page.image_width}}" />
 <meta property="og:image:height" content="{{page.image_height}}" />
+<meta name="twitter:image" content="{{site.url}}{{page.image}}"/>
 {%else%}
 <meta property="og:image" content="{{site.url}}/uploads/{{page.image_file_name}}" />
 <meta property="og:image:secure_url" content="{{site.url}}/uploads/{{page.image_file_name}}" />
 <meta property="og:image:width" content="{{page.og_image_width}}" />
 <meta property="og:image:height" content="{{page.og_image_height}}" />
+<meta name="twitter:image" content="{{site.url}}{{page.image_file_name}}"/>
 {%endif%}
 <!-- <meta property="og:image:alt" content="Precisa de seguro auto em Natal (RN)" /> -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:description" content="{{page.description}}" />
 <meta name="twitter:title" content="{{page.title}}"/>
-<meta name="twitter:image" content="{{site.url}}{{page.image}}"/>
 {% if page.isIndex %}<meta name="msvalidate.01" content="A3D85AC314933EB77546FD077B38F076" />
 <meta name="google-site-verification" content="ao-Y8uLFo5aiKI9GUw36SndyQnp6AguCJ-M9QUN_kGM" />
 <meta property="og:type" content="website" />{% endif %}
