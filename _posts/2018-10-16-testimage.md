@@ -1,7 +1,7 @@
 ---
 title: testImage
 layout: post
-date:
+date: 2018-10-16 07:06:01 -0300
 permalink:
 author: vishal
 description: test
@@ -14,5 +14,3 @@ tags:
 ![](/uploads/Qual-o-preco-medio-do-seguro-do-spacefox.jpg)
 
 Test post
-
-&nbsp;
