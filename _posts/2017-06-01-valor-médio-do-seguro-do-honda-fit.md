@@ -61,8 +61,6 @@ Veja alguns exemplos a seguir:
 | Fit Lx 1.4 1.4 Flex 8V 16V 5P Aut. 2005 | Feminino, 42 anos | Uberl&acirc;ndia – MG | R$ 1.473,63 |
 | Fit Lx 1.5 Flexone 16V 5P Aut. 2017 | Feminino, 58 anos | S&atilde;o Jose Dos Pinhais – PR | R$ 2.338,87 |
 
-&nbsp;
-
 Podemos perceber que &eacute; poss&iacute;vel encontrar valores diferentes e que oscilam muito da m&eacute;dia.
 
 Nesses exemplos, o menor pre&ccedil;o encontrando foi de R$ 1.473,63. Ele pertence a uma mulher de 42 anos e que reside em Uberl&acirc;ndia.
