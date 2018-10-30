@@ -1,13 +1,12 @@
 ---
 title: Qual o preço médio do seguro do Agile
 layout: post
-date: 2018-10-11 00:00:00 -0300
-permalink: /qual-o-preco-medio-do-seguro-do-agile
+date: 2018-11-01 08:00:00 -0200
+permalink: /preco-medio-do-seguro-do-agile
 author: Jeniffer Elaina da Silva
 image_file_name: qual-o preco-medio-do-seguro-do-agile
 description: >-
-  Mesmo o modelo já tendo saído de fabricação muita gente ainda o possui. Saiba
-  qual o preço médio do seguro do Agile e confira algumas de suas
+  Saiba qual o preço médio do seguro do Agile e confira algumas de suas
   características.
 categories:
   - Modelos de carro
@@ -65,8 +64,6 @@ O valor m&eacute;dio de mercado serve para ter uma ideia de quanto pagar&aacute;
 
 ### <br>Pre&ccedil;o m&eacute;dio do seguro do Agile 2014
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-
 | **Modelo** | **Perfil do condutor** | **Localidade** | **Pre&ccedil;o** |
 
 | Agile Ltz 1.4 Mpfi 8V Flexpower 5P | Feminino, 43 anos | Par&aacute; | R$ 1.700,74 |
@@ -78,8 +75,6 @@ O valor m&eacute;dio de mercado serve para ter uma ideia de quanto pagar&aacute;
 ## Como cotar o seguro do Agile
 
 Para cotar o seguro do Agile n&atilde;o &eacute; preciso sair de casa, se quiser pode fazer isso online de computador, tablet ou smartphone.
-
-|teste|teste|teste|<br><br>&nbsp;
 
 A primeira coisa a fazer &eacute; encontrar um site especializado e que proteger&aacute; os seus dados.
 
