@@ -50,11 +50,11 @@ Essa &eacute; a cobertura de seguro mais simples que existe, e a mais f&aacute;c
 
 ### Seguro completo ou compreensivo
 
-Essa &eacute; a cobertura mais completa oferecida pelas empresas. O seguro compreensivo al&eacute;m de oferecer indeniza&ccedil;&otilde;es contra furto ou roubo, tamb&eacute;m cobre reparos em casos como colis&otilde;es no tr&acirc;nsito ou contra objetos como muros e postes, inc&ecirc;ndios, enchentes e muito mais. Al&eacute;m disso, ele tamb&eacute;m oferece um servi&ccedil;o chamado assist&ecirc;ncia 24 horas, onde o segurado tem direito a solicitar guincho, chaveiro, socorro para pane seca ou mec&acirc;nica e mais. Esse &eacute; servi&ccedil;o mais caro, mas, que vale muito a pena ser contratada.
+Essa &eacute; a cobertura mais completa oferecida pelas empresas. O seguro compreensivo al&eacute;m de oferecer indeniza&ccedil;&otilde;es contra furto ou roubo, tamb&eacute;m cobre reparos em casos como colis&otilde;es no tr&acirc;nsito ou contra objetos como muros e postes, inc&ecirc;ndios, enchentes e muito mais. Al&eacute;m disso, ele tamb&eacute;m oferece um servi&ccedil;o chamado assist&ecirc;ncia 24 horas, onde o segurado tem direito a [solicitar guincho](https://www.segurodeautomovel.org/guincho-seguro-auto), chaveiro, socorro para pane seca ou mec&acirc;nica e mais. Esse &eacute; servi&ccedil;o mais caro, mas, que vale muito a pena ser contratada.
 
 ### Seguro para terceiros
 
-Esse &eacute; um dos tipos de seguro de carro que todo mundo deveria contratar. O seguro para terceiros, cobre danos causados pelo segurado a outras pessoas. Ou seja, se voc&ecirc; bater na traseira de outro carro e acionar o seguro, ele se responsabilizar&aacute; por promover todos os reparos necess&aacute;rios no ve&iacute;culo da outra pessoa, ou mesmo indeniz&aacute;-la, caso seja constatada perda total do ve&iacute;culo.
+Esse &eacute; um dos tipos de seguro de carro que todo mundo deveria contratar. [O seguro para terceiros](https://www.segurodeautomovel.org/seguro-auto-contra-terceiros), cobre danos causados pelo segurado a outras pessoas. Ou seja, se voc&ecirc; bater na traseira de outro carro e acionar o seguro, ele se responsabilizar&aacute; por promover todos os reparos necess&aacute;rios no ve&iacute;culo da outra pessoa, ou mesmo indeniz&aacute;-la, caso seja constatada perda total do ve&iacute;culo.
 
 ### Seguro para passageiros
 
