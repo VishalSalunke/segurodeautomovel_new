@@ -49,47 +49,49 @@ Visual novo n&atilde;o chama tanto a aten&ccedil;&atilde;o
 
 ## Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A
 
-O pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A &eacute; de R$ 3.600,00, por&eacute;m, esse custo varia conforme o perfil do motorista e s riscos envolvidos.
+O pre&ccedil;o m&eacute;dio do seguro do [Mercedes Classe A](https://www.segurodeautomovel.org/mercedes-a200) &eacute; de R$ 3.600,00, por&eacute;m, esse custo varia conforme o perfil do motorista e s riscos envolvidos.
 
 Veja alguns exemplos para entender melhor essa varia&ccedil;&atilde;o e tenha uma ideia de quanto iria pagar por ele.
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A 2017 e 2018
 
-|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Classe A 200 1.6 Tb/Flex Aut. 2018|Masculino, 48 anos|S&atilde;o Paulo|R$ 8.700,28|
+| Classe A 200 1.6 Tb/Flex Aut. 2018 | Masculino, 48 anos | S&atilde;o Paulo | R$ 8.700,28 |
 
-|Classe A 200 1.6 Tb/Flex Aut. 2017|Masculino, 27 anos|Mato Grosso do Sul|R$ 12.732,74|
+| Classe A 200 1.6 Tb/Flex Aut. 2017 | Masculino, 27 anos | Mato Grosso do Sul | R$ 12.732,74 |
 
-|Classe A200 Hatch 1.6 Turbo 156Cv Flex 2017|Masculino, 34 anos|S&atilde;o Paulo|R$ 6.609,65|
+| Classe A200 Hatch 1.6 Turbo 156Cv Flex 2017 | Masculino, 34 anos | S&atilde;o Paulo | R$ 6.609,65 |
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A 2016
 
-|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Classe A 200 1.6 Tb/Flex Aut.|Feminino, 53 anos|Minas Gerais|R$ 5.706,93|
+| Classe A 200 1.6 Tb/Flex Aut. | Feminino, 53 anos | Minas Gerais | R$ 5.706,93 |
 
-|Classe A 250 Cgi 2.0 Tb Sport|Masculino, 20 anos|Paran&aacute;|R$ 9.458,02|
+| Classe A 250 Cgi 2.0 Tb Sport | Masculino, 20 anos | Paran&aacute; | R$ 9.458,02 |
 
-|Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A 2015|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
+### Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A 2015
 
-|Classe A 200 1.6 Tb 16V Urban 156Cv Aut.|Feminino, 37 anos|Distrito Federal|R$ 5.221,06|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Classe A 200 1.6 Tb 16V Urban 156Cv Aut.|Masculino, 58 anos|Minas Gerais|R$ 2.116,35|
+| Classe A 200 1.6 Tb 16V Urban 156Cv Aut. | Feminino, 37 anos | Distrito Federal | R$ 5.221,06 |
 
-|Classe A 200 1.6 Tb 16V Style 156Cv Aut.|Feminino, 56 anos|Santa Catarina|R$ 2.646,85|
+| Classe A 200 1.6 Tb 16V Urban 156Cv Aut. | Masculino, 58 anos | Minas Gerais | R$ 2.116,35 |
 
-|Classe A 200 1.6 Tb/Flex Aut.|Masculino, 28 anos|S&atilde;o Paulo|R$ 3.345,33|
+| Classe A 200 1.6 Tb 16V Style 156Cv Aut. | Feminino, 56 anos | Santa Catarina | R$ 2.646,85 |
+
+| Classe A 200 1.6 Tb/Flex Aut. | Masculino, 28 anos | S&atilde;o Paulo | R$ 3.345,33 |
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A 2014
 
-|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
+| Modelo | Perfil do condutor | Localidade | Pre&ccedil;o |
 
-|Classe A 200 1.6 Tb 16V Urban 156Cv Aut.|Feminino, 50 anos|S&atilde;o Paulo|R$ 3.068,73|
+| Classe A 200 1.6 Tb 16V Urban 156Cv Aut. | Feminino, 50 anos | S&atilde;o Paulo | R$ 3.068,73 |
 
-|Classe A 200 Cgi 1.6 Tb Style 156Cv Aut.|Feminino, 37 anos|Minas Gerais|R$ 4.766,19|
+| Classe A 200 Cgi 1.6 Tb Style 156Cv Aut. | Feminino, 37 anos | Minas Gerais | R$ 4.766,19 |
 
-|Classe A 200 Cgi 1.6 Tb Urban 156Cv Aut.|Masculino, 35 anos|S&atilde;o Paulo|R$ 5.141,77|
+| Classe A 200 Cgi 1.6 Tb Urban 156Cv Aut. | Masculino, 35 anos | S&atilde;o Paulo | R$ 5.141,77 |
 
 ## Como cotar o seguro do Mercedes Classe A
 
