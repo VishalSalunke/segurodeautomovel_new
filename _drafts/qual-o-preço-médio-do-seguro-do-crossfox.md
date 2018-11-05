@@ -62,49 +62,35 @@ Veja alguns exemplos de valores que foram obtidos na cota&ccedil;&atilde;o do se
 ### Pre&ccedil;o m&eacute;dio do seguro do Crossfox 2018
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Crossfox 1.6 T. Flex 16V 5P|Masculino, 38 anos|Bahia|R$ 3.355,26|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Crossfox 2017
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Crossfox 1.6 T. Flex 16V 5P|Masculino, 42 anos|Minas Gerais|R$ 2.167,30|
-
 |Crossfox 1.6 T. Flex 16V 5P|Masculino, 62 anos|S&atilde;o Paulo|R$ 2.034,54|
-
 |Crossfox 1.6 16V Msi Total Flex 4P|Masculino, 50 anos|Minas Gerais|R$ 3.301,12|
-
 |Crossfox I Motion 1.6 T.Flex 16V 5P|Masculino, 44 anos|Paran&aacute;|R$ 2.182,82|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Crossfox 2016
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Crossfox 1.6 T. Flex 16V 5P|Feminino, 59 anos|Paran&aacute;|R$ 1.975,39|
-
 |Crossfox I Motion 1.6 T. Flex 16V 5P|Masculino, 50 anos|Pernambuco|R$ 1.118,99|
-
 |Crossfox 1.6 16V T.Flex A G 4P|Feminino, 49 anos|Para&iacute;ba|R$ 2.018,07|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Crossfox 2015
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Crossfox 1.6 T. Flex 16V 5P|Masculino, 29 anos|Paran&aacute;|R$ 2.967,71|
-
 |Crossfox I Motion 1.6 T. Flex 16V 5P|Masculino, 64 anos|Para&iacute;ba|R$ 2.279,95|
-
 |Crossfox 1.6 Mi Total Flex 8V 5P|Feminino, 26 anos|Cear&aacute;|R$ 1.720,03|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Crossfox 2014
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Crossfox I Motion 1.6 Mi T. Flex 8V 5P|Feminino, 45 anos|Paran&aacute;|R$ 1.345,54|
-
 |Crossfox 1.6 Mi Total Flex 8V 5P|Feminino, 53 anos|Bahia|R$ 2.060,63|
-
 |Crossfox 1.6 Mi Total Flex 8V 5P|Masculino, 63 anos|Minas Gerais|R$ 1.280,00|
 
 ## Como cotar o seguro do Crossfox
