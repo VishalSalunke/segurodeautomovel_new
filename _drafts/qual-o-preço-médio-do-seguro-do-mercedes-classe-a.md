@@ -92,3 +92,5 @@ Com base nos dados enviados ser&aacute; poss&iacute;vel fazer uma proposta que c
 Depois de receber &eacute; s&oacute; escolher a que mais interessar e fazer a ades&atilde;o do seu seguro. Tudo isso sem sair de casa e gratuitamente.
 
 Depois de saber disso n&atilde;o ter&aacute; que se basear apenas pelo pre&ccedil;o m&eacute;dio do seguro do Mercedes Classe A, pois saber&aacute; quanto pagar por essa prote&ccedil;&atilde;o.
+
+\*Fonte: MeuSeguroNovo. Consulta realizada em Novembro/2018<br>\*SeguroAutomovel.org n&atilde;o se responsabiliza pelos valores aqui mencionados, visto que o pre&ccedil;o do seguro pode variar conforme o perfil de cada motorista.
