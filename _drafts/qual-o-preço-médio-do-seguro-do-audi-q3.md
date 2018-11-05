@@ -59,21 +59,15 @@ Se a inten&ccedil;&atilde;o &eacute; apenas ter uma ideia de pre&ccedil;o, veja 
 ### Pre&ccedil;o m&eacute;dio do seguro do Audi Q3 2016
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Audi Q3 2.0 16V Tfsi Quattro 170 Cv S Tronic 5P|Masculino, 80 anos|Minas Gerais|R$ 5.441,12|
-
 |Audi Rs Q3 2.5 Quat. 310Cv Tip|Feminino, 43 anos|Minas Gerais|R$ 8.502,66|
-
 |Audi Q3 2.0 Tfsi|Masculino, 47 anos|Minas Gerais|R$ 4.969,26|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Audi Q3 2014 e 2015
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Audi Q3 2.0 Tfsi Quatt.170 180Cv Stron 2015|Feminino, 31 anos|Minas Gerais|R$ 5.399,68|
-
 |Audi Q3 2.0 16V Tfsi Quattro 170Cv S Tronic 2015|Feminino, 30 anos|Minas Gerais|R$ 6.193,80|
-
 |Audi Q3 2.0 16V Tfsi Quattro 170Cv S Tronic 2014|Masculino, 41 anos|Minas Gerais|R$ 2.600,73|
 
 ## Como cotar o seguro do Audi Q3
