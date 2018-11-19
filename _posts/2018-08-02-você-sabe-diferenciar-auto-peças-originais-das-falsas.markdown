@@ -26,19 +26,19 @@ Imagine-se na seguinte situa&ccedil;&atilde;o: alguns dias antes de viajar com a
 
 Voc&ecirc; fica chateado, porque os gastos com a viagem j&aacute; s&atilde;o altos, e agora aparece mais essa despesa… at&eacute; que o seu mec&acirc;nico te fala que consegue uma pe&ccedil;a baratinha, que resolver&aacute; todos os seus problemas.
 
-● Ser&aacute; que &eacute; uma boa ideia?
+### Ser&aacute; que &eacute; uma boa ideia?
 
 Nesse caso, o que parece ser uma economia acaba por desvalorizar seu autom&oacute;vel! Isso acontece porque pe&ccedil;as falsas se desgastam mais facilmente, podem levar outras partes do ve&iacute;culo a sobreuso, muitas vezes apresentam defeitos imprevistos e, assim, seu carro ser&aacute; menos visado em caso de revenda.
 
 Al&eacute;m disso, auto pe&ccedil;as falsas tendem a apresentar mais problemas, ou seja, mais gastos com mec&acirc;nico, reparos, pe&ccedil;as novas… sem contar o quanto isso pode ser prejudicial ao seu conforto, tranquilidade e &agrave; seguran&ccedil;a de sua fam&iacute;lia!
 
-Qual &eacute; o problema das pe&ccedil;as falsas?
+## Qual &eacute; o problema das pe&ccedil;as falsas?
 
 Sabe como as pe&ccedil;as falsas podem ser mais baratas do que as originais? Por meio de economias na produ&ccedil;&atilde;o desses itens e na redu&ccedil;&atilde;o de confortos a voc&ecirc;, consumidor! O custo das pe&ccedil;as &eacute; mais baixo porque elas s&atilde;o produtos inferiores, de menor durabilidade.
 
 A fabrica&ccedil;&atilde;o dos itens falsos &eacute; menos dispendiosa porque os materiais utilizados s&atilde;o de menor qualidade e os crit&eacute;rios de seguran&ccedil;a s&atilde;o muito menores. Al&eacute;m disso, voc&ecirc; abre m&atilde;o de garantia e assist&ecirc;ncia especializada.
 
-● Pe&ccedil;as baratas que custam caro!
+### Pe&ccedil;as baratas que custam caro!
 
 Materiais de fabrica&ccedil;&atilde;o mais baratos t&ecirc;m resist&ecirc;ncia consideravelmente inferior aos seus similares mais caros. Devido &agrave; qualidade reduzida, pe&ccedil;as falsas apresentam mais problemas do que as que s&atilde;o certificadas e t&ecirc;m menor durabilidade.
 
@@ -46,7 +46,7 @@ Por isso, voc&ecirc; precisar&aacute; troc&aacute;-las com uma frequ&ecirc;ncia 
 
 Sem contar no dano &agrave; seguran&ccedil;a: a falha de uma pe&ccedil;a automotiva pode causar acidentes! Isso aumentaria o custo do conserto: para al&eacute;m de um item, voc&ecirc; teria despesas com pintura, lataria, outras pe&ccedil;as e, possivelmente, outros ve&iacute;culos envolvidos na situa&ccedil;&atilde;o.
 
-● Um carro com pe&ccedil;as falsas &eacute; um carro pior
+### Um carro com pe&ccedil;as falsas &eacute; um carro pior
 
 Outro ponto a ser considerado &eacute; o valor de revenda do seu autom&oacute;vel, que pode cair muito devido ao uso de pe&ccedil;as falsas. Isso acontece porque, para compensar a qualidade sua qualidade inferior, elas exigir&atilde;o um desgaste maior das pe&ccedil;as originais.
 
@@ -64,7 +64,7 @@ Se um produto &eacute; vendido por um valor consideravelmente abaixo da m&eacute
 
 Por isso, pre&ccedil;os baixos demais s&atilde;o, definitivamente, um alerta vermelho! Lembre-se sempre: vale a pena gastar um pouco mais em um produto de qualidade, porque ele vai exigir menos manuten&ccedil;&atilde;o e ter&aacute; maior durabilidade!
 
-● H&aacute; alguma certifica&ccedil;&atilde;o de qualidade?
+### H&aacute; alguma certifica&ccedil;&atilde;o de qualidade?
 
 Sim! No ramo dos autom&oacute;veis h&aacute; um instituto que preza por produtos seguros, chamado Instituto de Qualidade Automotiva (IQA). De acordo com os padr&otilde;es estabelecidos por ele, &eacute; poss&iacute;vel identificar pe&ccedil;as de m&aacute; qualidade, como as falsas, &agrave;s quais o instituto se afirma contr&aacute;rio.
 
