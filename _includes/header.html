@@ -119,6 +119,10 @@ img.emoji {
         	external_comment_script_loaded = false;
 
         	$(window).scroll(function() {
+        		if(!$('#preloaded_comment_box').is(":visible")){
+        			return;
+        		}
+
                   var hT = $('#preloaded_comment_box').offset().top,
                   hH = $('#preloaded_comment_box').outerHeight(),
                   wH = $(window).height(),
