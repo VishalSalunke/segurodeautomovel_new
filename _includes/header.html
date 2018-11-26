@@ -113,7 +113,38 @@ img.emoji {
   ul.pager li {display: inline;border: 1px solid #366c73; padding: 10px; margin: 5px;}
 
         </style>
+   <script  src="https://code.jquery.com/jquery-1.12.4.js"
+   integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+        	external_comment_script_loaded = false;
 
+        	$(window).scroll(function() {
+                  var hT = $('#preloaded_comment_box').offset().top,
+                  hH = $('#preloaded_comment_box').outerHeight(),
+                  wH = $(window).height(),
+                  wS = $(this).scrollTop();
+                  
+                  console.log((hT-wH) , wS);
+                 if (wS > (hT+hH-wH) && !external_comment_script_loaded){
+                 	    
+                 	      external_comment_script_loaded = true;
+                          console.log('you have scrolled to the comments!');
+                     var url = "https://unpkg.com/commentbox.io/dist/commentBox.min.js";
+                     $.getScript(url)
+                      .done(function( script, textStatus ) {
+                              console.log( " comment scipt loaded successfully" );
+                              $("#preloaded_comment_box").hide();
+                              commentBox('5729450050191360-proj');
+                        })                  
+                      .fail(function( jqxhr, settings, exception ) {
+                           console.log( "commnet script loading failed" );
+                        });    
+                      
+                      
+                  }
+            });
+
+        </script>
 
 	</head>
 	<body class="{{layout.class}}">
