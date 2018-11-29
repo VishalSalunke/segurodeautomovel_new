@@ -33,7 +33,7 @@ dpsp_networks_shares_total:
 - '0'
 dpsp_networks_shares_last_updated:
 - '1515437150'
-image: "/wp-content/uploads/2016/06/seguro-auto-banrisul.jpg"
+image: "/wp-content/uploads/2016/06/Seguro-auto-Banrisul.jpg"
 image_width: '456'
 image_height: '304'
 thumbnail_80x80: "/wp-content/uploads/2016/06/seguro-auto-banrisul-80x80.jpg"
@@ -70,7 +70,7 @@ Seu carro é financiado? Não se preocupe porque o Banrisul oferece, por meio do
 
 ## Qual o valor do seguro auto pelo banco Banrisul?
 
-<a href="/wp-content/uploads/2016/06/seguro-auto-banrisul.jpg" rel="attachment wp-att-2540"><img class="alignleft wp-image-2540" title="Seguro auto Banrisul" src="/wp-content/uploads/2016/06/seguro-auto-banrisul.jpg" alt="Seguro auto Banrisul" width="470" height="201" /></a>O Banrisul oferece o seguro auto com amplas coberturas, onde você pode escolher diversas opções de garantias e tudo com excelentes descontos. Ao contratar o seguro auto, o valor é calculado conforme as informações sobre os seus dados pessoais e de seu veículo, além de informações pertinentes à contratação, como local onde mora, rotina, tempo de carteira de motorista, entre outras.
+<a href="/wp-content/uploads/2016/06/Seguro-auto-Banrisul.jpg" rel="attachment wp-att-2540"><img class="alignleft wp-image-2540" title="Seguro auto Banrisul" src="/wp-content/uploads/2016/06/Seguro-auto-Banrisul.jpg" alt="Seguro auto Banrisul" width="470" height="201" /></a>O Banrisul oferece o seguro auto com amplas coberturas, onde você pode escolher diversas opções de garantias e tudo com excelentes descontos. Ao contratar o seguro auto, o valor é calculado conforme as informações sobre os seus dados pessoais e de seu veículo, além de informações pertinentes à contratação, como local onde mora, rotina, tempo de carteira de motorista, entre outras.
 
 Independente dessas informações e do tipo de contratação que você optar (coberturas), o banco oferece os preços mais acessíveis e planos adequados ao seu perfil, todos com vigência de até 5 anos. Os planos são perfeitos tanto para veículos de passeio como de carga e você pode optar por duas formas de contratação: Valor Determinado (indicado por você) ou Valor de Mercado Referenciado (<a href="http://veiculos.fipe.org.br/" target="_blank">Tabela FIPE</a>).
 

@@ -11,9 +11,24 @@ module Jekyll
       # Needed for posts with permalink
       @url = dir
       @name = 'index.html'
-      
-     image_path = string_between_markers(post.to_s,'[](/uploads/' , ')')  rescue nil
-
+      image_path = nil
+      [".png",".jpg", ".jpeg",".gif"].each do |f|
+        next if !image_path.nil?
+        image_path = string_between_markers(post.to_s,'(/uploads/' , f)  rescue nil
+        image_path += f if !image_path.nil?        
+      end
+      puts "--------#{image_path}----------"
+     # image_path += '.png' if !image_path.nil?
+    
+     # image_path = (string_between_markers(post.to_s,'[](/uploads/' , '.jpg') rescue nil) if image_path.nil?
+     # image_path += '.jpg' if !image_path.nil?
+     
+     # image_path = (string_between_markers(post.to_s,'[](/uploads/' , '.jpeg') rescue nil) if image_path.nil?
+     # image_path += '.jpeg' if !image_path.nil?
+     
+     # image_path = (string_between_markers(post.to_s,'[](/uploads/' , '.gif') rescue nil) if image_path.nil?
+     # image_path += '.gif' if !image_path.nil?
+     
      return if image_path.nil?
      post.data["image_file_name"] = image_path
      puts "---------#{image_path}--------------"
@@ -23,7 +38,7 @@ module Jekyll
             post.data["og_image_width"]  = size[0]
             post.data["og_image_height"] = size[1]
           rescue Exception => e
-            puts 'Unable to get image dimensions for "' + src + '". For local files, build the site with \'--skip-initial-build\' for better results. [Error: ' + e.to_s + ']'
+            puts 'Unable to get image dimensions for "' + image_path + '". For local files, build the site with \'--skip-initial-build\' for better results. [Error: ' + e.to_s + ']'
           end
            
 

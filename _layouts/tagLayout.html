@@ -45,7 +45,7 @@ class: home page-template page-template-template_frontpage page-template-templat
                   <img src="{{Recentpost.thumbnail_80x80}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="{{Recentpost.thumbnail_80x80}} 80w,{{Recentpost.thumbnail_150x150}} 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
                </div>
 
-               {% else %}
+               {% elsif Recentpost.image_file_name %}
                   <div class="default-image">
                   <a href="{{Recentpost.url}}" title="{{Recentpost.title}}">
                   <img src="/uploads/thumbnail/{{Recentpost.image_file_name}}" class="attachment-home-featured size-home-featured wp-post-image" alt="" srcset="/uploads/thumbnail/{{Recentpost.image_file_name}} 80w,/uploads/large/{{Recentpost.image_file_name}} 150w" sizes="(max-width: 80px) 100vw, 80px" /></a>
