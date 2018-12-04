@@ -17,7 +17,7 @@ module Jekyll
         image_path = string_between_markers(post.to_s,'(/uploads/' , f)  rescue nil
         image_path += f if !image_path.nil?        
       end
-      puts "--------#{image_path}----------"
+    
      # image_path += '.png' if !image_path.nil?
     
      # image_path = (string_between_markers(post.to_s,'[](/uploads/' , '.jpg') rescue nil) if image_path.nil?
@@ -31,7 +31,7 @@ module Jekyll
      
      return if image_path.nil?
      post.data["image_file_name"] = image_path
-     puts "---------#{image_path}--------------"
+     
       begin
             image_path = 'uploads/' + image_path
             size = FastImage.size(image_path)
