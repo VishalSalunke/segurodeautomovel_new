@@ -25,20 +25,14 @@
 		
 
 	
-	 <script type='text/javascript' src='/resources/js/jquery.cookie.js'></script>
-     <script type='text/javascript' src='/resources/js/track_referrer.js?ver=4.9.5'></script>
-     <script type='text/javascript' src='/resources/js/hoverIntent.min.js'></script>
-
-     <script type='text/javascript'>
-               /* <![CDATA[ */
+         <script type='text/javascript'>
                var megamenu = {"timeout":"300","interval":"100"};
-               /* ]]> */
-     </script>
-     
-     <script type='text/javascript' src='/resources/js/maxmegamenu.js'></script>
-     <script type='text/javascript' src='/resources/js/wp-embed.min.js'></script>
-      <script type='text/javascript' src='/resources/js/fscf-scripts.js'></script>
+         </script>
 
+     <!-- bundling javascripts -->
+               {% asset app.js %}
+      <!-- bundling javascripts ends-->
+     
 </body>
 
 </html>

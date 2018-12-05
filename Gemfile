@@ -27,6 +27,8 @@ group :jekyll_plugins do
   gem 'jekyll-minimagick'
   gem 'mini_magick'
   gem 'jekyll-cloudcannon-schedule'
+  gem 'jekyll-assets'
+  gem 'uglifier'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
