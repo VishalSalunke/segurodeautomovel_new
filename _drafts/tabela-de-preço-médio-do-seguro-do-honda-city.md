@@ -68,7 +68,7 @@ Al&eacute;m disso, com a m&eacute;dia de valores &eacute; poss&iacute;vel progra
 
 ## Como saber o valor exato do seguro?
 
-Quem j&aacute; decidiu por esse modelo de carro ou est&aacute; pensando nele precisar&aacute; fazer uma cota&ccedil;&atilde;o personalizada do seguro para ter acesso aos valores exatos e formas de pagamento.
+Quem j&aacute; decidiu por esse modelo de carro ou est&aacute; pensando nele precisar&aacute; fazer uma [cota&ccedil;&atilde;o personalizada do seguro](https://melhor.segurodeautomovel.org/) para ter acesso aos valores exatos e formas de pagamento.
 
 Uma forma de obter essa informa&ccedil;&atilde;o &eacute; fazendo uma pesquisa online em um site especializado em seguro.
 
