@@ -31,29 +31,19 @@ Para que se informe do pre&ccedil;o do seguro preparamos duas tabelas: uma com i
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro do Toyota Etios por ano
 
 |ANOS|PRE&Ccedil;O M&Eacute;DIO|
-
 |Todos os anos|R$ 2.300,00|
-
 |2018|R$ 2.900,00|
-
 |2017|R$ 2.500,00|
-
 |2016|R$ 2.400,00|
-
 |2015|R$ 2.300,00|
-
 |2014|R$ 2.200,00|
 
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro do Toyota Etios por vers&atilde;o
 
 |VERS&Atilde;O|PRE&Ccedil;O M&Eacute;DIO|
-
 |Etios Xs Sedan1.5 Flex 16V 4P Mec 4P|R$ 2.200,00|
-
 |Etios X 1.3 Flex 16V 5P Mec|R$ 2.300,00|
-
 |Etios Platinum Sed. 1.5 Flex 16V 4P Aut|R$ 4.100,00|
-
 |Etios Cross 1.5 Flex 16V 5P Mec|R$ 2.300,00|
 
 ## Por que consultar o pre&ccedil;o m&eacute;dio?
