@@ -74,6 +74,6 @@ Se deseja saber quanto custo o seguro para o seu perfil ter&aacute; que solicita
 
 Para cotar entre em um site especializado e preencha o formul&aacute;rio com todos os dados solicitados. Depois disso &eacute; s&oacute; aguardar para receber uma ou mais propostas.
 
-Aproveite que tem os dados da Tabela de pre&ccedil;o m&eacute;dio do seguro do Renault Logan e fa&ccedil;a uma cota&ccedil;&atilde;o agora para comparar os valores.
+Aproveite que tem os dados da Tabela de pre&ccedil;o m&eacute;dio do seguro do Renault Logan e [fa&ccedil;a uma cota&ccedil;&atilde;o](https://www.segurodeautomovel.org/cotacao-online-seguro-auto) agora para comparar os valores.
 
 \*Fonte: MeuSeguroNovo. Consulta realizada em Dezembro/2018<br>\*SeguroAutomovel.org n&atilde;o se responsabiliza pelos valores aqui mencionados, visto que o pre&ccedil;o do seguro pode variar conforme o perfil de cada motorista.
