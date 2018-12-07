@@ -125,7 +125,9 @@ p {
 }
 .busca {
 	float:left;
-	margin-bottom: 10px;	
+	margin-bottom: 10px;
+	    max-width: 350px;
+	display: none;
 }
 input[type="search"] {
     border: 2px solid #5ebdc9;
@@ -868,7 +870,7 @@ transform: rotate(-10deg);
 		    margin-right: 10px;   
 	}
 .busca {
-	
+	display: block;
 }
 .shortcuts .atalho {
 	width: 23%;
