@@ -33,29 +33,19 @@ Mesmo com essas mudan&ccedil;as &eacute; poss&iacute;vel ter uma boa ideia dos c
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro da Volkswagen Amarok por ano
 
 |ANOS|PRE&Ccedil;O M&Eacute;DIO|
-
 |Todos os anos|R$ 5.300,00|
-
 |2018|R$ 13.900,00|
-
 |2017|R$ 9.700,00|
-
 |2016|R$ 7.000,00|
-
 |2015|R$ 6.300,00|
-
 |2014|R$ 5.500,00|
 
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro da Volkswagen Amarok por vers&atilde;o
 
 |VERS&Atilde;O|PRE&Ccedil;O M&Eacute;DIO|
-
 |Amarok High Cd 2.0|R$ 5.700,00|
-
 |Amarok Highline Cd 2.0 16V Tdi 4X4 Dies|R$ 4.600,00|
-
 |Amarok Trendline Cd 2.0 16V Tdi 4X4 Dies|R$ 4.100,00|
-
 |Amarok Cab.Dupla 4Motion Se 2.0Tdi Dies. 4P|R$ 6.400,00|
 
 ## Por que consultar o pre&ccedil;o m&eacute;dio?
