@@ -48,91 +48,51 @@ O pre&ccedil;o m&eacute;dio do seguro de uma Zafira est&aacute; em torno de R$ 1
 
 ### Pre&ccedil;o m&eacute;dio do seguro da Zafira 2012
 
-|Modelo|Perfil do condutor|
+|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
 
-|Localidade|Pre&ccedil;o|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut 5P|Masculino, 50 anos|S&atilde;o Louren&ccedil;o Da Serra - SP|R$ 2.364,16|
 
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut 5P|Masculino, 50 anos|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 59 anos|Presidente Prudente - SP|R$ 1.908,30|
 
-|S&atilde;o Louren&ccedil;o Da Serra - SP|R$ 2.364,16|
+|Zafira Collection 2.0 Flexpower 8V Aut. 5P|Masculino, 74 anos|Bataguassu - MS|R$ 1.427,34|
 
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 59 anos|
-
-|Presidente Prudente - SP|R$ 1.908,30|
-
-|Zafira Collection 2.0 Flexpower 8V Aut. 5P|Masculino, 74 anos|
-
-|Bataguassu - MS|R$ 1.427,34|
-
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Masculino, 42 anos|
-
-|Belo Horizonte - Mg|R$ 1.559,48|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Masculino, 42 anos|Belo Horizonte - Mg|R$ 1.559,48|
 
 ### Pre&ccedil;o m&eacute;dio do seguro da Zafira 2011
 
-|Modelo|Perfil do Condutor|
+|Modelo|Perfil do Condutor|Localidade|Pre&ccedil;o|
 
-|Localidade|Pre&ccedil;o|
+|Zafira Express 2.0 T. Flex|Feminino, 40 anos|Alto Paraiso De Goias - GO|R$ 2.913,02|
 
-|Zafira Express 2.0 T. Flex|Feminino, 40 anos|
+|Zafira Elegance 2.0 8V Flexpower Aut.|Feminino, 76 anos| Curitiba - PR|R$ 1.156,79|
 
-|Alto Paraiso De Goias - GO|R$ 2.913,02|
+|Zafira Comfort 2.0 Mpfi Flexpower 8V 5P|Feminino, 60 anos|Niter&oacute;i - Rj|R$ 2.125,46|
 
-|Zafira Elegance 2.0 8V Flexpower Aut.|Feminino, 76 anos|
-
-|Curitiba - PR|R$ 1.156,79|
-
-|Zafira Comfort 2.0 Mpfi Flexpower 8V 5P|Feminino, 60 anos|
-
-|Niter&oacute;i - Rj|R$ 2.125,46|
-
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 44 anos|
-
-|Palotina - PR|R$ 1.479,18|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 44 anos|Palotina - PR|R$ 1.479,18|
 
 ### Pre&ccedil;o m&eacute;dio do seguro da Zafira 2010
 
-|Modelo|Perfil do condutor|
+|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
 
-|Localidade|Pre&ccedil;o|
+|Zafira Expression 2.0 8V Flex.Aut|Masculino, 51 anos|Jandira - SP|R$ 1.678,22|
 
-|Zafira Expression 2.0 8V Flex.Aut|Masculino, 51 anos|
+|Zafira Elegance 2.0 Mpfi Flexpower 8V 4P|Masculino, 59 anos|Maring&aacute; - PR|R$ 1.653,91|
 
-|Jandira - SP|R$ 1.678,22|
+|Zafira Expression 2.0 Mpfi Flex 5P Aut|Masculino, 38 anos|Adamantina - SP|R$ 1.742,18|
 
-|Zafira Elegance 2.0 Mpfi Flexpower 8V 4P|Masculino, 59 anos|
-
-|Maring&aacute; - PR|R$ 1.653,91|
-
-|Zafira Expression 2.0 Mpfi Flex 5P Aut|Masculino, 38 anos|
-
-|Adamantina - SP|R$ 1.742,18|
-
-|Zafira Elite 2.0 8V Aut. Flexp.140Cv Aut. 4P|Feminino, 36 anos|
-
-|S&atilde;o Jo&atilde;o Del Rei - MG|R$ 2.206,15|
+|Zafira Elite 2.0 8V Aut. Flexp.140Cv Aut. 4P|Feminino, 36 anos|S&atilde;o Jo&atilde;o Del Rei - MG|R$ 2.206,15|
 
 ### Pre&ccedil;o m&eacute;dio do seguro da Zafira 2009
 
-|Modelo|Perfil do condutor|
+|Modelo|Perfil do condutor|Localidade|Pre&ccedil;o
 
-|Localidade|Pre&ccedil;o|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Masculino, 40 anos|S&atilde;o Paulo - SP|R$ 2.136,81|
 
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Masculino, 40 anos|
+|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 38 anos|S&atilde;o Jos&eacute; Dos Pinhais - PR|R$ 1.376,90|
 
-|S&atilde;o Paulo - SP|R$ 2.136,81|
+|Zafira Elite 2.0 Mpfi Flexpower 8V Aut 5P|Masculino, 48 anos|Diadema - SP|R$ 2.379,30|
 
-|Zafira Expres. 2.0 Mpfi Flexpower 5P Aut|Feminino, 38 anos|
-
-|S&atilde;o Jos&eacute; Dos Pinhais - PR|R$ 1.376,90|
-
-|Zafira Elite 2.0 Mpfi Flexpower 8V Aut 5P|Masculino, 48 anos|
-
-|Diadema - SP|R$ 2.379,30|
-
-|Zafira Elite 2.0 8V Aut. Flexp.140Cv Aut. 4|Masculino, 54 anos|
-
-|Barbacena - MG|R$ 1.969,02|
+|Zafira Elite 2.0 8V Aut. Flexp.140Cv Aut. 4|Masculino, 54 anos|Barbacena - MG|R$ 1.969,02|
 
 ## Como cotar o seguro da Zafira
 
