@@ -33,7 +33,6 @@ Veja as tabelas de custos por ano e tamb&eacute;m de alguns modelos.
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro do Fiat Palio por ano
 
 |ANOS|PRE&Ccedil;O M&Eacute;DIO|
-
 |Todos os anos|R$ 1.900,00|
 |2018|R$ 3.100,00|
 |2017|R$ 3.000,00|
