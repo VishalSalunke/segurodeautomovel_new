@@ -35,27 +35,18 @@ Veja as tabelas de custos por ano e tamb&eacute;m de alguns modelos.
 |ANOS|PRE&Ccedil;O M&Eacute;DIO|
 
 |Todos os anos|R$ 1.900,00|
-
 |2018|R$ 3.100,00|
-
 |2017|R$ 3.000,00|
-
 |2016|R$ 2.500,00|
-
 |2015|R$ 2.300,00|
-
 |2014|R$ 2.300,00|
 
 ### Tabela de pre&ccedil;o m&eacute;dio do seguro do Fiat Palio por vers&atilde;o
 
 |VERS&Atilde;O|PRE&Ccedil;O M&Eacute;DIO|
-
 |Palio 1.0 Celeb. Economy F.Flex 8V 4P|R$ 1.400,00|
-
 |Palio Attractive 1.0 Evo Fire Flex 8V 5P|R$ 2.400,00|
-
 |Palio Sporting 1.6 Flex 5P|R$ 2.700,00|
-
 |Palio Way 1.0 Fire Flex 8V 5P|R$ 2.100,00|
 
 ## Por que consultar o pre&ccedil;o m&eacute;dio?
