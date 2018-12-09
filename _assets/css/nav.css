@@ -739,7 +739,7 @@
 #mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout.mega-menu-item-has-children>a.mega-menu-link:after,
 #mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout li.mega-menu-item-has-children>a.mega-menu-link:after,
 #mega-menu-wrap-header-menu #mega-menu-header-menu>li.mega-menu-item-has-children>a.mega-menu-link:after {
-	content: '\f140';
+	content: '\00bb';
 	display: inline-block;
 	font-family: dashicons;
 	margin: 0 0 0 6px;
@@ -763,7 +763,7 @@
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout.mega-menu-item-has-children.mega-toggle-on>a.mega-menu-link:after,
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout li.mega-menu-item-has-children.mega-toggle-on>a.mega-menu-link:after,
 	#mega-menu-wrap-header-menu #mega-menu-header-menu>li.mega-menu-item-has-children.mega-toggle-on>a.mega-menu-link:after {
-		content: '\f142';
+		content: '\00bb';
 	}
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout.mega-menu-item-has-children.mega-hide-sub-menu-on-mobile>a.mega-menu-link:after,
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout li.mega-menu-item-has-children.mega-hide-sub-menu-on-mobile>a.mega-menu-link:after,
@@ -786,7 +786,7 @@
 
 @media only screen and (max-width: 600px) {
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-item li.mega-menu-item-has-children>a.mega-menu-link:after {
-		content: '\f140';
+		content: '\00ab';
 	}
 }
 
@@ -820,7 +820,7 @@
 
 @media only screen and (max-width: 600px) {
 	#mega-menu-wrap-header-menu #mega-menu-header-menu li.mega-menu-flyout.mega-align-bottom-right li.mega-menu-item-has-children>a.mega-menu-link:after {
-		content: '\f140';
+		content: '\00ab';
 		float: right;
 	}
 }
