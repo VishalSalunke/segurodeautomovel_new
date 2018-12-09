@@ -1202,3 +1202,11 @@ a img.aligncenter {
 		page-break-after:avoid;
 	}
 }
+.marcas-03, .banner-homepage-03, .logo, .selecione-seta, .seta
+{ display: inline-block; background: url('../wp-content/themes/segurodeautomovel-html5/img/sprite1.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.marcas-03 { background-position: -5px -0px; width: 386px; height: 55px;     display: block; margin: 0 auto; max-width: 100%;}
+.banner-homepage-03 { background-position: -5px -60px; width: 200px; height: 259px; }
+.logo { background-position: -210px -60px; width: 110px; height: 87px; }
+.selecione-seta { background-position: -210px -152px; width: 68px; height: 50px; }
+.seta { background-position: -325px -60px; width: 60px; height: 110px; }
