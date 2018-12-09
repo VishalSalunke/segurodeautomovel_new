@@ -1210,3 +1210,33 @@ a img.aligncenter {
 .logo { background-position: -210px -60px; width: 110px; height: 87px; }
 .selecione-seta { background-position: -210px -152px; width: 68px; height: 50px; }
 .seta { background-position: -325px -60px; width: 60px; height: 110px; }
+
+.sidebar-widget .quadrado {
+			max-width: 100%;
+			background: #366c73;
+border-radius: 0;
+text-align: center;
+padding: 10px 10px 20px 10px;
+box-sizing: border-box;
+color: white;
+		}
+		.sidebar-widget .form-question {
+		max-width: 90%;
+			}
+		
+		.sidebar-widget .form-question select {
+			width: 100%;
+			background-color: white;
+		}
+		
+		.sidebar-widget .form-question .button {
+			width: 100%;
+		}
+		.sidebar-widget .pergunta {
+		font-size: 28px;
+			}
+		.sidebar-widget .questao {
+		font-size: 42px;
+font-weight: bold;
+margin-bottom: 10px;
+			}
