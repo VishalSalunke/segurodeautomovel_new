@@ -926,14 +926,13 @@
 
 #mega-menu-wrap-header-menu .mega-menu-toggle .mega-toggle-block-1:before {
 	content: '\00bb';
-	font-family: 'dashicons';
 	font-size: 24px;
 	margin: 0 0 0 5px;
 	color: #fff;
 }
 
 #mega-menu-wrap-header-menu .mega-menu-toggle.mega-menu-open .mega-toggle-block-1:before {
-	content: '\f153';
+	content: '\253';
 }
 
 #mega-menu-wrap-header-menu .mega-menu-toggle .mega-toggle-block-1:after {
