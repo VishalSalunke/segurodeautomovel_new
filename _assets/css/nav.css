@@ -932,7 +932,7 @@
 }
 
 #mega-menu-wrap-header-menu .mega-menu-toggle.mega-menu-open .mega-toggle-block-1:before {
-	content: '\253';
+	content: '\00ab';
 }
 
 #mega-menu-wrap-header-menu .mega-menu-toggle .mega-toggle-block-1:after {
