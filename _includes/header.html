@@ -84,7 +84,53 @@
                ul.pager li {display: inline;border: 1px solid #366c73; padding: 10px; margin: 5px;}
         </style>
  
-   
+    <script type="text/javascript">
+          window.onload = function(){
+                      // google analytics
+
+                      $.getScript("https://www.googletagmanager.com/gtag/js?id=UA-40364263-1")
+                      .done(function( script, textStatus ) {
+                               window.dataLayer = window.dataLayer || [];
+                              function gtag(){dataLayer.push(arguments);}
+                              gtag('event', 'page_view', { 'send_to': 'UA-40364263-1' });
+                              gtag('js', new Date());
+
+                              gtag('config', 'UA-40364263-1');
+                            })
+
+                      // google search box
+                       
+                           var cx = '015472545038987093395:uydzquwdxac';
+                           var gcse = document.createElement('script');
+                           gcse.type = 'text/javascript';
+                           gcse.async = true;
+                           gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                           var s = document.getElementsByTagName('script')[0];
+                           s.parentNode.insertBefore(gcse, s);
+                       
+
+
+
+                       // comment box
+                       $.getScript("https://unpkg.com/commentbox.io/dist/commentBox.min.js")
+                      .done(function( script, textStatus ) {
+
+                              console.log( " comment scipt loaded successfully" );
+                              $("#preloaded_comment_box").hide();
+                              commentBox('5729450050191360-proj');
+                        })                  
+                      .fail(function( jqxhr, settings, exception ) {
+
+                           console.log( "commnet script loading failed" );
+                        });  
+
+                      //boomr
+
+                      if(!window.BOOMR||!window.BOOMR.version){var e,t,n,o=document.createElement("iframe");o.src="javascript:false",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",(n=document.getElementsByTagName("script")[0]).parentNode.insertBefore(o,n);try{t=o.contentWindow.document}catch(n){e=document.domain,o.src="javascript:var d=document.open();d.domain='"+e+"';void(0);",t=o.contentWindow.document}t.open()._l=function(){var t=this.createElement("script");e&&(this.domain=e),t.id="boomr-if-as",t.src="https://www.ead.com.br/imageserver/common/sg/1.0/sg.min.js",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(t)},t.write('<body onload="document._l();">'),t.close()}
+
+          }
+   </script>
+
 	</head>
 	<body class="{{layout.class}}">
 
