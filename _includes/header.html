@@ -1,13 +1,12 @@
 <!doctype html>
 <html  lang="pt-BR">
 	<head>
-		<!-- seguroauto using jekyll-->
 		<meta  charset="UTF-8"> 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>{{page.title}}</title>
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
-        <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/favicon.ico" rel="shortcut icon">
-        <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+    <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/favicon.ico" rel="shortcut icon">
+    <link href="/wp-content/themes/segurodeautomovel-html5/img/icons/touch.png" rel="apple-touch-icon-precomposed">
 
          {% asset app.css %}
 
@@ -17,29 +16,12 @@
 		<meta property="title" content="{{page.title}}" />
 		<meta name="google-site-verification" content="tbCb-u_jMW9s8nmKjuT8OeOOFFBel-n8Oh_PzBzHkzY" />
 
-
-
-
-
-
-{% if page.isIndex %}
-<link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}/">	
-{% elsif page.path contains '_posts'%}
-<link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">	
+    {% if page.isIndex %}
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}/">	
+    {% elsif page.path contains '_posts'%}
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">	
     {% endif %}
 
-<!-- Google analytics-->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40364263-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('event', 'page_view', { 'send_to': 'UA-40364263-1' });
-  gtag('js', new Date());
-
-  gtag('config', 'UA-40364263-1');
-</script>
-<!-- google analytics ends-->
-<script>!function(){if(!window.BOOMR||!window.BOOMR.version){var e,t,n,o=document.createElement("iframe");o.src="javascript:false",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",(n=document.getElementsByTagName("script")[0]).parentNode.insertBefore(o,n);try{t=o.contentWindow.document}catch(n){e=document.domain,o.src="javascript:var d=document.open();d.domain='"+e+"';void(0);",t=o.contentWindow.document}t.open()._l=function(){var t=this.createElement("script");e&&(this.domain=e),t.id="boomr-if-as",t.src="https://www.ead.com.br/imageserver/common/sg/1.0/sg.min.js",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(t)},t.write('<body onload="document._l();">'),t.close()}}();</script>
 <!-- Yoast plugin -->
 <meta name="description" content="{{page.description}}"/>
 {% assign pageURL = page.url %}
@@ -85,66 +67,52 @@
 
 
 
-
-<!-- =====================   need to find wp_head() function logic ===================== -->
-		<!-- <?php wp_head(); ?> -->
-
-		<!-- <script>
-        // conditionizr.com
-        // configure environment tests
-        conditionizr.config({
-            assets: '<?php echo get_template_directory_uri(); ?>',
-            tests: {}
-        });
-        </script> -->
-
         <style type="text/css">
-        	<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
- ul.pager { text-align: center; list-style: none; font-size: 21px; font-weight: 700;margin: 30px 0;}
-  ul.pager li {display: inline;border: 1px solid #366c73; padding: 10px; margin: 5px;}
-
+               img.wp-smiley,
+               img.emoji {
+	                          display: inline !important;
+	                          border: none !important;
+	                          box-shadow: none !important;
+	                          height: 1em !important;
+	                          width: 1em !important;
+	                          margin: 0 .07em !important;
+	                          vertical-align: -0.1em !important;
+	                          background: none !important;
+	                          padding: 0 !important;
+                          }
+               ul.pager { text-align: center; list-style: none; font-size: 21px; font-weight: 700;margin: 30px 0;}
+               ul.pager li {display: inline;border: 1px solid #366c73; padding: 10px; margin: 5px;}
         </style>
-   <script  src="https://code.jquery.com/jquery-1.12.4.js"
-   integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
-        <script type="text/javascript">
-        	external_comment_script_loaded = false;
+ 
+    <script type="text/javascript">
+          window.onload = function(){
+                      // google analytics
 
-        	$(window).scroll(function() {
-        		if(!$('#preloaded_comment_box').is(":visible")){
-        			return;
-        		}
+                      $.getScript("https://www.googletagmanager.com/gtag/js?id=UA-40364263-1")
+                      .done(function( script, textStatus ) {
+                               window.dataLayer = window.dataLayer || [];
+                              function gtag(){dataLayer.push(arguments);}
+                              gtag('event', 'page_view', { 'send_to': 'UA-40364263-1' });
+                              gtag('js', new Date());
 
-                  var hT = $('#preloaded_comment_box').offset().top,
-                  hH = $('#preloaded_comment_box').outerHeight(),
-                  wH = $(window).height(),
-                  wS = $(this).scrollTop();
- 				
-                 if (wS > (hT+hH-wH) && !external_comment_script_loaded){
-                 	    
-                      load_commentbox_plugin();
-                      
-                  }
-            });
+                              gtag('config', 'UA-40364263-1');
+                            })
 
-        	function load_commentbox_plugin(){
+                      // google search box
+                       
+                           var cx = '015472545038987093395:uydzquwdxac';
+                           var gcse = document.createElement('script');
+                           gcse.type = 'text/javascript';
+                           gcse.async = true;
+                           gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                           var s = document.getElementsByTagName('script')[0];
+                           s.parentNode.insertBefore(gcse, s);
+                       
 
-                 	 external_comment_script_loaded = true;
-                     console.log('you have scrolled to the comments!');
-                     var url = "https://unpkg.com/commentbox.io/dist/commentBox.min.js";
-                    
-                     $.getScript(url)
+
+
+                       // comment box
+                       $.getScript("https://unpkg.com/commentbox.io/dist/commentBox.min.js")
                       .done(function( script, textStatus ) {
 
                               console.log( " comment scipt loaded successfully" );
@@ -155,18 +123,13 @@ img.emoji {
 
                            console.log( "commnet script loading failed" );
                         });  
-        	}
 
-            $(document).ready( function() {
+                      //boomr
 
-            	 $("#preloaded_comment_box").click( function() {
-            	 	load_commentbox_plugin();
+                      if(!window.BOOMR||!window.BOOMR.version){var e,t,n,o=document.createElement("iframe");o.src="javascript:false",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",(n=document.getElementsByTagName("script")[0]).parentNode.insertBefore(o,n);try{t=o.contentWindow.document}catch(n){e=document.domain,o.src="javascript:var d=document.open();d.domain='"+e+"';void(0);",t=o.contentWindow.document}t.open()._l=function(){var t=this.createElement("script");e&&(this.domain=e),t.id="boomr-if-as",t.src="https://www.ead.com.br/imageserver/common/sg/1.0/sg.min.js",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(t)},t.write('<body onload="document._l();">'),t.close()}
 
-                 });
-             
-             });		
-
-        </script>
+          }
+   </script>
 
 	</head>
 	<body class="{{layout.class}}">
@@ -200,7 +163,7 @@ img.emoji {
  -->
 
 
-		<script>
+	<!-- 	<script>
   (function() {
     var cx = '015472545038987093395:uydzquwdxac';
     var gcse = document.createElement('script');
@@ -210,7 +173,7 @@ img.emoji {
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
-</script>
+</script> -->
 <div class="busca">
 	<gcse:search></gcse:search>
 </div>

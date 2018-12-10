@@ -1,3 +1,4 @@
+//= require jquery.js
 //= require jquery.cookie.js
 //= require track_referrer.js
 //= require hoverIntent.min.js
