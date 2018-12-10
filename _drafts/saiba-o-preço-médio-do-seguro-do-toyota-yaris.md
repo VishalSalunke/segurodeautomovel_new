@@ -43,13 +43,9 @@ Lentid&atilde;o com o carro cheio
 Os valores m&eacute;dios para o seguro do Toyota Yaris est&atilde;o na faixa de R$ 851,60 a R$ 1.286,44. Como &eacute; um lan&ccedil;amento, ele n&atilde;o conta com uma evolu&ccedil;&atilde;o de pre&ccedil;os a qual possamos nos apegar. Vale lembrar que os valores pedidos pelas seguradoras podem sofrer altera&ccedil;&otilde;es de acordo com o perfil do condutor e localidade em que se encontra, por isso, esse pre&ccedil;os s&atilde;o base, mas &eacute; sua individualidade que deve gerar o montante final.
 
 |Modelo|Localidade|Pre&ccedil;o|
-
 |Seguro Toyota YARIS XL 1.3 Flex 16V 5p Aut. 2019|Jacutinga - MG|R$ 860,00|
-
 |Seguro Toyota YARIS XL 1.3 Flex 16V 5p Aut. 2019|Francisco S&aacute; - MG|R$ 930,00|
-
 |Seguro Toyota YARIS XL 1.3 Flex 16V 5p Aut. 2019|Imb&eacute; - RS|R$ 1.100,00|
-
 |Seguro Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut. 2019|S&atilde;o Paulo - SP|R$ 1.130,00|
 
 ## Como cotar o seguro do Toyota yaris
