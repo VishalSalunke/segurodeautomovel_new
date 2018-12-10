@@ -32,7 +32,54 @@
      <!-- bundling javascripts -->
                {% asset app.js %}
       <!-- bundling javascripts ends-->
-     
+     <script type="text/javascript">
+     	      external_comment_script_loaded = false;
+
+        	  $(window).scroll(function() {
+        		     if(!$('#preloaded_comment_box').is(":visible")){
+        		  	 return;
+        		 }
+
+                  var hT = $('#preloaded_comment_box').offset().top,
+                  hH = $('#preloaded_comment_box').outerHeight(),
+                  wH = $(window).height(),
+                  wS = $(this).scrollTop();
+ 				
+                 if (wS > (hT+hH-wH) && !external_comment_script_loaded){
+                 	    
+                      load_commentbox_plugin();
+                      
+                  }
+            });
+
+        	function load_commentbox_plugin(){
+
+                 	 external_comment_script_loaded = true;
+                     console.log('you have scrolled to the comments!');
+                     var url = "https://unpkg.com/commentbox.io/dist/commentBox.min.js";
+                    
+                     $.getScript(url)
+                      .done(function( script, textStatus ) {
+
+                              console.log( " comment scipt loaded successfully" );
+                              $("#preloaded_comment_box").hide();
+                              commentBox('5729450050191360-proj');
+                        })                  
+                      .fail(function( jqxhr, settings, exception ) {
+
+                           console.log( "commnet script loading failed" );
+                        });  
+        	}
+
+            $(document).ready( function() {
+
+            	 $("#preloaded_comment_box").click( function() {
+            	 	load_commentbox_plugin();
+
+                 });
+             
+             });
+     </script>
 </body>
 
 </html>
