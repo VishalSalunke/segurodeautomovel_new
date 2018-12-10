@@ -59,37 +59,25 @@ O seguro do Fusca tem o pre&ccedil;o m&eacute;dio de R$ 4.700,00, um valor relat
 ### Pre&ccedil;o m&eacute;dio do seguro do Fusca 2015
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Fusca 2.0 Tsi 16V Aut|Masculino, 66 anos|Londrina -PR|R$ 4.254,89|
-
 |Fusca 2.0 Tsi 16V Aut.|Feminino, 23 anos|Curitiba - PR|R$ 4.453,90|
-
 |Fusca 2.0 Tsi 16V Aut.|Masculino, 24 anos|Curitiba - PR|R$ 5.832,96|
-
 |Fusca 2.0 Tsi 16V Aut.|Masculino, 53 anos|S&atilde;o Paulo - SP|R$ 4.337,87|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Fusca 2014
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Fusca 2.0 R Line Tsi 16V Aut.|Feminino, 52 anos|Curitiba - PR|R$ 2.328,48|
-
 |Fusca 2.0 Tsi 16V Aut|Masculino, 58 anos|Campinas - SP|R$ 2.518,64|
-
 |Fusca 2.0 Tsi 2P 3P Aut. C&oacute;digo Ve&iacute;culo Ita|Feminino, 52 anos|Maring&aacute; - PR|R$ 3.349,10|
-
 |Fusca 2.0 Tsi 16V Aut|Masculino, 50 anos|Londrina - PR|R$ 3.769,15|
 
 ### Pre&ccedil;o m&eacute;dio do seguro do Fusca 2013
 
 |Modelo|Perfil do condutor|Localidade|Pre&ccedil;o|
-
 |Fusca 2.0 Tsi 16V Aut.|Masculino, 56 anos|Curitiba - PR|R$ 3.126,17|
-
 |Fusca 2.0 Tsi 16V At|Feminino, 33 anos|S&atilde;o Paulo - SP|R$ 7.115,16|
-
 |Fusca 2.0 Tsi 16V|Feminino, 33 anos|Santana De Parna&iacute;ba - SP|R$ 4.088,65|
-
 |Fusca 2.0 Tsi 16V At|Masculino, 79 anos|Itaocara - Rj|R$ 2.494,50|
 
 ## Como cotar o seguro do Fusca
