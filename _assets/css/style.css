@@ -439,6 +439,42 @@ width: 50px;
 .img-vantagem2 {
     	float:none !important;
 }
+
+.vantagem1 {
+
+    background-position: -5px -136px;
+    height: 47px;
+    float: left;
+    width: 50px;
+    background-size: 89px;
+
+}.vantagem12 {
+
+    background-position: -4px -176px;
+    width: 50px;
+    height: 54px;
+    float: left;
+    background-size: 84px;
+
+}
+.vantagem13 {
+
+    background-position: -5px -231px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-size: 87px;
+
+}
+.vantagem14 {
+
+    background-position: -5px -267px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-size: 83px;
+
+}
 .coberturas {
 	display:table;	
 	text-align:center;
@@ -1011,6 +1047,10 @@ height: 65px;
 .carro-assegurado {
     margin-left: 160px;
 }
+	.vantagem1 { background-position: -5px -234px; width: 91px; height: 86px; }
+.vantagem12 { background-position: -5px -325px; width: 91px; height: 86px; }
+.vantagem13 { background-position: -5px -416px; width: 91px; height: 86px; }
+.vantagem14 { background-position: -5px -507px; width: 91px; height: 86px; }
 .vantagem img {
     width: 100px;    
 }
@@ -1249,7 +1289,5 @@ margin-bottom: 10px;
 .mitsui-seguros { background-position: -5px -0px; width: 145px; height: 73px; }
 .maritima { background-position: -5px -78px; width: 133px; height: 73px; }
 .sulamerica { background-position: -5px -156px; width: 111px; height: 73px; }
-.vantagem1 { background-position: -5px -234px; width: 91px; height: 86px; }
-.vantagem12 { background-position: -5px -325px; width: 91px; height: 86px; }
-.vantagem13 { background-position: -5px -416px; width: 91px; height: 86px; }
-.vantagem14 { background-position: -5px -507px; width: 91px; height: 86px; }
+
+
