@@ -442,37 +442,37 @@ width: 50px;
 
 .vantagem1 {
 
-    background-position: -5px -136px;
+    background-position: -5px -136px !important;
     height: 47px;
     float: left;
     width: 50px;
-    background-size: 89px;
+    background-size: 89px !important;
 
 }.vantagem12 {
 
-    background-position: -4px -176px;
+    background-position: -4px -176px !important;
     width: 50px;
     height: 54px;
     float: left;
-    background-size: 84px;
+    background-size: 84px !important;
 
 }
 .vantagem13 {
 
-    background-position: -5px -231px;
+    background-position: -5px -231px !important;
     width: 50px;
     height: 50px;
     float: left;
-    background-size: 87px;
+    background-size: 87px !important;
 
 }
 .vantagem14 {
 
-    background-position: -5px -267px;
+    background-position: -5px -267px !important;
     width: 50px;
     height: 50px;
     float: left;
-    background-size: 83px;
+    background-size: 83px !important;
 
 }
 .coberturas {
@@ -1047,10 +1047,10 @@ height: 65px;
 .carro-assegurado {
     margin-left: 160px;
 }
-	.vantagem1 { background-position: -5px -234px; width: 91px; height: 86px; }
-.vantagem12 { background-position: -5px -325px; width: 91px; height: 86px; }
-.vantagem13 { background-position: -5px -416px; width: 91px; height: 86px; }
-.vantagem14 { background-position: -5px -507px; width: 91px; height: 86px; }
+	.vantagem1 { background-position: -5px -234px !important; width: 91px; height: 86px; background-size: auto !important; }
+.vantagem12 { background-position: -5px -325px !important; width: 91px; height: 86px; background-size: auto !important; }
+.vantagem13 { background-position: -5px -416px !important; width: 91px; height: 86px; background-size: auto !important; }
+.vantagem14 { background-position: -5px -507px !important; width: 91px; height: 86px; background-size: auto !important; }
 .vantagem img {
     width: 100px;    
 }
