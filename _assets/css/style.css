@@ -1244,7 +1244,7 @@ margin-bottom: 10px;
  
 .mitsui-seguros, .maritima, .sulamerica, .vantagem1, .vantagem2, 
 .vantagem3, .vantagem4
-{ display: inline-block; background: url('../wp-content/themes/segurodeautomovel-html5/img/sprite1.pngsprite2.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+{ display: inline-block; background: url('../wp-content/themes/segurodeautomovel-html5/img/sprite2.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
  
 .mitsui-seguros { background-position: -5px -0px; width: 145px; height: 73px; }
 .maritima { background-position: -5px -78px; width: 133px; height: 73px; }
