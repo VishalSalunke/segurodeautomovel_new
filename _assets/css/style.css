@@ -852,14 +852,17 @@ font-weight: bold
  
 .cobertura1, .cobertura2, .cobertura3, .cobertura4, .cobertura5, 
 .cobertura6
-{ display: inline-block; background: url('/wp-content/themes/segurodeautomovel-html5/img/sprites3.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+{ display: inline-block; background: url('/wp-content/themes/segurodeautomovel-html5/img/sprite3.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
  
-.cobertura1 { background-position: -5px -0px; width: 113px; height: 113px; float:left; }
-.cobertura2 { background-position: -123px -0px; width: 113px; height: 113px; float:left; }
-.cobertura3 { background-position: -5px -118px; width: 113px; height: 113px; float:left; }
-.cobertura4 { background-position: -123px -118px; width: 113px; height: 113px; float:left; }
-.cobertura5 { background-position: -5px -236px; width: 113px; height: 113px; float:left; }
-.cobertura6 { background-position: -123px -236px; width: 113px; height: 113px; float:left; }
+	
+   
+	
+.cobertura1 { background-position: -5px -0px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
+.cobertura2 { background-position: -81px -0px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
+.cobertura3 { background-position: -5px -75px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
+.cobertura4 { background-position: -83px -76px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
+.cobertura5 { background-position: -5px -149px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
+.cobertura6 { background-position: -77px -149px; width: 75px; height: 75px; background-size: 161px !important; float:left; }
 }
 
 /*------------------------------------*\
@@ -1057,6 +1060,12 @@ height: 65px;
 .outros-artigos {
     display: table;
 }
+	.cobertura1 { background-position: -5px -0px; width: 113px; height: 113px; float:left; background-size: auto !important; }
+.cobertura2 { background-position: -123px -0px; width: 113px; height: 113px; float:left; background-size: auto !important; }
+.cobertura3 { background-position: -5px -118px; width: 113px; height: 113px; float:left; background-size: auto !important; }
+.cobertura4 { background-position: -123px -118px; width: 113px; height: 113px; float:left; background-size: auto !important; }
+.cobertura5 { background-position: -5px -236px; width: 113px; height: 113px; float:left; background-size: auto !important; }
+.cobertura6 { background-position: -123px -236px; width: 113px; height: 113px; float:left; background-size: auto !important; }
 }
 
 @media only screen and (min-width:1140px) {
