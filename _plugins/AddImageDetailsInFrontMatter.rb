@@ -2,6 +2,7 @@ require 'fastimage'
 
 module Jekyll
   # Defines the base class of AMP posts
+  require_relative 'slugify_url'
   class ImagePost < Page
     
     def initialize(site, base, dir, post)
@@ -49,6 +50,13 @@ module Jekyll
     end
 
   end
+
+  class UrlGeneratorV1 < Page
+      def initialize(post) 
+            post.data["permalink"] = post.data["title"].urlize if post.data["permalink"].nil?
+      end
+  end 
+
   # Generates a new AMP post for each existing post
   class ImageProcessor < Generator
     priority :low
@@ -56,6 +64,7 @@ module Jekyll
       dir = 'uploads'
       site.posts.docs.each do |post|
          ImagePost.new(site, site.source, dir, post)
+         UrlGeneratorV1.new(post)
       end
     end
   end
