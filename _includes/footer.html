@@ -56,37 +56,42 @@
 
                  	 external_comment_script_loaded = true;
                      console.log('you have scrolled to the comments!');
-                     //var url = "https://unpkg.com/commentbox.io/dist/commentBox.min.js";
+
+                     
+                     var url = "https://unpkg.com/commentbox.io/dist/commentBox.min.js";
                     
-                     // $.getScript(url)
-                     //  .done(function( script, textStatus ) {
-
-                     //          console.log( " comment scipt loaded successfully" );
-                     //          $("#preloaded_comment_box").hide();
-                     //          commentBox('5729450050191360-proj');
-                     //    })                  
-                     //  .fail(function( jqxhr, settings, exception ) {
-
-                     //       console.log( "commnet script loading failed" );
-                     //    });  
-                     var disqus_config = function () {
-                                    this.page.url = window.location.href;  // Replace PAGE_URL with your page's canonical URL variable
-                                    this.page.identifier = window.location.href; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-                                    this.page.title = $(document).find("title").text();
-                                }; 
-                     var url = "//www-segurodeautomovel-org.disqus.com/embed.js";
-
-                       $.getScript(url)
+                     $.getScript(url)
                       .done(function( script, textStatus ) {
 
                               console.log( " comment scipt loaded successfully" );
                               $("#preloaded_comment_box").hide();
-                              //commentBox('5729450050191360-proj');
+                              commentBox('5729450050191360-proj');
                         })                  
                       .fail(function( jqxhr, settings, exception ) {
 
                            console.log( "commnet script loading failed" );
-                        }); 
+                        });  
+
+
+                     // var disqus_config = function () {
+                     //                this.page.url = window.location.href;  // Replace PAGE_URL with your page's canonical URL variable
+                     //                this.page.identifier = window.location.href; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                     //                this.page.title = $(document).find("title").text();
+                     //            }; 
+                     // var url = "//www-segurodeautomovel-org.disqus.com/embed.js";
+
+                     //   $.getScript(url)
+                     //  .done(function( script, textStatus ) {
+
+                     //          console.log( " comment scipt loaded successfully" );
+                     //          $("#preloaded_comment_box").hide();
+                     //          //commentBox('5729450050191360-proj');
+                     //    })                  
+                     //  .fail(function( jqxhr, settings, exception ) {
+
+                     //       console.log( "commnet script loading failed" );
+                     //    }); 
+
         	}
 
             $(document).ready( function() {
