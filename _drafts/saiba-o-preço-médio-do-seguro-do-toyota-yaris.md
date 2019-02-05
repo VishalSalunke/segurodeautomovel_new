@@ -16,7 +16,7 @@ tags:
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A beleza do Yaris destaca-se dentro da categoria em que &eacute; vendido, afinal, muitos louvam a Toyota pela qualidade com a montagem de seus carros, aliar a est&eacute;tica a uma sacada de mestre para dar maior visibilidade a esse modelo. </font></font>
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detalhes</font></font></font><font style="vertical-align: inherit;">Neste artigo, voc&ecirc; vai saber sobre o pre&ccedil;o m&eacute;dio do seguro do Toyota Yaris para ter uma no&ccedil;&atilde;o do que &eacute; mais dif&iacute;cil com a seguran&ccedil;a do ve&iacute;culo.</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neste artigo, voc&ecirc; vai saber sobre o pre&ccedil;o m&eacute;dio do seguro do Toyota Yaris para ter uma no&ccedil;&atilde;o do que &eacute; mais dif&iacute;cil com a seguran&ccedil;a do ve&iacute;culo.</font></font>
 
 ![Saiba o preço médio do seguro do Toyota Yaris](/uploads/saiba-o-preco-medio-do-seguro-do-toyota-yaris-1.jpg "Saiba o preço médio do seguro do Toyota Yaris")
 
@@ -48,7 +48,7 @@ tags:
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Os valores m&eacute;dios para o seguro do Toyota Yaris est&atilde;o na faixa de R $ 851,60 a R $ 1.286,44. </font><font style="vertical-align: inherit;">Como &eacute; um lan&ccedil;amento, ele n&atilde;o conta com uma evolu&ccedil;&atilde;o de pre&ccedil;os a qual nos pr&oacute;ximos. </font></font>
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detalhes</font></font></font><font style="vertical-align: inherit;">Vale lembrar o que &eacute; o grau de indu&ccedil;&atilde;o de um prospecto com as regras de conformidade com o perfil do condutor e a localidade em que se encontrar, por esse, os pre&ccedil;os s&atilde;o base, mas &eacute; sua individualidade que deve gerar o montante final.</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vale lembrar o que &eacute; o grau de indu&ccedil;&atilde;o de um prospecto com as regras de conformidade com o perfil do condutor e a localidade em que se encontrar, por esse, os pre&ccedil;os s&atilde;o base, mas &eacute; sua individualidade que deve gerar o montante final.</font></font>
 
 | **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modelo</font></font>** | **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Localidade</font></font>** | **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pre&ccedil;o</font></font>** |
 | <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguro Toyota YARIS XL 1.3 Flex 16V 5p Aut. </font><font style="vertical-align: inherit;">2019</font></font> | <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jacutinga - MG</font></font> | <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R$ 860,00</font></font> |
